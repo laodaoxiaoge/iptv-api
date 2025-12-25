@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-25 06:35:20,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-12-25 18:38:41,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1640,10 +1640,10 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 金鹰纪实,https://stream1.freetv.fun/jin-ying-ji-shi-22.ctv
 金鹰纪实,https://stream1.freetv.fun/jin-ying-ji-shi-37.m3u8
 金鹰纪实,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226668/index.m3u8
+金鹰纪实,https://stream1.freetv.fun/jin-ying-ji-shi-41.m3u8
 金鹰纪实,https://stream1.freetv.fun/jin-ying-ji-shi-35.m3u8
 金鹰纪实,https://stream1.freetv.fun/jin-ying-ji-shi-2.ctv
 金鹰纪实,https://stream1.freetv.fun/jin-ying-ji-shi-9.m3u8
-金鹰纪实,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000334/index.m3u8?IASHttpSessionId=
 湖南金鹰纪实,http://yc.myds.me:35455/itv/5000000011000031203.m3u8?cdn=bestzb
 湖南金鹰纪实,http://nas.suntao.online:35455/itv/5000000011000031203.m3u8?cdn=bestzb
 湖南金鹰纪实,https://stream1.freetv.fun/jin-ying-ji-shi-23.m3u8
@@ -3089,8 +3089,10 @@ IPTV经典电影,http://tv.zhangzp.top:4022/udp/239.125.1.28:5000?id=iptvjddy&ap
 无线星河,https://smt.1678520.xyz/smt3.2.1.php?id=Xinhe
 无线星河,https://cdn6.101.qzz.io/163189/tvbxh
 无线星河,https://smt.1789.dpdns.org/smt3.2.1.php?id=Xinhe
+无线星河,http://php.jdshipin.com/PLTV/iptv.php?id=tvbxh
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-12.m3u8
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-4.ctv
+星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-14.m3u8
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-11.m3u8
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-10.m3u8
 星空卫视,http://php.jdshipin.com/TVOD/iptv.php?id=xkws
@@ -3098,7 +3100,6 @@ IPTV经典电影,http://tv.zhangzp.top:4022/udp/239.125.1.28:5000?id=iptvjddy&ap
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-11.ctv
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-13.m3u8
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-1.m3u8
-星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-14.m3u8
 东森电影,http://mytv.cdn.com.mp/live/dsdy/stream.m3u8
 东森电影,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-6.ctv
