@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-29 18:40:07,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-12-30 06:34:48,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -2853,6 +2853,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 哈尔滨娱乐,https://stream1.freetv.fun/ha-er-bin-yu-le-1.m3u8
 哈尔滨娱乐,https://stream1.freetv.fun/ha-er-bin-yu-le-2.m3u8
 哈尔滨娱乐,https://stream1.freetv.fun/ha-er-bin-yu-le-3.m3u8
+哈尔滨娱乐,https://stream1.freetv.fun/ha-er-bin-yu-le-4.m3u8
 大庆新闻综合,https://stream1.freetv.fun/da-qing-xin-wen-zong-he-1.m3u8
 大庆新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226484/index.m3u8
 大庆公共,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226525/index.m3u8
