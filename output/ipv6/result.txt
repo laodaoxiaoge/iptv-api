@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-11 06:34:54,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-01-11 18:37:24,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -3616,6 +3616,8 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 新动漫,https://tv.iill.top/migu/xdm&token=7ce15d51da8e60be86cc1bde4d856274b2bd781528e9f64ff1d7d9370b9d7268
 新动漫,https://migu.188766.xyz/?migutoken=0fb66d5ac60022ceda271785fba4e744&id=%E6%96%B0%E5%8A%A8%E6%BC%AB&type=yy
 新动漫,https://tv.iill.top/migu/xdm&token=0749f23d5e878af0a55d054879eccdba22a00cca8f13177bf8d0007c856ca9b9
+新动漫,https://migu.188766.xyz/?migutoken=e30673f8e72e759480f22426e2b8a6ec&id=%E6%96%B0%E5%8A%A8%E6%BC%AB&type=yy
+新动漫,https://tv.iill.top/migu/xdm&token=ea4803836ab3759697c651bbaf9b16d10a6339fab2e1a980e276b15296478409
 青春动漫,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288008/index.m3u8?channel-id=bestzb&Contentid=5000000011000288008&livemode=1&stbId=YanG-1989
 青春动漫,https://live.v1.mk/api/bestv.php?id=qcdm8m/8000000
 青春动漫,https://live.metshop.top/bestv.php?id=qcdm8m/8000000
@@ -3826,6 +3828,7 @@ CCTV-15,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 封神榜,http://live.iill.top/huya.php?id=23749096
 封神榜,https://live.iill.top/huya/29465849
 闯关东,https://yylunbo.ottiptv.cc/yy/1382626335
+闯关东,https://yylunbo.ottiptv.cc/yy/1383546866
 上海滩,http://luobo.bkpcp.top/yy/1382745184
 上海滩,http://live.iill.top/yy.php?id=1382745184
 上海滩,https://live.metshop.top/yy/1382745184
