@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-14 06:37:49,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-01-14 18:42:29,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -3875,6 +3875,7 @@ CCTV-15,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 水浒传,https://yylunbo.ottiptv.cc/yy/1353852605
 水浒传,https://yylunbo.ottiptv.cc/yy/1353873252
 水浒传,https://yylunbo.ottiptv.cc/yy/1507704566
+水浒传,https://yylunbo.ottiptv.cc/yy/1382768483
 新白娘子传奇,http://lu.wqwqwq.sbs/yy/1354490667
 新白娘子传奇,http://luobo.bkpcp.top/yy/1354490667
 新白娘子传奇,http://www.clmy.cc:35455/yy/1354490667
