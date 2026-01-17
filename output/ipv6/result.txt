@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-17 18:38:53,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-01-18 06:35:47,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -3768,6 +3768,7 @@ CN卡通,https://hls-gateway.vpstv.net/streams/476247.m3u8
 海绵宝宝,https://stream1.freetv.fun/hai-mian-bao-bao-3.ctv
 海绵宝宝,https://t.freetv.fun/live/hai-mian-bao-bao.m3u8
 海绵宝宝,https://t.freetv.fun/live/hai-mian-bao-bao-1.m3u8
+海绵宝宝,https://t.freetv.fun/live/hai-mian-bao-bao-1.php
 中华小当家,https://live.metshop.top/huya/11342413
 中华小当家,https://live.iill.top/huya/11342413
 中华小当家,https://live.ottiptv.cc/huya/11342413
@@ -3780,10 +3781,12 @@ CN卡通,https://hls-gateway.vpstv.net/streams/476247.m3u8
 猫和老鼠,http://aiony.top:35455/huya/11352879
 经典动漫,http://luobo.bkpcp.top/yy/24180320
 经典动漫,https://www.goodiptv.club/yy/22777075
+经典动漫,https://yylunbo.ottiptv.cc/yy/67857780
 蜡笔小新,https://stream1.freetv.fun/zha-bi-xiao-xin-6.m3u8
 蜡笔小新,http://aiony.top:35455/huya/11352970
 蜡笔小新,https://live.ottiptv.cc/bilibili/1817642775
 蜡笔小新,https://t.freetv.fun/live/zha-bi-xiao-xin.m3u8
+蜡笔小新,https://t.freetv.fun/live/zha-bi-xiao-xin-1.php
 漫画解说,http://luobo.bkpcp.top/yy/1382735568
 漫画解说,https://www.goodiptv.club/douyu/5907076
 漫画解说,https://mursor.ottiptv.cc/yy/1382735568
