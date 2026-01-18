@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/laodaoxiaoge/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-01-18 18:40:27
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-01-19 06:37:55
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -2711,6 +2711,8 @@ http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8?id=cqwztv2&app=com.jiaoxia
 http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8?id=cqwztv2&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1767556210&ev=20250113&sign=94c1b3739d089934e95369cd4dfcec4b
 #EXTINF:-1 tvg-name="万州三峡移民" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/万州三峡移民.png" group-title="☘️重庆频道",万州三峡移民
 http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8?id=cqwztv2&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768161089&ev=20250113&sign=494caa97b94cf13b323aa6be3969ab9e
+#EXTINF:-1 tvg-name="万州三峡移民" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/万州三峡移民.png" group-title="☘️重庆频道",万州三峡移民
+http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8?id=cqwztv2&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768765801&ev=20250113&sign=243346b16661553126cdb75fc675f14f
 #EXTINF:-1 tvg-name="东海新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东海新闻.png" group-title="☘️江苏频道",东海新闻
 http://iptv.666230.xyz/iptv/jsyd.php/jsdonghaixinwen
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/优漫卡通.png" group-title="☘️江苏频道",优漫卡通
@@ -2845,6 +2847,8 @@ http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8?id=jsrdtv1&app=com.jiaoxi
 http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8?id=jsrdtv1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1767556770&ev=20250113&sign=d7ea62092c0e085729d5bf6576607186
 #EXTINF:-1 tvg-name="如东新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/如东新闻综合.png" group-title="☘️江苏频道",如东新闻综合
 http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8?id=jsrdtv1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768161671&ev=20250113&sign=736227ba1f9c58e818efaa463972ce57
+#EXTINF:-1 tvg-name="如东新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/如东新闻综合.png" group-title="☘️江苏频道",如东新闻综合
+http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8?id=jsrdtv1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768766361&ev=20250113&sign=2e31de0874f2f6c4f4f75fcd063f2f83
 #EXTINF:-1 tvg-name="宜兴新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宜兴新闻.png" group-title="☘️江苏频道",宜兴新闻
 https://stream1.freetv.fun/yi-xing-xin-wen-1.m3u8
 #EXTINF:-1 tvg-name="宜兴新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宜兴新闻.png" group-title="☘️江苏频道",宜兴新闻
@@ -3041,6 +3045,8 @@ http://haian-tv-replay.cm.jstv.com/haian-tv/haaxwzh.m3u8?id=jsntha1&app=com.jiao
 http://haian-tv-replay.cm.jstv.com/haian-tv/haaxwzh.m3u8?id=jsntha1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1767556791&ev=20250113&sign=f20e71dc845f0b1cb54df0bcc541f19d
 #EXTINF:-1 tvg-name="海安新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海安新闻综合.png" group-title="☘️江苏频道",海安新闻综合
 http://haian-tv-replay.cm.jstv.com/haian-tv/haaxwzh.m3u8?id=jsntha1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768161693&ev=20250113&sign=7934ae686c7e1c1ed56bf83e2140d5b2
+#EXTINF:-1 tvg-name="海安新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海安新闻综合.png" group-title="☘️江苏频道",海安新闻综合
+http://haian-tv-replay.cm.jstv.com/haian-tv/haaxwzh.m3u8?id=jsntha1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768766383&ev=20250113&sign=fc0dd49899bd40259f7771cc6534cf5d
 #EXTINF:-1 tvg-name="涟水电视台综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/涟水电视台综合.png" group-title="☘️江苏频道",涟水电视台综合
 rtmp://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw
 #EXTINF:-1 tvg-name="涟水电视台综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/涟水电视台综合.png" group-title="☘️江苏频道",涟水电视台综合
@@ -3145,6 +3151,8 @@ http://ganyu-tv-replay.cm.jstv.com/ganyu-tv/ganyutv.m3u8?id=jsgytv1&app=com.jiao
 http://ganyu-tv-replay.cm.jstv.com/ganyu-tv/ganyutv.m3u8?id=jsgytv1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1767556832&ev=20250113&sign=3a4036ab53bc689501a47268b306be9a
 #EXTINF:-1 tvg-name="赣榆新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赣榆新闻综合.png" group-title="☘️江苏频道",赣榆新闻综合
 http://ganyu-tv-replay.cm.jstv.com/ganyu-tv/ganyutv.m3u8?id=jsgytv1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768161736&ev=20250113&sign=3db35eb7604b7b5402050b215430ac86
+#EXTINF:-1 tvg-name="赣榆新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赣榆新闻综合.png" group-title="☘️江苏频道",赣榆新闻综合
+http://ganyu-tv-replay.cm.jstv.com/ganyu-tv/ganyutv.m3u8?id=jsgytv1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768766426&ev=20250113&sign=708ea764aa7cc75b488f7171268c7122
 #EXTINF:-1 tvg-name="连云港公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/连云港公共.png" group-title="☘️江苏频道",连云港公共
 http://iptv.666230.xyz/iptv/jsyd.php/jslyggonggongpd
 #EXTINF:-1 tvg-name="连云港新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/连云港新闻综合.png" group-title="☘️江苏频道",连云港新闻综合
@@ -3843,6 +3851,8 @@ https://lmt.dazhutv.cn/live1/live1.m3u8?id=scdzdz1&app=com.jiaoxiang.fangnale&ve
 https://lmt.dazhutv.cn/live1/live1.m3u8?id=scdzdz1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1767558978&ev=20250113&sign=07fb0e28643c824d4cb425b24c183e1e
 #EXTINF:-1 tvg-name="大竹新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/大竹新闻综合.png" group-title="☘️四川频道",大竹新闻综合
 https://lmt.dazhutv.cn/live1/live1.m3u8?id=scdzdz1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768163981&ev=20250113&sign=fde3326fc8aff3b121ac2c9d82444900
+#EXTINF:-1 tvg-name="大竹新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/大竹新闻综合.png" group-title="☘️四川频道",大竹新闻综合
+https://lmt.dazhutv.cn/live1/live1.m3u8?id=scdzdz1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768768599&ev=20250113&sign=74baac4e2dcf1d154b07b90fe326c1f8
 #EXTINF:-1 tvg-name="宁南综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宁南综合.png" group-title="☘️四川频道",宁南综合
 http://iptv.666230.xyz/iptv/sxg.php/nnt_4000
 #EXTINF:-1 tvg-name="宜宾公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宜宾公共.png" group-title="☘️四川频道",宜宾公共
@@ -3861,6 +3871,8 @@ http://dcpull.sctvcloud.com/live/9d774482018e1000fec02f9500000000/playlist.m3u8?
 http://dcpull.sctvcloud.com/live/9d774482018e1000fec02f9500000000/playlist.m3u8?id=scbzpc1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1767559044&ev=20250113&sign=ad4931a48a6779ed672ddc2b65f5814a
 #EXTINF:-1 tvg-name="平昌新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/平昌新闻综合.png" group-title="☘️四川频道",平昌新闻综合
 http://dcpull.sctvcloud.com/live/9d774482018e1000fec02f9500000000/playlist.m3u8?id=scbzpc1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768164050&ev=20250113&sign=ffd6fd0799cb854d817c98d3aa8bf03a
+#EXTINF:-1 tvg-name="平昌新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/平昌新闻综合.png" group-title="☘️四川频道",平昌新闻综合
+http://dcpull.sctvcloud.com/live/9d774482018e1000fec02f9500000000/playlist.m3u8?id=scbzpc1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768768664&ev=20250113&sign=436382f9787bb995a1088bfaf7e7a45b
 #EXTINF:-1 tvg-name="平武综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/平武综合.png" group-title="☘️四川频道",平武综合
 http://iptv.666230.xyz/iptv/sxg.php/pwgq_4000
 #EXTINF:-1 tvg-name="广元综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广元综合.png" group-title="☘️四川频道",广元综合
@@ -3914,7 +3926,7 @@ https://quxian.pull.cditv.cn/live/gaoxin.flv?id=sccdgx1&app=com.jiaoxiang.fangna
 #EXTINF:-1 tvg-name="成都高新电视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/成都高新电视.png" group-title="☘️四川频道",成都高新电视
 https://quxian.pull.cditv.cn/live/gaoxin.flv?id=sccdgx1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768163950&ev=20250113&sign=9fa44849a56963be93bcb63b72e550e7
 #EXTINF:-1 tvg-name="成都高新电视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/成都高新电视.png" group-title="☘️四川频道",成都高新电视
-https://quxian.pull.cditv.cn/live/gaoxin.flv?id=sccdgx1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768163950&ev=20250113&sign=9fa44849a56963be93bcb63b72e550e7
+https://quxian.pull.cditv.cn/live/gaoxin.flv?id=sccdgx1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768768570&ev=20250113&sign=a19ccace27ee62273303e5b626b8b391
 #EXTINF:-1 tvg-name="新都综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新都综合.png" group-title="☘️四川频道",新都综合
 http://iptv.666230.xyz/iptv/sxg.php/xdzhpd_2000
 #EXTINF:-1 tvg-name="旺苍新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/旺苍新闻综合.png" group-title="☘️四川频道",旺苍新闻综合
@@ -3929,6 +3941,8 @@ http://channel.wcrmt.cn/nmip-media/channellive/channel105268/playlist.m3u8?id=sc
 http://channel.wcrmt.cn/nmip-media/channellive/channel105268/playlist.m3u8?id=scgywc1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1767559015&ev=20250113&sign=a9ab44b1da0d5bfe6ff8d94c0f9523bf
 #EXTINF:-1 tvg-name="旺苍新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/旺苍新闻综合.png" group-title="☘️四川频道",旺苍新闻综合
 http://channel.wcrmt.cn/nmip-media/channellive/channel105268/playlist.m3u8?id=scgywc1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768164020&ev=20250113&sign=f57773d15168c8d6b5a193995d83245a
+#EXTINF:-1 tvg-name="旺苍新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/旺苍新闻综合.png" group-title="☘️四川频道",旺苍新闻综合
+http://channel.wcrmt.cn/nmip-media/channellive/channel105268/playlist.m3u8?id=scgywc1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768768636&ev=20250113&sign=a3e058dd64c9727468f27aca50cbf7b1
 #EXTINF:-1 tvg-name="昭化综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/昭化综合.png" group-title="☘️四川频道",昭化综合
 http://iptv.666230.xyz/iptv/sxg.php/zhxwzh_2000
 #EXTINF:-1 tvg-name="朝天综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/朝天综合.png" group-title="☘️四川频道",朝天综合
@@ -3949,6 +3963,8 @@ http://live.spccmc.com:90/live/spxwzh.m3u8?id=scabsp1&app=com.jiaoxiang.fangnale
 http://live.spccmc.com:90/live/spxwzh.m3u8?id=scabsp1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1767559003&ev=20250113&sign=6942a3a6281e145abf6e90057a021740
 #EXTINF:-1 tvg-name="松潘新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/松潘新闻综合.png" group-title="☘️四川频道",松潘新闻综合
 http://live.spccmc.com:90/live/spxwzh.m3u8?id=scabsp1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768164007&ev=20250113&sign=f8bc87e40cde01d2630b9a3fcb99b0c3
+#EXTINF:-1 tvg-name="松潘新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/松潘新闻综合.png" group-title="☘️四川频道",松潘新闻综合
+http://live.spccmc.com:90/live/spxwzh.m3u8?id=scabsp1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768768623&ev=20250113&sign=d16e096998858ec1749efb8c6e50832b
 #EXTINF:-1 tvg-name="武胜综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武胜综合.png" group-title="☘️四川频道",武胜综合
 http://iptv.666230.xyz/iptv/sxg.php/wsxw_2000
 #EXTINF:-1 tvg-name="汉源综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/汉源综合.png" group-title="☘️四川频道",汉源综合
@@ -3999,6 +4015,8 @@ http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?id=scl
 http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?id=sclzlx1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1767559056&ev=20250113&sign=2696100c17b1b79dbea9bf1d0442752e
 #EXTINF:-1 tvg-name="泸县新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/泸县新闻综合.png" group-title="☘️四川频道",泸县新闻综合
 http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?id=sclzlx1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768164063&ev=20250113&sign=ad5704ccfa084418062562326544671f
+#EXTINF:-1 tvg-name="泸县新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/泸县新闻综合.png" group-title="☘️四川频道",泸县新闻综合
+http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?id=sclzlx1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768768676&ev=20250113&sign=3806a6140985dc986fa6b5351043403e
 #EXTINF:-1 tvg-name="甘孜综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/甘孜综合.png" group-title="☘️四川频道",甘孜综合
 https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
 #EXTINF:-1 tvg-name="盐亭综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/盐亭综合.png" group-title="☘️四川频道",盐亭综合
@@ -4039,6 +4057,8 @@ https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8?id=scnc
 https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8?id=scncys1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1767558996&ev=20250113&sign=a6eccf3fb2ee34b6d9a15543c9ea7e95
 #EXTINF:-1 tvg-name="营山电视台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/营山电视台.png" group-title="☘️四川频道",营山电视台
 https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8?id=scncys1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768163999&ev=20250113&sign=4a9aada50bff4f2c98018a993bd26aa3
+#EXTINF:-1 tvg-name="营山电视台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/营山电视台.png" group-title="☘️四川频道",营山电视台
+https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8?id=scncys1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768768616&ev=20250113&sign=67204709ef9cae055e0fe3765a9819e8
 #EXTINF:-1 tvg-name="蓬安新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/蓬安新闻综合.png" group-title="☘️四川频道",蓬安新闻综合
 https://stream1.freetv.fun/peng-an-xin-wen-zong-he-1.m3u8
 #EXTINF:-1 tvg-name="蓬安新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/蓬安新闻综合.png" group-title="☘️四川频道",蓬安新闻综合
@@ -4055,10 +4075,14 @@ http://palive.patv123.com:8091/live/xwpd_800K.m3u8?id=scncpa1&app=com.jiaoxiang.
 http://palive.patv123.com:8091/live/xwpd_800K.m3u8?id=scncpa1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1767558992&ev=20250113&sign=778d6104d3dbc731086774d9465b2b3a
 #EXTINF:-1 tvg-name="蓬安新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/蓬安新闻综合.png" group-title="☘️四川频道",蓬安新闻综合
 http://palive.patv123.com:8091/live/xwpd_800K.m3u8?id=scncpa1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768163995&ev=20250113&sign=35051988362d900cdf9b49785f1b8767
+#EXTINF:-1 tvg-name="蓬安新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/蓬安新闻综合.png" group-title="☘️四川频道",蓬安新闻综合
+http://palive.patv123.com:8091/live/xwpd_800K.m3u8?id=scncpa1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768768612&ev=20250113&sign=7d692282122fe0893b77c3abbda8500f
 #EXTINF:-1 tvg-name="西昌综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西昌综合.png" group-title="☘️四川频道",西昌综合
 http://iptv.666230.xyz/iptv/sxg.php/xctHD_2000
 #EXTINF:-1 tvg-name="邻水新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/邻水新闻综合.png" group-title="☘️四川频道",邻水新闻综合
 http://live2.gatv.com.cn:86/live/LS_HD.m3u8?id=scgals1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768164072&ev=20250113&sign=e9924618149dbc241ed027fac4a4b807
+#EXTINF:-1 tvg-name="邻水新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/邻水新闻综合.png" group-title="☘️四川频道",邻水新闻综合
+http://live2.gatv.com.cn:86/live/LS_HD.m3u8?id=scgals1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768768684&ev=20250113&sign=e9eac70bbe575677725fcb2d36af6dbf
 #EXTINF:-1 tvg-name="金口河综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金口河综合.png" group-title="☘️四川频道",金口河综合
 http://iptv.666230.xyz/iptv/sxg.php/jkhdst_2000
 #EXTINF:-1 tvg-name="金堂电视台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金堂电视台.png" group-title="☘️四川频道",金堂电视台
@@ -4072,7 +4096,7 @@ https://quxian.pull.cditv.cn/live/jintang.flv?id=sccdjt1&app=com.jiaoxiang.fangn
 #EXTINF:-1 tvg-name="金堂电视台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金堂电视台.png" group-title="☘️四川频道",金堂电视台
 https://quxian.pull.cditv.cn/live/jintang.flv?id=sccdjt1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768163953&ev=20250113&sign=8d00973d9beb20e75fc3225776cf9f82
 #EXTINF:-1 tvg-name="金堂电视台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金堂电视台.png" group-title="☘️四川频道",金堂电视台
-https://quxian.pull.cditv.cn/live/jintang.flv?id=sccdjt1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768163953&ev=20250113&sign=8d00973d9beb20e75fc3225776cf9f82
+https://quxian.pull.cditv.cn/live/jintang.flv?id=sccdjt1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768768573&ev=20250113&sign=77bd17ae883d0436cb6e2b4da0632de1
 #EXTINF:-1 tvg-name="金川新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金川新闻综合.png" group-title="☘️四川频道",金川新闻综合
 https://stream1.freetv.fun/jin-chuan-xin-wen-zong-he-1.m3u8
 #EXTINF:-1 tvg-name="金川新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金川新闻综合.png" group-title="☘️四川频道",金川新闻综合
@@ -4112,7 +4136,7 @@ https://quxian.pull.cditv.cn/live/longquanyi.flv?id=sccdlq1&app=com.jiaoxiang.fa
 #EXTINF:-1 tvg-name="龙泉驿新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙泉驿新闻综合.png" group-title="☘️四川频道",龙泉驿新闻综合
 https://quxian.pull.cditv.cn/live/longquanyi.flv?id=sccdlq1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768163955&ev=20250113&sign=80f0ab7a352b00de944032ce28c55771
 #EXTINF:-1 tvg-name="龙泉驿新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/龙泉驿新闻综合.png" group-title="☘️四川频道",龙泉驿新闻综合
-https://quxian.pull.cditv.cn/live/longquanyi.flv?id=sccdlq1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768163955&ev=20250113&sign=80f0ab7a352b00de944032ce28c55771
+https://quxian.pull.cditv.cn/live/longquanyi.flv?id=sccdlq1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768768575&ev=20250113&sign=f6e7cd9a7bc16c97243badd7b5e7ff1e
 #EXTINF:-1 tvg-name="陕西农林卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西农林卫视.png" group-title="☘️陕西频道",陕西农林卫视
 http://php.jdshipin.com/qly.php?id=6335
 #EXTINF:-1 tvg-name="陕西农林卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西农林卫视.png" group-title="☘️陕西频道",陕西农林卫视
@@ -4209,6 +4233,8 @@ http://live.zzyxxw.com:85/live/xwzh.m3u8?id=fjzzyx1&app=com.jiaoxiang.fangnale&v
 http://live.zzyxxw.com:85/live/xwzh.m3u8?id=fjzzyx1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1767556301&ev=20250113&sign=7db28c0d08d2e2eaf5bfc246809b8293
 #EXTINF:-1 tvg-name="云霄综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云霄综合.png" group-title="☘️福建频道",云霄综合
 http://live.zzyxxw.com:85/live/xwzh.m3u8?id=fjzzyx1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768161185&ev=20250113&sign=572bfc57e74dcffad00960d061f04e8a
+#EXTINF:-1 tvg-name="云霄综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云霄综合.png" group-title="☘️福建频道",云霄综合
+http://live.zzyxxw.com:85/live/xwzh.m3u8?id=fjzzyx1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768765892&ev=20250113&sign=139c1b59498113c5e4ae6bcff62e6dcc
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/厦门卫视.png" group-title="☘️福建频道",厦门卫视
 http://dsj.motem.top:8880/bptv/10000100000000050000000003887454.m3u8
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/厦门卫视.png" group-title="☘️福建频道",厦门卫视
@@ -4247,6 +4273,8 @@ http://live.zohi.tv/video/s10001-fztv-4/index.m3u8?id=fjfztv4&app=com.jiaoxiang.
 http://live.zohi.tv/video/s10001-fztv-4/index.m3u8?id=fjfztv4&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1767556262&ev=20250113&sign=ca20914d10733efd0ac8d180bd4ecb1c
 #EXTINF:-1 tvg-name="福州少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/福州少儿.png" group-title="☘️福建频道",福州少儿
 http://live.zohi.tv/video/s10001-fztv-4/index.m3u8?id=fjfztv4&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768161143&ev=20250113&sign=d4ed94c2951ab5185c6608a33e717854
+#EXTINF:-1 tvg-name="福州少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/福州少儿.png" group-title="☘️福建频道",福州少儿
+http://live.zohi.tv/video/s10001-fztv-4/index.m3u8?id=fjfztv4&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768765853&ev=20250113&sign=f1421cde6ace1bc8598ca52f9d0d052e
 #EXTINF:-1 tvg-name="福州生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/福州生活.png" group-title="☘️福建频道",福州生活
 http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 #EXTINF:-1 tvg-name="福州综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/福州综合.png" group-title="☘️福建频道",福州综合
@@ -4447,6 +4475,8 @@ http://tvpull.dxhmt.cn:9081/tv/11281-1.m3u8?id=hasmxym1&app=com.jiaoxiang.fangna
 http://tvpull.dxhmt.cn:9081/tv/11281-1.m3u8?id=hasmxym1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1767558154&ev=20250113&sign=639b815e5af0cd444d668e2540ca278d
 #EXTINF:-1 tvg-name="义马新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/义马新闻综合.png" group-title="☘️河南频道",义马新闻综合
 http://tvpull.dxhmt.cn:9081/tv/11281-1.m3u8?id=hasmxym1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768163114&ev=20250113&sign=ebba8ae9530295ba4715dff9e9e2682b
+#EXTINF:-1 tvg-name="义马新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/义马新闻综合.png" group-title="☘️河南频道",义马新闻综合
+http://tvpull.dxhmt.cn:9081/tv/11281-1.m3u8?id=hasmxym1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768767765&ev=20250113&sign=76548d91f30e31590b3c9ec7e4e56366
 #EXTINF:-1 tvg-name="光山综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/光山综合.png" group-title="☘️河南频道",光山综合
 http://tvpull.dxhmt.cn:9081/tv/11522-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 #EXTINF:-1 tvg-name="光山综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/光山综合.png" group-title="☘️河南频道",光山综合
@@ -4527,6 +4557,8 @@ http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8?id=haxxxx1&app=com.jiaoxiang.fangnal
 http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8?id=haxxxx1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1767558147&ev=20250113&sign=cf7b01a9437f59b307a05dc9d31ff471
 #EXTINF:-1 tvg-name="新乡县电视台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新乡县电视台.png" group-title="☘️河南频道",新乡县电视台
 http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8?id=haxxxx1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768163106&ev=20250113&sign=715e1e6463e0a0cd539785db2e543cf0
+#EXTINF:-1 tvg-name="新乡县电视台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新乡县电视台.png" group-title="☘️河南频道",新乡县电视台
+http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8?id=haxxxx1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768767758&ev=20250113&sign=747ec84fcbcd7dc22712c62528fef8e6
 #EXTINF:-1 tvg-name="新县综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新县综合.png" group-title="☘️河南频道",新县综合
 http://tvpull.dxhmt.cn:9081/tv/11523-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 #EXTINF:-1 tvg-name="新县综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新县综合.png" group-title="☘️河南频道",新县综合
@@ -4547,6 +4579,8 @@ http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8?id=hazmdxc1&app=com.jiaoxiang.fangna
 http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8?id=hazmdxc1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1767558139&ev=20250113&sign=e4389e2abf1d3e078d3792716b2ad3c1
 #EXTINF:-1 tvg-name="新蔡综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新蔡综合.png" group-title="☘️河南频道",新蔡综合
 http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8?id=hazmdxc1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768163098&ev=20250113&sign=f165dd7c6cc0a4c4b6d162be45f15bf1
+#EXTINF:-1 tvg-name="新蔡综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新蔡综合.png" group-title="☘️河南频道",新蔡综合
+http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8?id=hazmdxc1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768767749&ev=20250113&sign=64cb5912e0697c39802c927270893c6c
 #EXTINF:-1 tvg-name="桐柏新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/桐柏新闻综合.png" group-title="☘️河南频道",桐柏新闻综合
 http://tvpull.dxhmt.cn:9081/tv/11330-1.m3u8
 #EXTINF:-1 tvg-name="桐柏新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/桐柏新闻综合.png" group-title="☘️河南频道",桐柏新闻综合
@@ -4559,6 +4593,8 @@ http://tvpull.dxhmt.cn:9081/tv/11330-1.m3u8?id=hanytb1&app=com.jiaoxiang.fangnal
 http://tvpull.dxhmt.cn:9081/tv/11330-1.m3u8?id=hanytb1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1767558112&ev=20250113&sign=17356bbcb56dfe1e73dd93cf2faa815f
 #EXTINF:-1 tvg-name="桐柏新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/桐柏新闻综合.png" group-title="☘️河南频道",桐柏新闻综合
 http://tvpull.dxhmt.cn:9081/tv/11330-1.m3u8?id=hanytb1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768163069&ev=20250113&sign=062e145599377aa117b67877c36f196a
+#EXTINF:-1 tvg-name="桐柏新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/桐柏新闻综合.png" group-title="☘️河南频道",桐柏新闻综合
+http://tvpull.dxhmt.cn:9081/tv/11330-1.m3u8?id=hanytb1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768767721&ev=20250113&sign=956650a74e28d05d2b22bda67fbcf1e5
 #EXTINF:-1 tvg-name="泌阳新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/泌阳新闻综合.png" group-title="☘️河南频道",泌阳新闻综合
 http://tvpull.dxhmt.cn:9081/tv/11726-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 #EXTINF:-1 tvg-name="泌阳新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/泌阳新闻综合.png" group-title="☘️河南频道",泌阳新闻综合
@@ -4575,6 +4611,8 @@ http://tvpull.dxhmt.cn:9081/tv/11726-1.m3u8?id=hazmdby1&app=com.jiaoxiang.fangna
 http://tvpull.dxhmt.cn:9081/tv/11726-1.m3u8?id=hazmdby1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1767558132&ev=20250113&sign=f7f795ec3f9c20ecc7a792e18a5b725d
 #EXTINF:-1 tvg-name="泌阳新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/泌阳新闻综合.png" group-title="☘️河南频道",泌阳新闻综合
 http://tvpull.dxhmt.cn:9081/tv/11726-1.m3u8?id=hazmdby1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768163091&ev=20250113&sign=343be7c71fd9165513291293ddf9ea7e
+#EXTINF:-1 tvg-name="泌阳新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/泌阳新闻综合.png" group-title="☘️河南频道",泌阳新闻综合
+http://tvpull.dxhmt.cn:9081/tv/11726-1.m3u8?id=hazmdby1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768767743&ev=20250113&sign=824ac8f89154eec5e5ecf337deeda3b5
 #EXTINF:-1 tvg-name="淅川电视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/淅川电视.png" group-title="☘️河南频道",淅川电视
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226631/index.m3u8
 #EXTINF:-1 tvg-name="淅川电视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/淅川电视.png" group-title="☘️河南频道",淅川电视
@@ -4593,6 +4631,8 @@ http://tvpull.dxhmt.cn:9081/tv/11221-1.m3u8?id=hasmxmc1&app=com.jiaoxiang.fangna
 http://tvpull.dxhmt.cn:9081/tv/11221-1.m3u8?id=hasmxmc1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1767558152&ev=20250113&sign=07ca1b46ee4970d07a19f200cc09745e
 #EXTINF:-1 tvg-name="渑池新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/渑池新闻综合.png" group-title="☘️河南频道",渑池新闻综合
 http://tvpull.dxhmt.cn:9081/tv/11221-1.m3u8?id=hasmxmc1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768163112&ev=20250113&sign=8a40ec06f24f150671b81773e44f1911
+#EXTINF:-1 tvg-name="渑池新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/渑池新闻综合.png" group-title="☘️河南频道",渑池新闻综合
+http://tvpull.dxhmt.cn:9081/tv/11221-1.m3u8?id=hasmxmc1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768767763&ev=20250113&sign=b679d5431b9612762fbdc0ead1f3bd84
 #EXTINF:-1 tvg-name="温县综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/温县综合.png" group-title="☘️河南频道",温县综合
 http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8?zhend
 #EXTINF:-1 tvg-name="温县综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/温县综合.png" group-title="☘️河南频道",温县综合
@@ -4609,6 +4649,8 @@ http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8?id=hajzwx1&app=com.jiaoxiang.fangnal
 http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8?id=hajzwx1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1767558107&ev=20250113&sign=c4614fd0a5ccc0f216563d209f3610e9
 #EXTINF:-1 tvg-name="温县综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/温县综合.png" group-title="☘️河南频道",温县综合
 http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8?id=hajzwx1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768163064&ev=20250113&sign=59bffda45f71d497a579b45695886a13
+#EXTINF:-1 tvg-name="温县综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/温县综合.png" group-title="☘️河南频道",温县综合
+http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8?id=hajzwx1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768767716&ev=20250113&sign=50804b725cb42886f76fe8bdea3a6c14
 #EXTINF:-1 tvg-name="潢川综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/潢川综合.png" group-title="☘️河南频道",潢川综合
 http://tvpull.dxhmt.cn:9081/tv/11526-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 #EXTINF:-1 tvg-name="潢川综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/潢川综合.png" group-title="☘️河南频道",潢川综合
@@ -4637,6 +4679,8 @@ http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8?id=haxcyz1&app=com.jiaoxiang.fangnal
 http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8?id=haxcyz1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1767558179&ev=20250113&sign=3363755431803668123cd7ab78d395a4
 #EXTINF:-1 tvg-name="禹州综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/禹州综合.png" group-title="☘️河南频道",禹州综合
 http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8?id=haxcyz1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768163140&ev=20250113&sign=589b3666e905eddaf19a53c87d6e0dac
+#EXTINF:-1 tvg-name="禹州综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/禹州综合.png" group-title="☘️河南频道",禹州综合
+http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8?id=haxcyz1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768767791&ev=20250113&sign=23389c7a4b66f02b132c3a4758443a21
 #EXTINF:-1 tvg-name="西华综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西华综合.png" group-title="☘️河南频道",西华综合
 http://tvpull.dxhmt.cn:9081/tv/11622-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 #EXTINF:-1 tvg-name="西华综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西华综合.png" group-title="☘️河南频道",西华综合
@@ -4695,6 +4739,8 @@ http://tvpull.dxhmt.cn:9081/tv/11381-1.m3u8?id=hanydz1&app=com.jiaoxiang.fangnal
 http://tvpull.dxhmt.cn:9081/tv/11381-1.m3u8?id=hanydz1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1767558109&ev=20250113&sign=d6ac564d379eb4b6a86c0b49b38ebcd5
 #EXTINF:-1 tvg-name="邓州新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/邓州新闻.png" group-title="☘️河南频道",邓州新闻
 http://tvpull.dxhmt.cn:9081/tv/11381-1.m3u8?id=hanydz1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768163066&ev=20250113&sign=10766647d40d4941d4670fa998784c09
+#EXTINF:-1 tvg-name="邓州新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/邓州新闻.png" group-title="☘️河南频道",邓州新闻
+http://tvpull.dxhmt.cn:9081/tv/11381-1.m3u8?id=hanydz1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768767718&ev=20250113&sign=b04a2da0bc24a380ac3381787088bb3f
 #EXTINF:-1 tvg-name="许昌公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/许昌公共.png" group-title="☘️河南频道",许昌公共
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226695/index.m3u8
 #EXTINF:-1 tvg-name="荥阳综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/荥阳综合.png" group-title="☘️河南频道",荥阳综合
@@ -4715,6 +4761,8 @@ http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8?id=hazzxy1&app=com.jiaoxiang.fangnal
 http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8?id=hazzxy1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1767558087&ev=20250113&sign=fb1b5db0a31e3aebf65fbc3b4ad27752
 #EXTINF:-1 tvg-name="荥阳综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/荥阳综合.png" group-title="☘️河南频道",荥阳综合
 http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8?id=hazzxy1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768163043&ev=20250113&sign=2e6d47423036234b55f0e5349a953314
+#EXTINF:-1 tvg-name="荥阳综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/荥阳综合.png" group-title="☘️河南频道",荥阳综合
+http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8?id=hazzxy1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768767695&ev=20250113&sign=9378c79f74b8c777340e3de73a225113
 #EXTINF:-1 tvg-name="禹州公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/禹州公共.png" group-title="☘️河南频道",禹州公共
 http://tvpull.dxhmt.cn:9081/tv/11081-2.m3u8
 #EXTINF:-1 tvg-name="禹州公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/禹州公共.png" group-title="☘️河南频道",禹州公共
@@ -4737,6 +4785,8 @@ http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8?id=hasmxlb1&app=com.jiaoxiang.fangna
 http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8?id=hasmxlb1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1767558150&ev=20250113&sign=e0e2e5188bd54cc3396aace8e7345a43
 #EXTINF:-1 tvg-name="灵宝新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/灵宝新闻综合.png" group-title="☘️河南频道",灵宝新闻综合
 http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8?id=hasmxlb1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768163110&ev=20250113&sign=f96541bef5622bf9f6b917fed6ca3b72
+#EXTINF:-1 tvg-name="灵宝新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/灵宝新闻综合.png" group-title="☘️河南频道",灵宝新闻综合
+http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8?id=hasmxlb1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768767761&ev=20250113&sign=f7cac97133bd750859147cfcf31345d3
 #EXTINF:-1 tvg-name="濮阳公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/濮阳公共.png" group-title="☘️河南频道",濮阳公共
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226664/index.m3u8
 #EXTINF:-1 tvg-name="滑县新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/滑县新闻.png" group-title="☘️河南频道",滑县新闻
@@ -4755,6 +4805,8 @@ http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8?id=haayhx1&app=com.jiaoxiang.fangnal
 http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8?id=haayhx1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1767558156&ev=20250113&sign=57deb16f0ee336df93c773c81d9cc8de
 #EXTINF:-1 tvg-name="滑县新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/滑县新闻.png" group-title="☘️河南频道",滑县新闻
 http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8?id=haayhx1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768163115&ev=20250113&sign=648471bf5e8d065f9f61a687508122e7
+#EXTINF:-1 tvg-name="滑县新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/滑县新闻.png" group-title="☘️河南频道",滑县新闻
+http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8?id=haayhx1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768767766&ev=20250113&sign=88f15f70d6a576d6fee0cba10ef0f196
 #EXTINF:-1 tvg-name="济源电视一套" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/济源电视一套.png" group-title="☘️河南频道",济源电视一套
 http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8?zhend
 #EXTINF:-1 tvg-name="济源电视一套" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/济源电视一套.png" group-title="☘️河南频道",济源电视一套
@@ -4823,6 +4875,8 @@ http://tvpull.dxhmt.cn:9081/tv/10882-1.m3u8?id=hajzqy1&app=com.jiaoxiang.fangnal
 http://tvpull.dxhmt.cn:9081/tv/10882-1.m3u8?id=hajzqy1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1767558106&ev=20250113&sign=25973ec22d1afc1c0e465cd704b5cf63
 #EXTINF:-1 tvg-name="沁阳新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/沁阳新闻综合.png" group-title="☘️河南频道",沁阳新闻综合
 http://tvpull.dxhmt.cn:9081/tv/10882-1.m3u8?id=hajzqy1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768163063&ev=20250113&sign=ff3c953acb29e77b626e13df70eaafb0
+#EXTINF:-1 tvg-name="沁阳新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/沁阳新闻综合.png" group-title="☘️河南频道",沁阳新闻综合
+http://tvpull.dxhmt.cn:9081/tv/10882-1.m3u8?id=hajzqy1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768767715&ev=20250113&sign=6d900d41c755e950c0cd396b20c02aa2
 #EXTINF:-1 tvg-name="永城综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/永城综合.png" group-title="☘️河南频道",永城综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227057/index.m3u8
 #EXTINF:-1 tvg-name="永城综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/永城综合.png" group-title="☘️河南频道",永城综合
@@ -4845,6 +4899,8 @@ http://tvpull.dxhmt.cn:9081/tv/11322-1.m3u8?id=hanyfc1&app=com.jiaoxiang.fangnal
 http://tvpull.dxhmt.cn:9081/tv/11322-1.m3u8?id=hanyfc1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1767558110&ev=20250113&sign=6ca3643de994032ed475dcc2cf6dd10c
 #EXTINF:-1 tvg-name="方城一套" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/方城一套.png" group-title="☘️河南频道",方城一套
 http://tvpull.dxhmt.cn:9081/tv/11322-1.m3u8?id=hanyfc1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768163067&ev=20250113&sign=4993e0ef496b3865ed38511701b67717
+#EXTINF:-1 tvg-name="方城一套" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/方城一套.png" group-title="☘️河南频道",方城一套
+http://tvpull.dxhmt.cn:9081/tv/11322-1.m3u8?id=hanyfc1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768767719&ev=20250113&sign=567d7f27838da1dd9e46fecb9d2a007e
 #EXTINF:-1 tvg-name="新野综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新野综合.png" group-title="☘️河南频道",新野综合
 http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8?zhend
 #EXTINF:-1 tvg-name="新野综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新野综合.png" group-title="☘️河南频道",新野综合
@@ -4863,6 +4919,8 @@ http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8?id=hanyxy1&app=com.jiaoxiang.fangnal
 http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8?id=hanyxy1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1767558116&ev=20250113&sign=4850d900af19998b2d6604e8c8dba808
 #EXTINF:-1 tvg-name="新野综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新野综合.png" group-title="☘️河南频道",新野综合
 http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8?id=hanyxy1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768163074&ev=20250113&sign=2357f29f38833398d54feb73a578cc8f
+#EXTINF:-1 tvg-name="新野综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新野综合.png" group-title="☘️河南频道",新野综合
+http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8?id=hanyxy1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768767725&ev=20250113&sign=8ad655d6e4939a1a8d1f99350ec8da64
 #EXTINF:-1 tvg-name="新安新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新安新闻综合.png" group-title="☘️河南频道",新安新闻综合
 http://tvpull.dxhmt.cn:9081/tv/10323-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 #EXTINF:-1 tvg-name="新安新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新安新闻综合.png" group-title="☘️河南频道",新安新闻综合
@@ -4879,6 +4937,8 @@ http://tvpull.dxhmt.cn:9081/tv/10323-1.m3u8?id=halyxa1&app=com.jiaoxiang.fangnal
 http://tvpull.dxhmt.cn:9081/tv/10323-1.m3u8?id=halyxa1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1767558100&ev=20250113&sign=9b6e7c661b2de59604a8789404339668
 #EXTINF:-1 tvg-name="新安新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新安新闻综合.png" group-title="☘️河南频道",新安新闻综合
 http://tvpull.dxhmt.cn:9081/tv/10323-1.m3u8?id=halyxa1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768163057&ev=20250113&sign=f976776909b7526ebec48157797e698a
+#EXTINF:-1 tvg-name="新安新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新安新闻综合.png" group-title="☘️河南频道",新安新闻综合
+http://tvpull.dxhmt.cn:9081/tv/10323-1.m3u8?id=halyxa1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768767709&ev=20250113&sign=72759128d88c6598f811eab4a6b36b14
 #EXTINF:-1 tvg-name="开封新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/开封新闻综合.png" group-title="☘️河南频道",开封新闻综合
 http://tvpull.dxhmt.cn:9081/tv/10200-2.m3u8?zhend
 #EXTINF:-1 tvg-name="开封新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/开封新闻综合.png" group-title="☘️河南频道",开封新闻综合
@@ -4897,6 +4957,8 @@ http://tvpull.dxhmt.cn:9081/tv/10200-2.m3u8?id=hakftv1&app=com.jiaoxiang.fangnal
 http://tvpull.dxhmt.cn:9081/tv/10200-2.m3u8?id=hakftv1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1767558046&ev=20250113&sign=60eb70e0c38aa96596281a51a42e18d1
 #EXTINF:-1 tvg-name="开封新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/开封新闻综合.png" group-title="☘️河南频道",开封新闻综合
 http://tvpull.dxhmt.cn:9081/tv/10200-2.m3u8?id=hakftv1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768163000&ev=20250113&sign=16c55fb8e51e2fc1e9e084d94a17a65e
+#EXTINF:-1 tvg-name="开封新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/开封新闻综合.png" group-title="☘️河南频道",开封新闻综合
+http://tvpull.dxhmt.cn:9081/tv/10200-2.m3u8?id=hakftv1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768767653&ev=20250113&sign=49c493f41fb55b85b89eb8c20148abb5
 #EXTINF:-1 tvg-name="开封文化旅游" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/开封文化旅游.png" group-title="☘️河南频道",开封文化旅游
 http://tvpull.dxhmt.cn:9081/tv/10200-3.m3u8?zhend,
 #EXTINF:-1 tvg-name="开封文化旅游" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/开封文化旅游.png" group-title="☘️河南频道",开封文化旅游
@@ -4915,6 +4977,8 @@ http://tvpull.dxhmt.cn:9081/tv/10200-3.m3u8?id=hakftv2&app=com.jiaoxiang.fangnal
 http://tvpull.dxhmt.cn:9081/tv/10200-3.m3u8?id=hakftv2&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1767558047&ev=20250113&sign=0eedb1f0e3ae2ed7f2786f8c2274c030
 #EXTINF:-1 tvg-name="开封文化旅游" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/开封文化旅游.png" group-title="☘️河南频道",开封文化旅游
 http://tvpull.dxhmt.cn:9081/tv/10200-3.m3u8?id=hakftv2&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768163001&ev=20250113&sign=d6ca43c4e15afcb4d3874ac443888f88
+#EXTINF:-1 tvg-name="开封文化旅游" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/开封文化旅游.png" group-title="☘️河南频道",开封文化旅游
+http://tvpull.dxhmt.cn:9081/tv/10200-3.m3u8?id=hakftv2&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768767654&ev=20250113&sign=0168056410ed315871674ab42fbf4b11
 #EXTINF:-1 tvg-name="嵩县综合新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/嵩县综合新闻.png" group-title="☘️河南频道",嵩县综合新闻
 http://tvpull.dxhmt.cn:9081/tv/10325-1.m3u8?zhendhttp://wshls.live.migucloud.com/live/MZCYG799_C0/playlist.m3u8?zhend
 #EXTINF:-1 tvg-name="嵩县综合新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/嵩县综合新闻.png" group-title="☘️河南频道",嵩县综合新闻
@@ -4933,6 +4997,8 @@ http://wshls.live.migucloud.com/live/MZCYG799_C0/playlist.m3u8?id=halysx1&app=co
 http://wshls.live.migucloud.com/live/MZCYG799_C0/playlist.m3u8?id=halysx1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1767558099&ev=20250113&sign=b6c1d0bbe189436e0a180e9f0295414b
 #EXTINF:-1 tvg-name="嵩县综合新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/嵩县综合新闻.png" group-title="☘️河南频道",嵩县综合新闻
 http://wshls.live.migucloud.com/live/MZCYG799_C0/playlist.m3u8?id=halysx1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768163056&ev=20250113&sign=d5f526ee45ea7836d8c9c8598b238b75
+#EXTINF:-1 tvg-name="嵩县综合新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/嵩县综合新闻.png" group-title="☘️河南频道",嵩县综合新闻
+http://wshls.live.migucloud.com/live/MZCYG799_C0/playlist.m3u8?id=halysx1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768767708&ev=20250113&sign=8831a42819b574fba6eded12bc81b119
 #EXTINF:-1 tvg-name="宜阳综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宜阳综合.png" group-title="☘️河南频道",宜阳综合
 http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&wsTime=1654956569
 #EXTINF:-1 tvg-name="宜阳综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宜阳综合.png" group-title="☘️河南频道",宜阳综合
@@ -4967,6 +5033,8 @@ http://tvpull.dxhmt.cn:9081/tv/11325-1.m3u8?id=hanynx1&app=com.jiaoxiang.fangnal
 http://tvpull.dxhmt.cn:9081/tv/11325-1.m3u8?id=hanynx1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1767558111&ev=20250113&sign=9817c202328f47f0d9e910f162b8f685
 #EXTINF:-1 tvg-name="内乡综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/内乡综合.png" group-title="☘️河南频道",内乡综合
 http://tvpull.dxhmt.cn:9081/tv/11325-1.m3u8?id=hanynx1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768163068&ev=20250113&sign=e389229b9e6646986416cc6b4d4422c5
+#EXTINF:-1 tvg-name="内乡综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/内乡综合.png" group-title="☘️河南频道",内乡综合
+http://tvpull.dxhmt.cn:9081/tv/11325-1.m3u8?id=hanynx1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768767720&ev=20250113&sign=10db3633f88e6f29cf9ea6802d439cd3
 #EXTINF:-1 tvg-name="偃师新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/偃师新闻.png" group-title="☘️河南频道",偃师新闻
 http://tvpull.dxhmt.cn:9081/tv/10381-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&wsTime=1654956569
 #EXTINF:-1 tvg-name="偃师新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/偃师新闻.png" group-title="☘️河南频道",偃师新闻
@@ -5149,6 +5217,8 @@ https://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8@@Referer=https://
 https://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8@@Referer=https://www.hebyun.com.cn/html/rft/live.html?channelId=3842870bca1844dcb960cf20b905a84f%40%40&id=heczrq2&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1767557945&ev=20250113&sign=82a4e9ee31999ddd19d8f644b7cfb9b3
 #EXTINF:-1 tvg-name="任丘文娱" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/任丘文娱.png" group-title="☘️河北频道",任丘文娱
 https://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8@@Referer=https://www.hebyun.com.cn/html/rft/live.html?channelId=3842870bca1844dcb960cf20b905a84f%40%40&id=heczrq2&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768162894&ev=20250113&sign=52b39364fc0dcc605d9e46916681d3e7
+#EXTINF:-1 tvg-name="任丘文娱" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/任丘文娱.png" group-title="☘️河北频道",任丘文娱
+https://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8@@Referer=https://www.hebyun.com.cn/html/rft/live.html?channelId=3842870bca1844dcb960cf20b905a84f%40%40&id=heczrq2&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768767549&ev=20250113&sign=f5cb1420927bfbc0105ba2933f68e1b8
 #EXTINF:-1 tvg-name="任丘综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/任丘综合.png" group-title="☘️河北频道",任丘综合
 https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="任丘综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/任丘综合.png" group-title="☘️河北频道",任丘综合
@@ -5163,6 +5233,8 @@ https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8@@Referer=https://
 https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8@@Referer=https://www.hebyun.com.cn/html/rft/live.html?channelId=3842870bca1844dcb960cf20b905a84f%40%40&id=heczrq1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1767557944&ev=20250113&sign=c3584d2a374b5315358b686fe61f8b73
 #EXTINF:-1 tvg-name="任丘综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/任丘综合.png" group-title="☘️河北频道",任丘综合
 https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8@@Referer=https://www.hebyun.com.cn/html/rft/live.html?channelId=3842870bca1844dcb960cf20b905a84f%40%40&id=heczrq1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768162893&ev=20250113&sign=4f280521b8e0927e63c3fb8f8d7edca5
+#EXTINF:-1 tvg-name="任丘综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/任丘综合.png" group-title="☘️河北频道",任丘综合
+https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8@@Referer=https://www.hebyun.com.cn/html/rft/live.html?channelId=3842870bca1844dcb960cf20b905a84f%40%40&id=heczrq1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768767548&ev=20250113&sign=accb9769f66460eefdc696f08ba82d5c
 #EXTINF:-1 tvg-name="兴隆综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/兴隆综合.png" group-title="☘️河北频道",兴隆综合
 https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="兴隆综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/兴隆综合.png" group-title="☘️河北频道",兴隆综合
@@ -5191,6 +5263,8 @@ https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8@@Referer=https:
 https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8@@Referer=https://www.hebyun.com.cn/html/rft/live.html?channelId=3842870bca1844dcb960cf20b905a84f%40%40&id=hextqh2&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1767557937&ev=20250113&sign=2f7aaaa4c37a0fcfbbbc5f3b4d49dfe1
 #EXTINF:-1 tvg-name="清河经济综艺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/清河经济综艺.png" group-title="☘️河北频道",清河经济综艺
 https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8@@Referer=https://www.hebyun.com.cn/html/rft/live.html?channelId=3842870bca1844dcb960cf20b905a84f%40%40&id=hextqh2&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768162886&ev=20250113&sign=ccdf36e89258014ae4046011d1210244
+#EXTINF:-1 tvg-name="清河经济综艺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/清河经济综艺.png" group-title="☘️河北频道",清河经济综艺
+https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8@@Referer=https://www.hebyun.com.cn/html/rft/live.html?channelId=3842870bca1844dcb960cf20b905a84f%40%40&id=hextqh2&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768767541&ev=20250113&sign=002bda9fc90fd26e23c1576a4cd5b8c5
 #EXTINF:-1 tvg-name="安顺新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/安顺新闻.png" group-title="☘️贵州频道",安顺新闻
 http://hplayer1.juyun.tv/camera/154379194.m3u8
 #EXTINF:-1 tvg-name="安顺新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/安顺新闻.png" group-title="☘️贵州频道",安顺新闻
@@ -5619,6 +5693,8 @@ https://stream1.freetv.fun/su-zhou-xin-wen-zong-he-1.m3u8
 https://stream1.freetv.fun/su-zhou-xin-wen-zong-he-2.m3u8
 #EXTINF:-1 tvg-name="宿州新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宿州新闻综合.png" group-title="☘️安徽频道",宿州新闻综合
 https://stream1.freetv.fun/su-zhou-xin-wen-zong-he-3.m3u8
+#EXTINF:-1 tvg-name="宿州新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宿州新闻综合.png" group-title="☘️安徽频道",宿州新闻综合
+http://live.ahsz.tv/video/s10001-szzh/index.m3u8?id=ahsztv1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768765634&ev=20250113&sign=dfdd9b0392c1199d861e56d4cd248050
 #EXTINF:-1 tvg-name="宿州公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宿州公共.png" group-title="☘️安徽频道",宿州公共
 http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
 #EXTINF:-1 tvg-name="六安新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/六安新闻综合.png" group-title="☘️安徽频道",六安新闻综合
@@ -5681,6 +5757,8 @@ http://hplayer1.juyun.tv/camera/11347146.m3u8?id=jlbscb1&app=com.jiaoxiang.fangn
 http://hplayer1.juyun.tv/camera/11347146.m3u8?id=jlbscb1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1767556663&ev=20250113&sign=d706f0d2c812fc5f6e47fc7815107d38
 #EXTINF:-1 tvg-name="长白新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/长白新闻综合.png" group-title="☘️吉林频道",长白新闻综合
 http://hplayer1.juyun.tv/camera/11347146.m3u8?id=jlbscb1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768161559&ev=20250113&sign=181b9067d5ea4ce924c39a14a2426c14
+#EXTINF:-1 tvg-name="长白新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/长白新闻综合.png" group-title="☘️吉林频道",长白新闻综合
+http://hplayer1.juyun.tv/camera/11347146.m3u8?id=jlbscb1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768766249&ev=20250113&sign=10f4dcf7cf15df3fc06f0ff90558cb3b
 #EXTINF:-1 tvg-name="长白朝语" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/长白朝语.png" group-title="☘️吉林频道",长白朝语
 http://hplayer1.juyun.tv:80/camera/11344136.m3u8
 #EXTINF:-1 tvg-name="珲春新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/珲春新闻综合.png" group-title="☘️吉林频道",珲春新闻综合
@@ -5763,6 +5841,8 @@ http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/pla
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8?id=ynwsmlp1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1767558491&ev=20250113&sign=8e196432b4b7c7b74b72a009c45383e3
 #EXTINF:-1 tvg-name="麻栗坡电视台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/麻栗坡电视台.png" group-title="☘️云南频道",麻栗坡电视台
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8?id=ynwsmlp1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768163467&ev=20250113&sign=6126757f44e881e71567acbcd6a8a895
+#EXTINF:-1 tvg-name="麻栗坡电视台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/麻栗坡电视台.png" group-title="☘️云南频道",麻栗坡电视台
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8?id=ynwsmlp1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768768111&ev=20250113&sign=e89440ef168675c5cc12e96fbdf48e14
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/安多卫视.png" group-title="☘️青海频道",安多卫视
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225659
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/安多卫视.png" group-title="☘️青海频道",安多卫视
@@ -5832,7 +5912,7 @@ http://www.qhbtv.com/new_index/live/folder2647/?id=qhsh&app=com.jiaoxiang.fangna
 #EXTINF:-1 tvg-name="青海经视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海经视.png" group-title="☘️青海频道",青海经视
 http://www.qhbtv.com/new_index/live/folder2647/?id=qhsh&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768161989&ev=20250113&sign=0b3b8255748ed03824aacb9c4314f538
 #EXTINF:-1 tvg-name="青海经视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海经视.png" group-title="☘️青海频道",青海经视
-http://www.qhbtv.com/new_index/live/folder2647/?id=qhsh&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768161989&ev=20250113&sign=0b3b8255748ed03824aacb9c4314f538
+http://www.qhbtv.com/new_index/live/folder2647/?id=qhsh&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768766676&ev=20250113&sign=98d9872db1a232f65296c05721e396d2
 #EXTINF:-1 tvg-name="青海都市" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海都市.png" group-title="☘️青海频道",青海都市
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225749/index.m3u8
 #EXTINF:-1 tvg-name="青海都市" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海都市.png" group-title="☘️青海频道",青海都市
@@ -5846,7 +5926,7 @@ http://www.qhbtv.com/new_index/live/folder2648/?id=qhds&app=com.jiaoxiang.fangna
 #EXTINF:-1 tvg-name="青海都市" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海都市.png" group-title="☘️青海频道",青海都市
 http://www.qhbtv.com/new_index/live/folder2648/?id=qhds&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768161990&ev=20250113&sign=e542802e4aac8f65c470c0e2a31bd0f1
 #EXTINF:-1 tvg-name="青海都市" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海都市.png" group-title="☘️青海频道",青海都市
-http://www.qhbtv.com/new_index/live/folder2648/?id=qhds&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768161990&ev=20250113&sign=e542802e4aac8f65c470c0e2a31bd0f1
+http://www.qhbtv.com/new_index/live/folder2648/?id=qhds&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768766677&ev=20250113&sign=0021aac5fb0f6ea93e4b907803f5169d
 #EXTINF:-1 tvg-name="青海综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海综合.png" group-title="☘️青海频道",青海综合
 http://lmt.scqstv.com/live1/live1.m3u8
 #EXTINF:-1 tvg-name="黑龙江文体" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江文体.png" group-title="☘️黑龙江频道",黑龙江文体
@@ -6575,6 +6655,8 @@ http://tv.zhangzp.top:4022/udp/239.125.1.28:5000?id=iptvjddy&app=com.jiaoxiang.f
 http://tv.zhangzp.top:4022/udp/239.125.1.28:5000?id=iptvjddy&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1767555088&ev=20250113&sign=555673fe14bc4460b26411da59fb134b
 #EXTINF:-1 tvg-name="IPTV经典电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/IPTV经典电影.png" group-title="🎬电影频道",IPTV经典电影
 http://tv.zhangzp.top:4022/udp/239.125.1.28:5000?id=iptvjddy&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768159903&ev=20250113&sign=24f371a71e4cf74ac556049e9929b8c3
+#EXTINF:-1 tvg-name="IPTV经典电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/IPTV经典电影.png" group-title="🎬电影频道",IPTV经典电影
+http://tv.zhangzp.top:4022/udp/239.125.1.28:5000?id=iptvjddy&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768764663&ev=20250113&sign=b82f37622f215269aff78d509aea52aa
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天映经典.png" group-title="🎬电影频道",天映经典
 https://stream1.freetv.fun/tian-ying-jing-dian-5.m3u8
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天映经典.png" group-title="🎬电影频道",天映经典
@@ -7511,6 +7593,8 @@ http://tv.zhangzp.top:4022/udp/239.125.1.40:5000?id=asyyxc&app=com.jiaoxiang.fan
 http://tv.zhangzp.top:4022/udp/239.125.1.40:5000?id=asyyxc&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1767555068&ev=20250113&sign=ab81d3ff8987efc6c05a8a51ea6b707b
 #EXTINF:-1 tvg-name="音乐现场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐现场.png" group-title="🎵音乐频道",音乐现场
 http://tv.zhangzp.top:4022/udp/239.125.1.40:5000?id=asyyxc&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768159882&ev=20250113&sign=0814ab1861f4e1e3d8922c1c6a7167ab
+#EXTINF:-1 tvg-name="音乐现场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐现场.png" group-title="🎵音乐频道",音乐现场
+http://tv.zhangzp.top:4022/udp/239.125.1.40:5000?id=asyyxc&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768764643&ev=20250113&sign=5b1b69430897b7bebcddc67241ce98b4
 #EXTINF:-1 tvg-name="音乐广播" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐广播.png" group-title="🎵音乐频道",音乐广播
 https://tv-1.iill.top/fm/552
 #EXTINF:-1 tvg-name="音乐广播" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐广播.png" group-title="🎵音乐频道",音乐广播
