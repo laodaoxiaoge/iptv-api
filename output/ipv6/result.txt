@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-23 18:45:44,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-01-24 06:35:18,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -2957,6 +2957,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 内蒙经济,https://ls.qingting.fm/live/1885/64k.m3u8
 内蒙经济,https://stream1.freetv.fun/nei-meng-gu-jing-ji-sheng-huo-1.m3u8
 内蒙经济,https://t.freetv.fun/live/nei-meng-gu-jing-ji-sheng-huo.m3u8
+内蒙少儿,https://t.freetv.fun/live/nei-meng-gu-shao-er.m3u8
 内蒙文体,https://stream1.freetv.fun/nei-meng-gu-wen-ti-yu-le-1.m3u8
 内蒙文体,https://t.freetv.fun/live/nei-meng-gu-wen-ti-yu-le.m3u8
 内蒙农牧,https://stream1.freetv.fun/nei-meng-gu-nong-mu-2.m3u8
