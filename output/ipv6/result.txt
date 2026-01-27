@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-27 06:40:26,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-01-28 06:41:21,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -3658,6 +3658,7 @@ CCTV-5+,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/
 辽宁体育,https://hlsbkmgsplive.miguvideo.com/migu/kailu/lntyxx/57/20251225/01.m3u8?HlsSubType=&encrypt=&id=lnty&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1769371442&ev=20250113&sign=e9b904d1cf18c1f128998c86d2e5ff35
 辽宁体育,https://t.freetv.fun/live/liao-zhu-ti-yu.m3u8
 辽宁体育,https://t.freetv.fun/live/liao-zhu-ti-yu-1.php
+辽宁体育,https://t.freetv.fun/live/liao-zhu-ti-yu-2.m3u8
 山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-14.m3u8
 山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-10.m3u8
 山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-8.m3u8
