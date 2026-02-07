@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-07 18:45:33,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-02-08 06:47:10,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -2347,6 +2347,9 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 福建少儿,https://stream1.freetv.fun/fu-jian-shao-er-7.m3u8
 福建少儿,http://php.jdshipin.com:8880/fujian.php?id=8
 福建海峡卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/57/20230724/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+福建海峡卫视,https://t.freetv.fun/live/hai-xia-wei-shi-1.m3u8
+福建海峡卫视,https://t.freetv.fun/live/hai-xia-wei-shi-4.m3u8
+福建海峡卫视,https://t.freetv.fun/live/hai-xia-wei-shi.m3u8
 
 ☘️海南频道,#genre#
 海南新闻,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000111/1.m3u8
@@ -3400,6 +3403,13 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 凤凰卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 TVBS亚洲,https://live.tvfix.org/live/tvbs/index.m3u8
+TVBS亚洲,https://t.freetv.fun/live/tvbsya-zhou-1.m3u8
+TVBS亚洲,https://t.freetv.fun/live/tvbsya-zhou-6.m3u8
+TVBS亚洲,https://t.freetv.fun/live/tvbsya-zhou-7.m3u8
+TVBS亚洲,https://t.freetv.fun/live/tvbsya-zhou-2.m3u8
+TVBS亚洲,https://t.freetv.fun/live/tvbsya-zhou-5.m3u8
+TVBS亚洲,https://t.freetv.fun/live/tvbsya-zhou-4.m3u8
+TVBS亚洲,https://t.freetv.fun/live/tvbsya-zhou.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 香港卫视,https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.ctv
 香港卫视,https://stream1.freetv.fun/c751876ae5ceaa0d82b5cf2badc152342aa92a4b45bf504d12ee45966b2fc644.ctv
