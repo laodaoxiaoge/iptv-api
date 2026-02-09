@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-09 06:48:13,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-02-10 06:57:09,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -2125,6 +2125,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 成都高新电视,https://quxian.pull.cditv.cn/live/gaoxin.flv?id=sccdgx1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1769373530&ev=20250113&sign=07a9db3fbb00a0c613c0d07aca903d5d
 成都高新电视,https://quxian.pull.cditv.cn/live/gaoxin.flv?id=sccdgx1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1769978732&ev=20250113&sign=3124d831b40297f5571e32053458395b
 成都高新电视,https://quxian.pull.cditv.cn/live/gaoxin.flv?id=sccdgx1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1770583226&ev=20250113&sign=f0a5d1e105ab8e0278857aa63a81385a
+成都高新电视,https://quxian.pull.cditv.cn/live/gaoxin.flv?id=sccdgx1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1770583226&ev=20250113&sign=f0a5d1e105ab8e0278857aa63a81385a
 新都综合,http://iptv.666230.xyz/iptv/sxg.php/xdzhpd_2000
 旺苍新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 旺苍新闻综合,http://channel.wcrmt.cn/nmip-media/channellive/channel105268/playlist.m3u8?id=scgywc1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1765744593&ev=20250113&sign=4778a1cbde8d667ff7f9918d291cac80
@@ -2221,6 +2222,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 金堂电视台,https://quxian.pull.cditv.cn/live/jintang.flv?id=sccdjt1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1769373533&ev=20250113&sign=c3b281ffdd9b89ab916a4f3ee33d9bdc
 金堂电视台,https://quxian.pull.cditv.cn/live/jintang.flv?id=sccdjt1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1769978735&ev=20250113&sign=947c7ccbb02dcc04799622d65607d3a7
 金堂电视台,https://quxian.pull.cditv.cn/live/jintang.flv?id=sccdjt1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1770583229&ev=20250113&sign=43726aeb6f022dee3c7021220ce49c61
+金堂电视台,https://quxian.pull.cditv.cn/live/jintang.flv?id=sccdjt1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1770583229&ev=20250113&sign=43726aeb6f022dee3c7021220ce49c61
 金川新闻综合,https://stream1.freetv.fun/jin-chuan-xin-wen-zong-he-1.m3u8
 金川新闻综合,https://stream1.freetv.fun/jin-chuan-xin-wen-zong-he-2.m3u8
 金川新闻综合,https://stream1.freetv.fun/jin-chuan-xin-wen-zong-he-3.m3u8
@@ -2243,6 +2245,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 龙泉驿新闻综合,https://quxian.pull.cditv.cn/live/longquanyi.flv?id=sccdlq1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768768575&ev=20250113&sign=f6e7cd9a7bc16c97243badd7b5e7ff1e
 龙泉驿新闻综合,https://quxian.pull.cditv.cn/live/longquanyi.flv?id=sccdlq1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1769373536&ev=20250113&sign=1d6292590aa6c192dd29e7755991b92e
 龙泉驿新闻综合,https://quxian.pull.cditv.cn/live/longquanyi.flv?id=sccdlq1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1769978737&ev=20250113&sign=64df9c1ca698de3ac9854c22ac466754
+龙泉驿新闻综合,https://quxian.pull.cditv.cn/live/longquanyi.flv?id=sccdlq1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1770583231&ev=20250113&sign=afa6ae310a1c151b08ba2b50a0362b7b
 龙泉驿新闻综合,https://quxian.pull.cditv.cn/live/longquanyi.flv?id=sccdlq1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1770583231&ev=20250113&sign=afa6ae310a1c151b08ba2b50a0362b7b
 
 ☘️陕西频道,#genre#
@@ -3239,6 +3242,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 青海经视,http://www.qhbtv.com/new_index/live/folder2647/?id=qhsh&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1768766676&ev=20250113&sign=98d9872db1a232f65296c05721e396d2
 青海经视,http://www.qhbtv.com/new_index/live/folder2647/?id=qhsh&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1769371601&ev=20250113&sign=7951b675fb0bfd438e4c431142522469
 青海经视,http://www.qhbtv.com/new_index/live/folder2647/?id=qhsh&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1769976809&ev=20250113&sign=4a3f1a43a2063547f69ae0ce62ef40f4
+青海经视,http://www.qhbtv.com/new_index/live/folder2647/?id=qhsh&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1770581459&ev=20250113&sign=f678a59ea1ce40554f02e58ed8c61632
 青海经视,http://www.qhbtv.com/new_index/live/folder2647/?id=qhsh&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1770581459&ev=20250113&sign=f678a59ea1ce40554f02e58ed8c61632
 青海都市,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225749/index.m3u8
 青海都市,http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225749/index.m3u8
