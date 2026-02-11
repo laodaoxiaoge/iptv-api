@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260210230237 +0800">
+<tv date="20260211111041 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -69113,7 +69113,7 @@
 		<title lang="zh">广视剧场</title>
 	</programme>
 	<programme channel="广州综合" start="20260211000000 +0800" stop="20260211020000 +0800">
-		<title lang="zh">广视剧场</title>
+		<title lang="zh">精彩呈现</title>
 	</programme>
 	<programme channel="广州综合" start="20260211020000 +0800" stop="20260211023000 +0800">
 		<title lang="zh">健康100FUN</title>
@@ -69170,7 +69170,7 @@
 		<title lang="zh">广视剧场</title>
 	</programme>
 	<programme channel="广州综合" start="20260211164500 +0800" stop="20260211171000 +0800">
-		<title lang="zh">中国城市报道</title>
+		<title lang="zh">红棉新声</title>
 	</programme>
 	<programme channel="广州综合" start="20260211171000 +0800" stop="20260211174500 +0800">
 		<title lang="zh">健康100FUN</title>

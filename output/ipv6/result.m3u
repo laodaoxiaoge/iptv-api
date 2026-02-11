@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/laodaoxiaoge/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-02-11 07:02:38
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-02-11 19:10:42
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -6361,8 +6361,6 @@ http://www.qhbtv.com/new_index/live/folder2647/?id=qhsh&app=com.jiaoxiang.fangna
 http://www.qhbtv.com/new_index/live/folder2647/?id=qhsh&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1769371601&ev=20250113&sign=7951b675fb0bfd438e4c431142522469
 #EXTINF:-1 tvg-name="青海经视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海经视.png" group-title="☘️青海频道",青海经视
 http://www.qhbtv.com/new_index/live/folder2647/?id=qhsh&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1769976809&ev=20250113&sign=4a3f1a43a2063547f69ae0ce62ef40f4
-#EXTINF:-1 tvg-name="青海经视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海经视.png" group-title="☘️青海频道",青海经视
-http://www.qhbtv.com/new_index/live/folder2647/?id=qhsh&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1770581459&ev=20250113&sign=f678a59ea1ce40554f02e58ed8c61632
 #EXTINF:-1 tvg-name="青海经视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海经视.png" group-title="☘️青海频道",青海经视
 http://www.qhbtv.com/new_index/live/folder2647/?id=qhsh&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1770581459&ev=20250113&sign=f678a59ea1ce40554f02e58ed8c61632
 #EXTINF:-1 tvg-name="青海都市" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青海都市.png" group-title="☘️青海频道",青海都市
