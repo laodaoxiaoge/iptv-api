@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-16 19:08:12,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-02-17 06:48:09,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -4105,6 +4105,7 @@ CN卡通,https://hls-gateway.vpstv.net/streams/476247.m3u8
 蜡笔小新,https://live.ottiptv.cc/bilibili/1817642775
 蜡笔小新,https://t.freetv.fun/live/zha-bi-xiao-xin.m3u8
 蜡笔小新,https://t.freetv.fun/live/zha-bi-xiao-xin-1.php
+蜡笔小新,http://cdn.jdshipin.com:8880/huya.php?id=11352970
 漫画解说,http://luobo.bkpcp.top/yy/1382735568
 漫画解说,https://www.goodiptv.club/douyu/5907076
 漫画解说,https://mursor.ottiptv.cc/yy/1382735568
