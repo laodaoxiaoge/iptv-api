@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-20 19:00:43,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-02-21 06:46:12,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -4081,6 +4081,7 @@ CN卡通,https://hls-gateway.vpstv.net/streams/476247.m3u8
 河北少儿科教,https://stream1.freetv.fun/he-bei-shao-er-ke-jiao-17.ctv
 七龙珠,https://live.ottiptv.cc/huya/11601966
 七龙珠,https://live.metshop.top/huya/11601966
+七龙珠,http://cdn.jdshipin.com:8880/huya.php?id=11601966
 火影忍者,http://cdn.jdshipin.com:8880/huya.php?id=29465866
 海绵宝宝,https://live.metshop.top/douyu/3949681
 海绵宝宝,https://stream1.freetv.fun/hai-mian-bao-bao-3.ctv
@@ -4092,6 +4093,7 @@ CN卡通,https://hls-gateway.vpstv.net/streams/476247.m3u8
 中华小当家,https://live.iill.top/huya/11342413
 中华小当家,https://live.ottiptv.cc/huya/11342413
 中华小当家,http://live.iill.top/huya.php?id=11342413
+中华小当家,http://cdn.jdshipin.com:8880/huya.php?id=11342413
 斗破苍穹玄幻剧,https://live.metshop.top/yy/1356051105
 猫和老鼠,https://live.iill.top/huya/11352879
 猫和老鼠,http://live.iill.top/huya.php?id=11352879
@@ -4206,12 +4208,14 @@ CCTV-15,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 西游记,http://cdn.jdshipin.com:8880/huya.php?id=30080242
 西游记,https://live.ottiptv.cc/huya/26355861
 西游记,https://live.metshop.top/huya/26355861
+西游记,http://cdn.jdshipin.com:8880/huya.php?id=26355861
 三国演义,https://live.iill.top/huya/11602081
 三国演义,http://live.iill.top/yy.php?id=1354936241
 三国演义,https://live.ottiptv.cc/huya/11602081
 三国演义,https://live.metshop.top/yy/1354936241
 三国演义,https://live.ottiptv.cc/bilibili/1937833951
 三国演义,https://live.metshop.top/huya/11602081
+三国演义,http://cdn.jdshipin.com:8880/huya.php?id=11602081
 水浒传,http://www.clmy.cc:35455/yy/1353873252
 水浒传,https://yylunbo.ottiptv.cc/yy/1353852605
 水浒传,https://yylunbo.ottiptv.cc/yy/1353873252
