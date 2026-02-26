@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/laodaoxiaoge/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-02-26 19:13:26
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-02-27 06:54:16
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -2207,6 +2207,12 @@ https://t.freetv.fun/live/jing-ji-ke-jiao-gao-qing-6.m3u8
 https://t.freetv.fun/live/jing-ji-ke-jiao-gao-qing-7.m3u8
 #EXTINF:-1 tvg-name="温州经济科教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/温州经济科教.png" group-title="☘️浙江频道",温州经济科教
 https://t.freetv.fun/live/jing-ji-ke-jiao-gao-qing-8.m3u8
+#EXTINF:-1 tvg-name="温州经济科教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/温州经济科教.png" group-title="☘️浙江频道",温州经济科教
+https://t.freetv.fun/live/jing-ji-ke-jiao-gao-qing-1.m3u8
+#EXTINF:-1 tvg-name="温州经济科教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/温州经济科教.png" group-title="☘️浙江频道",温州经济科教
+https://t.freetv.fun/live/jing-ji-ke-jiao-gao-qing-2.m3u8
+#EXTINF:-1 tvg-name="温州经济科教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/温州经济科教.png" group-title="☘️浙江频道",温州经济科教
+https://t.freetv.fun/live/jing-ji-ke-jiao-gao-qing-5.m3u8
 #EXTINF:-1 tvg-name="海宁生活服务" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海宁生活服务.png" group-title="☘️浙江频道",海宁生活服务
 https://stream1.freetv.fun/hai-zhu-sheng-huo-fu-wu-1.m3u8
 #EXTINF:-1 tvg-name="海宁生活服务" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海宁生活服务.png" group-title="☘️浙江频道",海宁生活服务
