@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260301224630 +0800">
+<tv date="20260302110531 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -34287,77 +34287,107 @@
 	<programme channel="江苏教育" start="20260301224200 +0800" stop="20260301235959 +0800">
 		<title lang="zh">一站到底</title>
 	</programme>
-	<programme channel="江苏教育" start="20260302000000 +0800" stop="20260302000500 +0800">
-		<title lang="zh">重温经典</title>
+	<programme channel="江苏教育" start="20260302000000 +0800" stop="20260302001800 +0800">
+		<title lang="zh">一站到底</title>
 	</programme>
-	<programme channel="江苏教育" start="20260302000500 +0800" stop="20260302002500 +0800">
-		<title lang="zh">传承人</title>
-	</programme>
-	<programme channel="江苏教育" start="20260302002500 +0800" stop="20260302011500 +0800">
-		<title lang="zh">教育周刊</title>
-	</programme>
-	<programme channel="江苏教育" start="20260302011500 +0800" stop="20260302033500 +0800">
-		<title lang="zh">重温经典励志版</title>
-	</programme>
-	<programme channel="江苏教育" start="20260302033500 +0800" stop="20260302034000 +0800">
-		<title lang="zh">微讲堂</title>
-	</programme>
-	<programme channel="江苏教育" start="20260302034000 +0800" stop="20260302035000 +0800">
-		<title lang="zh">江南文脉</title>
-	</programme>
-	<programme channel="江苏教育" start="20260302035000 +0800" stop="20260302060000 +0800">
-		<title lang="zh">重温经典青春版</title>
-	</programme>
-	<programme channel="江苏教育" start="20260302060000 +0800" stop="20260302061000 +0800">
-		<title lang="zh">领读江苏</title>
-	</programme>
-	<programme channel="江苏教育" start="20260302061000 +0800" stop="20260302062500 +0800">
-		<title lang="zh">今日科学</title>
-	</programme>
-	<programme channel="江苏教育" start="20260302062500 +0800" stop="20260302073000 +0800">
-		<title lang="zh">开放大学我的大学</title>
-	</programme>
-	<programme channel="江苏教育" start="20260302073000 +0800" stop="20260302091500 +0800">
-		<title lang="zh">为爱转身</title>
-	</programme>
-	<programme channel="江苏教育" start="20260302091500 +0800" stop="20260302114500 +0800">
-		<title lang="zh">重温经典青春版</title>
-	</programme>
-	<programme channel="江苏教育" start="20260302114500 +0800" stop="20260302120500 +0800">
-		<title lang="zh">健康江苏行</title>
-	</programme>
-	<programme channel="江苏教育" start="20260302120500 +0800" stop="20260302122500 +0800">
+	<programme channel="江苏教育" start="20260302001800 +0800" stop="20260302003800 +0800">
 		<title lang="zh">江苏职教风采</title>
 	</programme>
-	<programme channel="江苏教育" start="20260302122500 +0800" stop="20260302141500 +0800">
-		<title lang="zh">为爱转身</title>
+	<programme channel="江苏教育" start="20260302003800 +0800" stop="20260302020400 +0800">
+		<title lang="zh">一站到底</title>
 	</programme>
-	<programme channel="江苏教育" start="20260302141500 +0800" stop="20260302174000 +0800">
-		<title lang="zh">重温经典励志版</title>
+	<programme channel="江苏教育" start="20260302020400 +0800" stop="20260302020900 +0800">
+		<title lang="zh">江南文脉</title>
 	</programme>
-	<programme channel="江苏教育" start="20260302174000 +0800" stop="20260302175000 +0800">
-		<title lang="zh">幸福新起点</title>
+	<programme channel="江苏教育" start="20260302020900 +0800" stop="20260302022900 +0800">
+		<title lang="zh">教育周刊</title>
 	</programme>
-	<programme channel="江苏教育" start="20260302175000 +0800" stop="20260302180000 +0800">
+	<programme channel="江苏教育" start="20260302022900 +0800" stop="20260302035900 +0800">
+		<title lang="zh">一站到底</title>
+	</programme>
+	<programme channel="江苏教育" start="20260302035900 +0800" stop="20260302040800 +0800">
 		<title lang="zh">微讲堂</title>
 	</programme>
-	<programme channel="江苏教育" start="20260302180000 +0800" stop="20260302184000 +0800">
+	<programme channel="江苏教育" start="20260302040800 +0800" stop="20260302042800 +0800">
+		<title lang="zh">开放大学</title>
+	</programme>
+	<programme channel="江苏教育" start="20260302042800 +0800" stop="20260302061500 +0800">
+		<title lang="zh">一站到底</title>
+	</programme>
+	<programme channel="江苏教育" start="20260302061500 +0800" stop="20260302063600 +0800">
+		<title lang="zh">重温经典</title>
+	</programme>
+	<programme channel="江苏教育" start="20260302063600 +0800" stop="20260302073500 +0800">
+		<title lang="zh">一站到底</title>
+	</programme>
+	<programme channel="江苏教育" start="20260302073500 +0800" stop="20260302081200 +0800">
 		<title lang="zh">勇者大冲关</title>
 	</programme>
-	<programme channel="江苏教育" start="20260302184000 +0800" stop="20260302191000 +0800">
+	<programme channel="江苏教育" start="20260302081200 +0800" stop="20260302091400 +0800">
+		<title lang="zh">传承人精选</title>
+	</programme>
+	<programme channel="江苏教育" start="20260302091400 +0800" stop="20260302101200 +0800">
+		<title lang="zh">智者无敌(8)</title>
+	</programme>
+	<programme channel="江苏教育" start="20260302101200 +0800" stop="20260302111100 +0800">
+		<title lang="zh">智者无敌(9)</title>
+	</programme>
+	<programme channel="江苏教育" start="20260302111100 +0800" stop="20260302121000 +0800">
+		<title lang="zh">智者无敌(10)</title>
+	</programme>
+	<programme channel="江苏教育" start="20260302121000 +0800" stop="20260302122100 +0800">
+		<title lang="zh">百炼成钢</title>
+	</programme>
+	<programme channel="江苏教育" start="20260302122100 +0800" stop="20260302130000 +0800">
+		<title lang="zh">神探狄仁杰Ⅱ(61)</title>
+	</programme>
+	<programme channel="江苏教育" start="20260302130000 +0800" stop="20260302133900 +0800">
+		<title lang="zh">神探狄仁杰Ⅱ(62)</title>
+	</programme>
+	<programme channel="江苏教育" start="20260302133900 +0800" stop="20260302141400 +0800">
+		<title lang="zh">传承人精选</title>
+	</programme>
+	<programme channel="江苏教育" start="20260302141400 +0800" stop="20260302145800 +0800">
+		<title lang="zh">战金岭(45)</title>
+	</programme>
+	<programme channel="江苏教育" start="20260302145800 +0800" stop="20260302154300 +0800">
+		<title lang="zh">战金岭(46)</title>
+	</programme>
+	<programme channel="江苏教育" start="20260302154300 +0800" stop="20260302162700 +0800">
+		<title lang="zh">战金岭(47)</title>
+	</programme>
+	<programme channel="江苏教育" start="20260302162700 +0800" stop="20260302171200 +0800">
+		<title lang="zh">战金岭(48)</title>
+	</programme>
+	<programme channel="江苏教育" start="20260302171200 +0800" stop="20260302180000 +0800">
+		<title lang="zh">优秀文化节目展播</title>
+	</programme>
+	<programme channel="江苏教育" start="20260302180000 +0800" stop="20260302182200 +0800">
 		<title lang="zh">未来科学家</title>
 	</programme>
-	<programme channel="江苏教育" start="20260302191000 +0800" stop="20260302193000 +0800">
-		<title lang="zh">凡事讲礼</title>
+	<programme channel="江苏教育" start="20260302182200 +0800" stop="20260302183500 +0800">
+		<title lang="zh">微讲堂</title>
+	</programme>
+	<programme channel="江苏教育" start="20260302183500 +0800" stop="20260302191500 +0800">
+		<title lang="zh">勇者大冲关</title>
+	</programme>
+	<programme channel="江苏教育" start="20260302191500 +0800" stop="20260302193000 +0800">
+		<title lang="zh">无声的功勋</title>
 	</programme>
 	<programme channel="江苏教育" start="20260302193000 +0800" stop="20260302195000 +0800">
 		<title lang="zh">江苏教育新闻</title>
 	</programme>
-	<programme channel="江苏教育" start="20260302195000 +0800" stop="20260302220500 +0800">
-		<title lang="zh">重温经典励志版</title>
+	<programme channel="江苏教育" start="20260302195000 +0800" stop="20260302212100 +0800">
+		<title lang="zh">优秀文化节目展播</title>
 	</programme>
-	<programme channel="江苏教育" start="20260302220500 +0800" stop="20260302235959 +0800">
-		<title lang="zh">重温经典</title>
+	<programme channel="江苏教育" start="20260302212100 +0800" stop="20260302220100 +0800">
+		<title lang="zh">凭栏一片风云起(1)</title>
+	</programme>
+	<programme channel="江苏教育" start="20260302220100 +0800" stop="20260302224200 +0800">
+		<title lang="zh">凭栏一片风云起(2)</title>
+	</programme>
+	<programme channel="江苏教育" start="20260302224200 +0800" stop="20260302235959 +0800">
+		<title lang="zh">一站到底</title>
 	</programme>
 	<channel id="香港卫视">
 		<display-name lang="zh">香港卫视</display-name>
@@ -69231,6 +69261,78 @@
 	<programme channel="绍兴新闻综合" start="20260301230500 +0800" stop="20260301235959 +0800">
 		<title lang="zh">晚间剧场</title>
 	</programme>
+	<programme channel="绍兴新闻综合" start="20260302093300 +0800" stop="20260302102200 +0800">
+		<title lang="zh">上午剧场</title>
+	</programme>
+	<programme channel="绍兴新闻综合" start="20260302102200 +0800" stop="20260302111000 +0800">
+		<title lang="zh">上午剧场</title>
+	</programme>
+	<programme channel="绍兴新闻综合" start="20260302111000 +0800" stop="20260302120000 +0800">
+		<title lang="zh">上午剧场</title>
+	</programme>
+	<programme channel="绍兴新闻综合" start="20260302120000 +0800" stop="20260302122200 +0800">
+		<title lang="zh">话题</title>
+	</programme>
+	<programme channel="绍兴新闻综合" start="20260302122200 +0800" stop="20260302124000 +0800">
+		<title lang="zh">鉴湖警视</title>
+	</programme>
+	<programme channel="绍兴新闻综合" start="20260302124000 +0800" stop="20260302125700 +0800">
+		<title lang="zh">鉴湖浪花</title>
+	</programme>
+	<programme channel="绍兴新闻综合" start="20260302125700 +0800" stop="20260302134900 +0800">
+		<title lang="zh">下午剧场</title>
+	</programme>
+	<programme channel="绍兴新闻综合" start="20260302134900 +0800" stop="20260302144100 +0800">
+		<title lang="zh">下午剧场</title>
+	</programme>
+	<programme channel="绍兴新闻综合" start="20260302144100 +0800" stop="20260302153600 +0800">
+		<title lang="zh">下午剧场</title>
+	</programme>
+	<programme channel="绍兴新闻综合" start="20260302153600 +0800" stop="20260302162800 +0800">
+		<title lang="zh">下午剧场</title>
+	</programme>
+	<programme channel="绍兴新闻综合" start="20260302162800 +0800" stop="20260302165500 +0800">
+		<title lang="zh">引进专题</title>
+	</programme>
+	<programme channel="绍兴新闻综合" start="20260302165500 +0800" stop="20260302172900 +0800">
+		<title lang="zh">鉴湖越台</title>
+	</programme>
+	<programme channel="绍兴新闻综合" start="20260302172900 +0800" stop="20260302175500 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="绍兴新闻综合" start="20260302175500 +0800" stop="20260302182000 +0800">
+		<title lang="zh">走近科学</title>
+	</programme>
+	<programme channel="绍兴新闻综合" start="20260302182000 +0800" stop="20260302184600 +0800">
+		<title lang="zh">绍兴县新闻</title>
+	</programme>
+	<programme channel="绍兴新闻综合" start="20260302184600 +0800" stop="20260302193500 +0800">
+		<title lang="zh">财经广场</title>
+	</programme>
+	<programme channel="绍兴新闻综合" start="20260302193500 +0800" stop="20260302195200 +0800">
+		<title lang="zh">民生360</title>
+	</programme>
+	<programme channel="绍兴新闻综合" start="20260302195200 +0800" stop="20260302201100 +0800">
+		<title lang="zh">快乐吧</title>
+	</programme>
+	<programme channel="绍兴新闻综合" start="20260302201100 +0800" stop="20260302210700 +0800">
+		<title lang="zh">黄金剧场</title>
+	</programme>
+	<programme channel="绍兴新闻综合" start="20260302210700 +0800" stop="20260302220000 +0800">
+		<title lang="zh">黄金剧场</title>
+	</programme>
+	<programme channel="绍兴新闻综合" start="20260302220000 +0800" stop="20260302222600 +0800">
+		<title lang="zh">绍兴县新闻</title>
+	</programme>
+	<programme channel="绍兴新闻综合" start="20260302222600 +0800" stop="20260302225600 +0800">
+		<title lang="zh">民生360</title>
+	</programme>
+	<programme channel="绍兴新闻综合" start="20260302225600 +0800" stop="20260302234900 +0800">
+		<title lang="zh">晚间剧场</title>
+	</programme>
+	<programme channel="绍兴新闻综合" start="20260302234900 +0800" stop="20260302235959 +0800">
+		<title lang="zh">晚间剧场</title>
+	</programme>
 	<channel id="绍兴文化影视">
 		<display-name lang="zh">绍兴文化影视</display-name>
 	</channel>
@@ -69502,6 +69604,60 @@
 		<title lang="zh">开心大玩家</title>
 	</programme>
 	<programme channel="绍兴文化影视" start="20260228232500 +0800" stop="20260228235959 +0800">
+		<title lang="zh">档案重播</title>
+	</programme>
+	<programme channel="绍兴文化影视" start="20260302000000 +0800" stop="20260302070000 +0800">
+		<title lang="zh">精彩呈现</title>
+	</programme>
+	<programme channel="绍兴文化影视" start="20260302070000 +0800" stop="20260302071000 +0800">
+		<title lang="zh">白天节目预告</title>
+	</programme>
+	<programme channel="绍兴文化影视" start="20260302071000 +0800" stop="20260302101000 +0800">
+		<title lang="zh">连续剧</title>
+	</programme>
+	<programme channel="绍兴文化影视" start="20260302101000 +0800" stop="20260302101500 +0800">
+		<title lang="zh">连续剧</title>
+	</programme>
+	<programme channel="绍兴文化影视" start="20260302123000 +0800" stop="20260302125000 +0800">
+		<title lang="zh">广游天下(重播）</title>
+	</programme>
+	<programme channel="绍兴文化影视" start="20260302125000 +0800" stop="20260302134500 +0800">
+		<title lang="zh">连续剧</title>
+	</programme>
+	<programme channel="绍兴文化影视" start="20260302134500 +0800" stop="20260302154000 +0800">
+		<title lang="zh">连续剧</title>
+	</programme>
+	<programme channel="绍兴文化影视" start="20260302154000 +0800" stop="20260302165800 +0800">
+		<title lang="zh">连续剧</title>
+	</programme>
+	<programme channel="绍兴文化影视" start="20260302165800 +0800" stop="20260302165900 +0800">
+		<title lang="zh">晚间节目预告</title>
+	</programme>
+	<programme channel="绍兴文化影视" start="20260302170100 +0800" stop="20260302172600 +0800">
+		<title lang="zh">档案</title>
+	</programme>
+	<programme channel="绍兴文化影视" start="20260302172700 +0800" stop="20260302174000 +0800">
+		<title lang="zh">广游天下</title>
+	</programme>
+	<programme channel="绍兴文化影视" start="20260302174000 +0800" stop="20260302180700 +0800">
+		<title lang="zh">莲花剧场</title>
+	</programme>
+	<programme channel="绍兴文化影视" start="20260302181000 +0800" stop="20260302184900 +0800">
+		<title lang="zh">小兰花</title>
+	</programme>
+	<programme channel="绍兴文化影视" start="20260302185000 +0800" stop="20260302193700 +0800">
+		<title lang="zh">开心大玩家</title>
+	</programme>
+	<programme channel="绍兴文化影视" start="20260302194300 +0800" stop="20260302200800 +0800">
+		<title lang="zh">电视剧</title>
+	</programme>
+	<programme channel="绍兴文化影视" start="20260302200800 +0800" stop="20260302210000 +0800">
+		<title lang="zh">连续剧</title>
+	</programme>
+	<programme channel="绍兴文化影视" start="20260302223000 +0800" stop="20260302232500 +0800">
+		<title lang="zh">开心大玩家</title>
+	</programme>
+	<programme channel="绍兴文化影视" start="20260302232500 +0800" stop="20260302235959 +0800">
 		<title lang="zh">档案重播</title>
 	</programme>
 	<channel id="安多卫视">
