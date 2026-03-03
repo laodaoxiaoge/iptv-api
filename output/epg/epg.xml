@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260302224717 +0800">
+<tv date="20260303110304 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -70913,5 +70913,53 @@
 	</programme>
 	<programme channel="经典电影" start="20260301230200 +0800" stop="20260301235959 +0800">
 		<title lang="zh">德古拉元年</title>
+	</programme>
+	<programme channel="经典电影" start="20260303000000 +0800" stop="20260303004000 +0800">
+		<title lang="zh">地下少先队</title>
+	</programme>
+	<programme channel="经典电影" start="20260303004000 +0800" stop="20260303022300 +0800">
+		<title lang="zh">刘巧儿</title>
+	</programme>
+	<programme channel="经典电影" start="20260303022300 +0800" stop="20260303035200 +0800">
+		<title lang="zh">地下少先队</title>
+	</programme>
+	<programme channel="经典电影" start="20260303035200 +0800" stop="20260303040000 +0800">
+		<title lang="zh">刘巧儿</title>
+	</programme>
+	<programme channel="经典电影" start="20260303040000 +0800" stop="20260303055400 +0800">
+		<title lang="zh">停战以后</title>
+	</programme>
+	<programme channel="经典电影" start="20260303055400 +0800" stop="20260303072700 +0800">
+		<title lang="zh">长空比翼</title>
+	</programme>
+	<programme channel="经典电影" start="20260303072700 +0800" stop="20260303092200 +0800">
+		<title lang="zh">停战以后</title>
+	</programme>
+	<programme channel="经典电影" start="20260303092200 +0800" stop="20260303105500 +0800">
+		<title lang="zh">长空比翼</title>
+	</programme>
+	<programme channel="经典电影" start="20260303105500 +0800" stop="20260303124900 +0800">
+		<title lang="zh">停战以后</title>
+	</programme>
+	<programme channel="经典电影" start="20260303124900 +0800" stop="20260303142200 +0800">
+		<title lang="zh">长空比翼</title>
+	</programme>
+	<programme channel="经典电影" start="20260303142200 +0800" stop="20260303161700 +0800">
+		<title lang="zh">停战以后</title>
+	</programme>
+	<programme channel="经典电影" start="20260303161700 +0800" stop="20260303175000 +0800">
+		<title lang="zh">长空比翼</title>
+	</programme>
+	<programme channel="经典电影" start="20260303175000 +0800" stop="20260303194400 +0800">
+		<title lang="zh">停战以后</title>
+	</programme>
+	<programme channel="经典电影" start="20260303194400 +0800" stop="20260303211700 +0800">
+		<title lang="zh">长空比翼</title>
+	</programme>
+	<programme channel="经典电影" start="20260303211700 +0800" stop="20260303231200 +0800">
+		<title lang="zh">停战以后</title>
+	</programme>
+	<programme channel="经典电影" start="20260303231200 +0800" stop="20260303235900 +0800">
+		<title lang="zh">长空比翼</title>
 	</programme>
 </tv>
