@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260305232711 +0800">
+<tv date="20260306105826 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -34002,77 +34002,107 @@
 	<programme channel="江苏教育" start="20260305224200 +0800" stop="20260305235959 +0800">
 		<title lang="zh">一站到底</title>
 	</programme>
-	<programme channel="江苏教育" start="20260306000000 +0800" stop="20260306000500 +0800">
-		<title lang="zh">重温经典</title>
+	<programme channel="江苏教育" start="20260306000000 +0800" stop="20260306001800 +0800">
+		<title lang="zh">一站到底</title>
 	</programme>
-	<programme channel="江苏教育" start="20260306000500 +0800" stop="20260306002500 +0800">
-		<title lang="zh">传承人</title>
+	<programme channel="江苏教育" start="20260306001800 +0800" stop="20260306003800 +0800">
+		<title lang="zh">江苏教育新闻</title>
 	</programme>
-	<programme channel="江苏教育" start="20260306002500 +0800" stop="20260306011500 +0800">
-		<title lang="zh">教育周刊</title>
+	<programme channel="江苏教育" start="20260306003800 +0800" stop="20260306020400 +0800">
+		<title lang="zh">一站到底</title>
 	</programme>
-	<programme channel="江苏教育" start="20260306011500 +0800" stop="20260306033500 +0800">
-		<title lang="zh">重温经典励志版</title>
-	</programme>
-	<programme channel="江苏教育" start="20260306033500 +0800" stop="20260306034000 +0800">
-		<title lang="zh">微讲堂</title>
-	</programme>
-	<programme channel="江苏教育" start="20260306034000 +0800" stop="20260306035000 +0800">
+	<programme channel="江苏教育" start="20260306020400 +0800" stop="20260306022900 +0800">
 		<title lang="zh">江南文脉</title>
 	</programme>
-	<programme channel="江苏教育" start="20260306035000 +0800" stop="20260306060000 +0800">
-		<title lang="zh">重温经典青春版</title>
+	<programme channel="江苏教育" start="20260306022900 +0800" stop="20260306035900 +0800">
+		<title lang="zh">一站到底</title>
 	</programme>
-	<programme channel="江苏教育" start="20260306060000 +0800" stop="20260306061000 +0800">
-		<title lang="zh">领读江苏</title>
-	</programme>
-	<programme channel="江苏教育" start="20260306061000 +0800" stop="20260306062500 +0800">
-		<title lang="zh">今日科学</title>
-	</programme>
-	<programme channel="江苏教育" start="20260306062500 +0800" stop="20260306073000 +0800">
-		<title lang="zh">开放大学我的大学</title>
-	</programme>
-	<programme channel="江苏教育" start="20260306073000 +0800" stop="20260306091500 +0800">
-		<title lang="zh">为爱转身</title>
-	</programme>
-	<programme channel="江苏教育" start="20260306091500 +0800" stop="20260306114500 +0800">
-		<title lang="zh">重温经典青春版</title>
-	</programme>
-	<programme channel="江苏教育" start="20260306114500 +0800" stop="20260306120500 +0800">
-		<title lang="zh">健康江苏行</title>
-	</programme>
-	<programme channel="江苏教育" start="20260306120500 +0800" stop="20260306122500 +0800">
-		<title lang="zh">江苏职教风采</title>
-	</programme>
-	<programme channel="江苏教育" start="20260306122500 +0800" stop="20260306141500 +0800">
-		<title lang="zh">为爱转身</title>
-	</programme>
-	<programme channel="江苏教育" start="20260306141500 +0800" stop="20260306174000 +0800">
-		<title lang="zh">重温经典励志版</title>
-	</programme>
-	<programme channel="江苏教育" start="20260306174000 +0800" stop="20260306175000 +0800">
-		<title lang="zh">幸福新起点</title>
-	</programme>
-	<programme channel="江苏教育" start="20260306175000 +0800" stop="20260306180000 +0800">
+	<programme channel="江苏教育" start="20260306035900 +0800" stop="20260306040800 +0800">
 		<title lang="zh">微讲堂</title>
 	</programme>
-	<programme channel="江苏教育" start="20260306180000 +0800" stop="20260306184000 +0800">
+	<programme channel="江苏教育" start="20260306040800 +0800" stop="20260306042800 +0800">
+		<title lang="zh">凡事讲礼</title>
+	</programme>
+	<programme channel="江苏教育" start="20260306042800 +0800" stop="20260306061500 +0800">
+		<title lang="zh">一站到底</title>
+	</programme>
+	<programme channel="江苏教育" start="20260306061500 +0800" stop="20260306063600 +0800">
+		<title lang="zh">重温经典</title>
+	</programme>
+	<programme channel="江苏教育" start="20260306063600 +0800" stop="20260306073500 +0800">
+		<title lang="zh">一站到底</title>
+	</programme>
+	<programme channel="江苏教育" start="20260306073500 +0800" stop="20260306081200 +0800">
 		<title lang="zh">勇者大冲关</title>
 	</programme>
-	<programme channel="江苏教育" start="20260306184000 +0800" stop="20260306191000 +0800">
-		<title lang="zh">未来科学家</title>
+	<programme channel="江苏教育" start="20260306081200 +0800" stop="20260306091400 +0800">
+		<title lang="zh">传承人精选</title>
 	</programme>
-	<programme channel="江苏教育" start="20260306191000 +0800" stop="20260306193000 +0800">
-		<title lang="zh">凡事讲礼</title>
+	<programme channel="江苏教育" start="20260306091400 +0800" stop="20260306101200 +0800">
+		<title lang="zh">智者无敌(20)</title>
+	</programme>
+	<programme channel="江苏教育" start="20260306101200 +0800" stop="20260306111100 +0800">
+		<title lang="zh">智者无敌(21)</title>
+	</programme>
+	<programme channel="江苏教育" start="20260306111100 +0800" stop="20260306121000 +0800">
+		<title lang="zh">智者无敌(22)</title>
+	</programme>
+	<programme channel="江苏教育" start="20260306121000 +0800" stop="20260306122100 +0800">
+		<title lang="zh">百炼成钢</title>
+	</programme>
+	<programme channel="江苏教育" start="20260306122100 +0800" stop="20260306130000 +0800">
+		<title lang="zh">凭栏一片风云起(7)</title>
+	</programme>
+	<programme channel="江苏教育" start="20260306130000 +0800" stop="20260306133900 +0800">
+		<title lang="zh">凭栏一片风云起(8)</title>
+	</programme>
+	<programme channel="江苏教育" start="20260306133900 +0800" stop="20260306141400 +0800">
+		<title lang="zh">传承人精选</title>
+	</programme>
+	<programme channel="江苏教育" start="20260306141400 +0800" stop="20260306145800 +0800">
+		<title lang="zh">哈尔滨一九四四(8)</title>
+	</programme>
+	<programme channel="江苏教育" start="20260306145800 +0800" stop="20260306154300 +0800">
+		<title lang="zh">哈尔滨一九四四(9)</title>
+	</programme>
+	<programme channel="江苏教育" start="20260306154300 +0800" stop="20260306162700 +0800">
+		<title lang="zh">哈尔滨一九四四(10)</title>
+	</programme>
+	<programme channel="江苏教育" start="20260306162700 +0800" stop="20260306171200 +0800">
+		<title lang="zh">哈尔滨一九四四(11)</title>
+	</programme>
+	<programme channel="江苏教育" start="20260306171200 +0800" stop="20260306175500 +0800">
+		<title lang="zh">优秀文化节目展播</title>
+	</programme>
+	<programme channel="江苏教育" start="20260306175500 +0800" stop="20260306180000 +0800">
+		<title lang="zh">教育周刊</title>
+	</programme>
+	<programme channel="江苏教育" start="20260306180000 +0800" stop="20260306182200 +0800">
+		<title lang="zh">家有儿女</title>
+	</programme>
+	<programme channel="江苏教育" start="20260306182200 +0800" stop="20260306183500 +0800">
+		<title lang="zh">微讲堂</title>
+	</programme>
+	<programme channel="江苏教育" start="20260306183500 +0800" stop="20260306191500 +0800">
+		<title lang="zh">勇者大冲关</title>
+	</programme>
+	<programme channel="江苏教育" start="20260306191500 +0800" stop="20260306193000 +0800">
+		<title lang="zh">无声的功勋</title>
 	</programme>
 	<programme channel="江苏教育" start="20260306193000 +0800" stop="20260306195000 +0800">
 		<title lang="zh">江苏教育新闻</title>
 	</programme>
-	<programme channel="江苏教育" start="20260306195000 +0800" stop="20260306220500 +0800">
-		<title lang="zh">重温经典励志版</title>
+	<programme channel="江苏教育" start="20260306195000 +0800" stop="20260306212100 +0800">
+		<title lang="zh">优秀文化节目展播</title>
 	</programme>
-	<programme channel="江苏教育" start="20260306220500 +0800" stop="20260306235959 +0800">
-		<title lang="zh">重温经典</title>
+	<programme channel="江苏教育" start="20260306212100 +0800" stop="20260306220100 +0800">
+		<title lang="zh">凭栏一片风云起(9)</title>
+	</programme>
+	<programme channel="江苏教育" start="20260306220100 +0800" stop="20260306224200 +0800">
+		<title lang="zh">凭栏一片风云起(10)</title>
+	</programme>
+	<programme channel="江苏教育" start="20260306224200 +0800" stop="20260306235959 +0800">
+		<title lang="zh">一站到底</title>
 	</programme>
 	<channel id="香港卫视">
 		<display-name lang="zh">香港卫视</display-name>
