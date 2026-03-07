@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-07 18:44:29,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-03-08 06:42:51,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1698,6 +1698,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 苏州生活资讯,https://stream1.freetv.fun/su-zhou-sheng-huo-zi-xun-1.m3u8
 苏州生活资讯,https://stream1.freetv.fun/su-zhou-sheng-huo-zi-xun-2.m3u8
 苏州生活资讯,https://t.freetv.fun/live/su-zhou-sheng-huo-zi-xun.m3u8
+苏州生活资讯,https://t.freetv.fun/live/sheng-huo-zi-xun.php
 苏州电影娱乐,https://t.freetv.fun/live/su-zhou-dian-ying-yu-le-xin-xi-1.flv
 苏州电影娱乐,https://t.freetv.fun/live/su-zhou-yu-le.m3u8
 苏州社会经济,https://stream1.freetv.fun/su-zhou-she-hui-jing-ji-2.m3u8
@@ -4126,6 +4127,7 @@ CN卡通,https://hls-gateway.vpstv.net/streams/476247.m3u8
 海绵宝宝,https://t.freetv.fun/live/hai-mian-bao-bao-1.m3u8
 海绵宝宝,https://t.freetv.fun/live/hai-mian-bao-bao-1.php
 海绵宝宝,https://live.iill.top/huya/11352919
+海绵宝宝,https://t.freetv.fun/live/hai-mian-bao-bao.flv
 中华小当家,https://live.metshop.top/huya/11342413
 中华小当家,https://live.iill.top/huya/11342413
 中华小当家,https://live.ottiptv.cc/huya/11342413
@@ -4138,6 +4140,7 @@ CN卡通,https://hls-gateway.vpstv.net/streams/476247.m3u8
 猫和老鼠,http://cdn.jdshipin.com:8880/huya.php?id=11352879
 猫和老鼠,http://aiony.top:35455/huya/11352879
 猫和老鼠,https://live.metshop.top/huya/11352879
+猫和老鼠,https://lbds.us.ci/11352879
 经典动漫,http://luobo.bkpcp.top/yy/24180320
 经典动漫,https://www.goodiptv.club/yy/22777075
 经典动漫,https://yylunbo.ottiptv.cc/yy/67857780
@@ -4148,6 +4151,7 @@ CN卡通,https://hls-gateway.vpstv.net/streams/476247.m3u8
 蜡笔小新,https://t.freetv.fun/live/zha-bi-xiao-xin.m3u8
 蜡笔小新,https://t.freetv.fun/live/zha-bi-xiao-xin-1.php
 蜡笔小新,http://cdn.jdshipin.com:8880/huya.php?id=11352970
+蜡笔小新,https://t.freetv.fun/live/zha-bi-xiao-xin.flv
 漫画解说,http://luobo.bkpcp.top/yy/1382735568
 漫画解说,https://www.goodiptv.club/douyu/5907076
 漫画解说,https://mursor.ottiptv.cc/yy/1382735568
