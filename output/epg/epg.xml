@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260310224837 +0800">
+<tv date="20260311110532 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -65110,7 +65110,46 @@
 	<programme channel="苏州文化生活" start="20260310232500 +0800" stop="20260310234500 +0800">
 		<title lang="zh">直播苏州</title>
 	</programme>
-	<programme channel="苏州文化生活" start="20260310234500 +0800" stop="20260310235959 +0800">
+	<programme channel="苏州文化生活" start="20260310234500 +0800" stop="20260311000000 +0800">
+		<title lang="zh">晚间剧场</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20260311000000 +0800" stop="20260311062000 +0800">
+		<title lang="zh">精彩呈现</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20260311062000 +0800" stop="20260311081000 +0800">
+		<title lang="zh">魅力剧场</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20260311081000 +0800" stop="20260311105100 +0800">
+		<title lang="zh">纪录片时间</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20260311105100 +0800" stop="20260311153000 +0800">
+		<title lang="zh">生活剧场</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20260311153000 +0800" stop="20260311180000 +0800">
+		<title lang="zh">纪录片时间</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20260311180000 +0800" stop="20260311183000 +0800">
+		<title lang="zh">教育节目</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20260311183000 +0800" stop="20260311201000 +0800">
+		<title lang="zh">五星剧场</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20260311201000 +0800" stop="20260311222500 +0800">
+		<title lang="zh">纪录片时间</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20260311222500 +0800" stop="20260311224500 +0800">
+		<title lang="zh">天天健康</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20260311224500 +0800" stop="20260311230000 +0800">
+		<title lang="zh">苏州财经报道</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20260311230000 +0800" stop="20260311232500 +0800">
+		<title lang="zh">第一时间</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20260311232500 +0800" stop="20260311234500 +0800">
+		<title lang="zh">直播苏州</title>
+	</programme>
+	<programme channel="苏州文化生活" start="20260311234500 +0800" stop="20260311235959 +0800">
 		<title lang="zh">晚间剧场</title>
 	</programme>
 	<channel id="苏州生活资讯">
@@ -65413,7 +65452,55 @@
 	<programme channel="苏州生活资讯" start="20260310211000 +0800" stop="20260310232000 +0800">
 		<title lang="zh">经典剧场</title>
 	</programme>
-	<programme channel="苏州生活资讯" start="20260310232000 +0800" stop="20260310235959 +0800">
+	<programme channel="苏州生活资讯" start="20260310232000 +0800" stop="20260311000000 +0800">
+		<title lang="zh">再见</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20260311000000 +0800" stop="20260311070000 +0800">
+		<title lang="zh">精彩呈现</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20260311070000 +0800" stop="20260311072000 +0800">
+		<title lang="zh">今日相城</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20260311072000 +0800" stop="20260311113000 +0800">
+		<title lang="zh">早间剧场</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20260311113000 +0800" stop="20260311115000 +0800">
+		<title lang="zh">联播苏州</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20260311115000 +0800" stop="20260311122500 +0800">
+		<title lang="zh">李刚评话</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20260311122500 +0800" stop="20260311181000 +0800">
+		<title lang="zh">休闲剧场</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20260311181000 +0800" stop="20260311185500 +0800">
+		<title lang="zh">苏州电视书场</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20260311185500 +0800" stop="20260311191000 +0800">
+		<title lang="zh">天天健康</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20260311191000 +0800" stop="20260311193000 +0800">
+		<title lang="zh">吴中报道</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20260311193000 +0800" stop="20260311195000 +0800">
+		<title lang="zh">联播苏州</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20260311195000 +0800" stop="20260311202000 +0800">
+		<title lang="zh">李刚评话</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20260311202000 +0800" stop="20260311204000 +0800">
+		<title lang="zh">第一时间</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20260311204000 +0800" stop="20260311205500 +0800">
+		<title lang="zh">苏州财经报道</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20260311205500 +0800" stop="20260311211000 +0800">
+		<title lang="zh">吴中报道</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20260311211000 +0800" stop="20260311232000 +0800">
+		<title lang="zh">经典剧场</title>
+	</programme>
+	<programme channel="苏州生活资讯" start="20260311232000 +0800" stop="20260311235959 +0800">
 		<title lang="zh">再见</title>
 	</programme>
 	<channel id="无锡新闻综合">
