@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260318225241 +0800">
+<tv date="20260319110606 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -21741,10 +21741,10 @@
 	<programme channel="西藏卫视" start="20260319081500 +0800" stop="20260319083000 +0800">
 		<title lang="zh">跟我学藏语</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260319083000 +0800" stop="20260319090300 +0800">
+	<programme channel="西藏卫视" start="20260319083000 +0800" stop="20260319090400 +0800">
 		<title lang="zh">西藏新闻联播</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260319090300 +0800" stop="20260319100000 +0800">
+	<programme channel="西藏卫视" start="20260319090400 +0800" stop="20260319100000 +0800">
 		<title lang="zh">薛平贵与王宝钏(21)</title>
 	</programme>
 	<programme channel="西藏卫视" start="20260319100000 +0800" stop="20260319110000 +0800">
