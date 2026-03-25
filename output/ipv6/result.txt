@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-25 06:53:50,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-03-25 19:10:31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -3701,6 +3701,7 @@ NewTV动作电影,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225661/
 靖天映画,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv055/index.m3u8
 靖天映画,https://4gtv.dxjc.pp.ua/4gtv-4gtv055/index.m3u8
 靖天映画,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv055
+靖天映画,https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
 靖天戏剧,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv058
 靖天戏剧,http://pullpackage.alivecdn.com/live/pU4fD0cP0dx6iXknYRcEzuZOQ6P6z5FsZ9KvAOPGsBry6iYBSe.flv
 靖天戏剧,https://stream1.freetv.fun/jing-tian-xi-ju-4.ctv
@@ -4171,6 +4172,7 @@ CN卡通,https://hls-gateway.vpstv.net/streams/476247.m3u8
 猫和老鼠,http://aiony.top:35455/huya/11352879
 猫和老鼠,https://live.metshop.top/huya/11352879
 猫和老鼠,https://lbds.us.ci/11352879
+猫和老鼠,https://live.ottiptv.cc/bilibili/8626733
 经典动漫,http://luobo.bkpcp.top/yy/24180320
 经典动漫,https://www.goodiptv.club/yy/22777075
 经典动漫,https://yylunbo.ottiptv.cc/yy/67857780
