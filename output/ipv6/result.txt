@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-30 19:23:39,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-03-31 06:59:08,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -2000,6 +2000,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 荆门新闻综合,https://t.freetv.fun/live/jing-men-xin-wen-zong-he-1.m3u8
 
 ☘️广西频道,#genre#
+北海新闻综合,https://t.freetv.fun/live/bei-hai-xin-wen-zong-he.m3u8
 北海经济科教,https://play-a2.quklive.com:443/live/1727311690820146.m3u8
 北海经济科教,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226308/index.m3u8?servicetype=1
 北海经济科教,https://play-a2.quklive.com/live/1727311690820146.m3u8?id=gxbhtv2&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1766359272&ev=20250113&sign=04cc70b3986191a51450ce6997273e57
@@ -2390,6 +2391,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 福建新闻,https://stream1.freetv.fun/fu-jian-xin-wen-6.m3u8
 福建新闻,https://stream1.freetv.fun/fu-jian-xin-wen-8.m3u8
 福建新闻,https://t.freetv.fun/live/fu-jian-xin-wen.m3u8
+福建新闻,https://t.freetv.fun/live/fu-jian-xin-wen-1.m3u8
 福建电视剧,https://stream1.freetv.fun/fu-jian-dian-shi-ju-1.m3u8
 福建电视剧,https://stream1.freetv.fun/fu-jian-dian-shi-ju-2.m3u8
 福建电视剧,https://stream1.freetv.fun/fu-jian-dian-shi-ju-3.m3u8
@@ -2397,6 +2399,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 福建电视剧,https://stream1.freetv.fun/fu-jian-dian-shi-ju-5.m3u8
 福建电视剧,https://stream1.freetv.fun/fu-jian-dian-shi-ju-6.m3u8
 福建电视剧,https://t.freetv.fun/live/fu-jian-dian-shi-ju.m3u8
+福建电视剧,https://t.freetv.fun/live/fu-jian-dian-shi-ju-1.m3u8
 福建经济,https://stream1.freetv.fun/fu-jian-jing-ji-1.m3u8
 福建经济,https://stream1.freetv.fun/fu-jian-jing-ji-2.m3u8
 福建经济,https://stream1.freetv.fun/fu-jian-jing-ji-4.m3u8
@@ -2409,6 +2412,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 福建综合,https://stream1.freetv.fun/fu-jian-zong-he-5.m3u8
 福建综合,https://stream1.freetv.fun/fu-jian-zong-he-6.m3u8
 福建综合,https://t.freetv.fun/live/fu-jian-zong-he.m3u8
+福建综合,https://t.freetv.fun/live/fu-jian-zong-he-1.m3u8
 福建公共,https://stream1.freetv.fun/fu-jian-gong-gong-4.ctv
 福建旅游,https://stream1.freetv.fun/fu-jian-lu-you-6.m3u8
 福建旅游,http://stream7.fjtv.net/lypdntsc/hd/live.m3u8
@@ -2431,6 +2435,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 福建少儿,https://stream1.freetv.fun/fu-jian-shao-er-7.m3u8
 福建少儿,http://php.jdshipin.com:8880/fujian.php?id=8
 福建少儿,https://t.freetv.fun/live/fu-jian-shao-er.m3u8
+福建少儿,https://t.freetv.fun/live/fu-jian-shao-er-1.m3u8
 福建海峡卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/57/20230724/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 福建海峡卫视,https://t.freetv.fun/live/hai-xia-wei-shi-1.m3u8
 福建海峡卫视,https://t.freetv.fun/live/hai-xia-wei-shi-4.m3u8
