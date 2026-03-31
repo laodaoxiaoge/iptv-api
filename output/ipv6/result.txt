@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-31 06:59:08,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-03-31 19:17:13,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -2043,6 +2043,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 广西新闻,https://tv.gxtv.cn/channel/channelivePlay_9dfd8600075811e9ba67e41f13b60c62.html
 广西新闻,https://t.freetv.fun/live/yan-xi-xin-wen.m3u8
 广西新闻,https://t.freetv.fun/live/yan-xi-xin-wen-1.m3u8
+广西新闻,https://t.freetv.fun/live/yan-xi-xin-wen-2.m3u8
 北海新闻,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226309/index.m3u8?servicetype=1
 广西国际,https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
 广西国际,http://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8?fbl=
@@ -2414,6 +2415,8 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 福建综合,https://t.freetv.fun/live/fu-jian-zong-he.m3u8
 福建综合,https://t.freetv.fun/live/fu-jian-zong-he-1.m3u8
 福建公共,https://stream1.freetv.fun/fu-jian-gong-gong-4.ctv
+福建公共,https://t.freetv.fun/live/fu-jian-gong-gong-1.m3u8
+福建公共,https://t.freetv.fun/live/fu-jian-gong-gong.m3u8
 福建旅游,https://stream1.freetv.fun/fu-jian-lu-you-6.m3u8
 福建旅游,http://stream7.fjtv.net/lypdntsc/hd/live.m3u8
 福建旅游,http://stream7.fjtv.net/lypdntsc/hd/live.m3u8?id=fjds&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1772394907&ev=20250113&sign=c0c085dedc52a60d13f075b1c9a0b907
@@ -2422,6 +2425,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 福建旅游,http://stream7.fjtv.net/lypdntsc/hd/live.m3u8?id=fjds&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1773604852&ev=20250113&sign=5e122edd0ac166de5e183d1b00f5ce89
 福建旅游,http://stream7.fjtv.net/lypdntsc/hd/live.m3u8?id=fjds&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1774209624&ev=20250113&sign=c710d1f8cb970596f740a3c8d3f425c3
 福建旅游,http://stream7.fjtv.net/lypdntsc/hd/live.m3u8?id=fjds&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1774814827&ev=20250113&sign=3e7f64b2d155e811b3ab2bb636dcd00f
+福建旅游,https://t.freetv.fun/live/fu-jian-lu-you-1.m3u8
 福建经视,https://stream1.freetv.fun/fu-jian-jing-ji-4.m3u8
 福建经视,https://stream1.freetv.fun/fu-jian-jing-ji-1.m3u8
 福建经视,https://stream1.freetv.fun/fu-jian-jing-ji-2.m3u8
