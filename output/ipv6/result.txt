@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-05 19:02:51,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-04-06 06:55:27,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1460,6 +1460,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 都市剧场,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031111
 金山电视台,https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8?id=shjstv1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1774211118&ev=20250113&sign=9d73f466762572d552bf736816fb7738
 金山电视台,https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8?id=shjstv1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1774816371&ev=20250113&sign=85b3a332fbe6b711b5dd16fdbc52c977
+金山电视台,https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8?id=shjstv1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1775420971&ev=20250113&sign=a919e829b00e6bd3dbe87e2917c10f7a
 
 ☘️重庆频道,#genre#
 江津新闻综合,https://t.freetv.fun/live/jiang-jin-xin-wen-zong-he-1.m3u8
@@ -2150,6 +2151,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 广元综合,http://iptv.666230.xyz/iptv/sxg.php/gyzhH265_4000
 广元综合,https://stream1.freetv.fun/yan-yuan-zong-he-3.m3u8
 广元综合,https://t.freetv.fun/live/yan-yuan-zong-he.m3u8
+广元综合,https://t.freetv.fun/live/yan-yuan-zong-he-1.m3u8
 广安公共,http://iptv.666230.xyz/iptv/sxg.php/gagg_2000
 康定综合,http://iptv.666230.xyz/iptv/sxg.php/gzkdxwzh_2000
 康巴卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225660
@@ -2169,6 +2171,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 开江新闻综合,https://lmt.kjzx.net:98/live1/live1.m3u8?id=scdzkj1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1773607415&ev=20250113&sign=265283c2fc2a94650c01369e3c6459f5
 开江新闻综合,https://lmt.kjzx.net:98/live1/live1.m3u8?id=scdzkj1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1774212318&ev=20250113&sign=b1a3e23ab2c95004d8f0ad3703bfc144
 开江新闻综合,https://lmt.kjzx.net:98/live1/live1.m3u8?id=scdzkj1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1774817607&ev=20250113&sign=8411f23cae61b068ca7344d2d6d59ef3
+开江新闻综合,https://lmt.kjzx.net:98/live1/live1.m3u8?id=scdzkj1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1775422101&ev=20250113&sign=055d49534c357211c6854bee7c16481e
 德阳新闻综合,https://stream1.freetv.fun/de-yang-xin-wen-zong-he-1.m3u8
 德阳新闻综合,https://stream1.freetv.fun/de-yang-xin-wen-zong-he-2.m3u8
 德阳新闻综合,https://stream1.freetv.fun/de-yang-xin-wen-zong-he-3.m3u8
@@ -2430,6 +2433,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 福建旅游,http://stream7.fjtv.net/lypdntsc/hd/live.m3u8?id=fjds&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1774209624&ev=20250113&sign=c710d1f8cb970596f740a3c8d3f425c3
 福建旅游,http://stream7.fjtv.net/lypdntsc/hd/live.m3u8?id=fjds&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1774814827&ev=20250113&sign=3e7f64b2d155e811b3ab2bb636dcd00f
 福建旅游,https://t.freetv.fun/live/fu-jian-lu-you-1.m3u8
+福建旅游,http://stream7.fjtv.net/lypdntsc/hd/live.m3u8?id=fjds&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1775419555&ev=20250113&sign=cb76a46433df9877567f0155cdf9587d
 福建经视,https://stream1.freetv.fun/fu-jian-jing-ji-4.m3u8
 福建经视,https://stream1.freetv.fun/fu-jian-jing-ji-1.m3u8
 福建经视,https://stream1.freetv.fun/fu-jian-jing-ji-2.m3u8
