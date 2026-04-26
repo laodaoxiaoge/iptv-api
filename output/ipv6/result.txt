@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-26 19:11:25,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-04-27 07:07:25,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1463,6 +1463,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 金山电视台,https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8?id=shjstv1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1775420971&ev=20250113&sign=a919e829b00e6bd3dbe87e2917c10f7a
 金山电视台,https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8?id=shjstv1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1776026254&ev=20250113&sign=222f55351f2067862a772d4afcb79ed9
 金山电视台,https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8?id=shjstv1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1776630969&ev=20250113&sign=1323ff8c85e2f8e04c043e08f4ffe3f4
+金山电视台,https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8?id=shjstv1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1777236165&ev=20250113&sign=c207ffa3c64dbbe8e324800f1160aa03
 
 ☘️重庆频道,#genre#
 江津新闻综合,https://t.freetv.fun/live/jiang-jin-xin-wen-zong-he-1.m3u8
@@ -4199,11 +4200,13 @@ CN卡通,https://hls-gateway.vpstv.net/streams/476247.m3u8
 海绵宝宝,https://t.freetv.fun/live/hai-mian-bao-bao-1.php
 海绵宝宝,https://live.iill.top/huya/11352919
 海绵宝宝,https://t.freetv.fun/live/hai-mian-bao-bao.flv
+海绵宝宝,https://live.ottiptv.cc/huya/11352919
 中华小当家,https://live.metshop.top/huya/11342413
 中华小当家,https://live.iill.top/huya/11342413
 中华小当家,https://live.ottiptv.cc/huya/11342413
 中华小当家,http://live.iill.top/huya.php?id=11342413
 中华小当家,http://cdn.jdshipin.com:8880/huya.php?id=11342413
+中华小当家,https://cdn-3.ttvb.eu.org/huya/11342413
 斗破苍穹玄幻剧,https://live.metshop.top/yy/1356051105
 猫和老鼠,https://live.iill.top/huya/11352879
 猫和老鼠,http://live.iill.top/huya.php?id=11352879
@@ -4213,6 +4216,7 @@ CN卡通,https://hls-gateway.vpstv.net/streams/476247.m3u8
 猫和老鼠,https://live.metshop.top/huya/11352879
 猫和老鼠,https://lbds.us.ci/11352879
 猫和老鼠,https://live.ottiptv.cc/bilibili/8626733
+猫和老鼠,https://cdn-3.ttvb.eu.org/huya/11352879
 经典动漫,http://luobo.bkpcp.top/yy/24180320
 经典动漫,https://www.goodiptv.club/yy/22777075
 经典动漫,https://yylunbo.ottiptv.cc/yy/67857780
@@ -4225,6 +4229,7 @@ CN卡通,https://hls-gateway.vpstv.net/streams/476247.m3u8
 蜡笔小新,http://cdn.jdshipin.com:8880/huya.php?id=11352970
 蜡笔小新,https://t.freetv.fun/live/zha-bi-xiao-xin.flv
 蜡笔小新,https://live.ottiptv.cc/bilibili/30837590
+蜡笔小新,https://live.ottiptv.cc/huya/11352970
 漫画解说,http://luobo.bkpcp.top/yy/1382735568
 漫画解说,https://www.goodiptv.club/douyu/5907076
 漫画解说,https://mursor.ottiptv.cc/yy/1382735568
