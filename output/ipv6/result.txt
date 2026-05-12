@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-12 07:31:23,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-05-12 20:39:40,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -3073,19 +3073,16 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 山东农科,http://www.cjtt.love:9307/udp/239.253.250.24:8000
 山东农科,http://livealone.iqilu.com/iqilu/nkpdhjOF03kn.m3u8
 山东农科,https://v.iqilu.com/live/nkpd/
-山东农科,https://v.iqilu.com/live/nkpd/
 山东齐鲁,http://livealone302.iqilu.com/iqilu/qlpd.m3u8
 山东齐鲁,http://www.cjtt.love:9307/udp/239.253.250.114:8000
 山东齐鲁,https://t.freetv.fun/live/shan-dong-qi-lu.m3u8
 山东齐鲁,https://t.freetv.fun/live/shan-dong-qi-lu-1.m3u8
 山东齐鲁,http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.m3u8
 山东齐鲁,https://v.iqilu.com/live/qlpd/
-山东齐鲁,https://v.iqilu.com/live/qlpd/
 山东生活,http://ls.qingting.fm/live/60260.m3u8
 山东生活,http://livealone302.iqilu.com/iqilu/shpd.m3u8
 山东生活,http://www.cjtt.love:9307/udp/239.253.250.20:8000
 山东生活,http://livealone.iqilu.com/iqilu/shpdhjOF03kn.m3u8
-山东生活,https://v.iqilu.com/live/shpd/
 山东生活,https://v.iqilu.com/live/shpd/
 山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-14.m3u8
 山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-10.m3u8
@@ -3100,11 +3097,9 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 山东文旅,http://www.cjtt.love:9307/udp/239.253.250.19:8000
 山东文旅,http://livealone.iqilu.com/iqilu/yspdhjOF03kn.m3u8
 山东文旅,https://v.iqilu.com/live/yspd/
-山东文旅,https://v.iqilu.com/live/yspd/
 山东综艺,http://livealone302.iqilu.com/iqilu/zypd.m3u8
 山东综艺,http://www.cjtt.love:9307/udp/239.253.250.21:8000
 山东综艺,http://livealone.iqilu.com/iqilu/zypdhjOF03kn.m3u8
-山东综艺,https://v.iqilu.com/live/zypd/
 山东综艺,https://v.iqilu.com/live/zypd/
 济南综合,https://stream1.freetv.fun/ji-nan-zong-he-2.m3u8
 济南综合,https://stream1.freetv.fun/ji-nan-zong-he-3.m3u8
