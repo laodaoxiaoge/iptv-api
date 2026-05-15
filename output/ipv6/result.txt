@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-15 20:44:03,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-05-16 07:34:30,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -2545,6 +2545,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 梨园,https://hls-gateway.vpstv.net/streams/708842.m3u8
 梨园,http://clnas0001.top:9981/stream/channelid/1141902283?profile=pass
 梨园,http://admin:admin@clnas0001.top:9981/stream/channelid/1141902283?profile=pass
+梨园,http://gslbmgsplive.miguvideo.com/migu/kailu/ydcmc/51/20251225/index.m3u8?msisdn=276952aa52686a31598f6333cdf90473&mdspid=&spid=600697&netType=0&sid=5910022344&pid=2028597139&timestamp=20260515054849&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=961930369&ParentNodeID=-99&assertID=5910022344&client_ip=39.98.171.111&SecurityKey=20260515054849&promotionId=&mvid=5900006785&mcid=500020&playurlVersion=WX-A1-9.5.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=d95e166ca4166b266cf31f4c37885d94&ddCalcu=4d99vd5a5eb81a86763cca44f11636fbc266&sv=10004&ct=android
 临颍综合,http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 临颍综合,http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8
 义马新闻综合,http://tvpull.dxhmt.cn:9081/tv/11281-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
@@ -3592,6 +3593,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 凤凰卫视,http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
 凤凰卫视,http://api.kkitv.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
 凤凰卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+凤凰卫视,http://xsmt.ccwu.cc/xsmt/smt.php?id=60
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 TVBS亚洲,https://live.tvfix.org/live/tvbs/index.m3u8
 TVBS亚洲,https://t.freetv.fun/live/tvbsya-zhou-1.m3u8
