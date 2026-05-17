@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-17 19:46:44,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-05-18 07:37:46,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -991,11 +991,13 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 金华新闻综合,https://t.freetv.fun/live/jin-chuan-xin-wen-zong-he.m3u8
 金华新闻综合,https://t.freetv.fun/live/jin-chuan-xin-wen-zong-he-1.m3u8
 金华新闻综合,https://ali-xwl.cztv.com/live/jinhuads.m3u8?id=zjjhtv1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1778447469&ev=20250113&sign=cc003e80dd44361333cdff553500471a
+金华新闻综合,https://ali-xwl.cztv.com/live/jinhuads.m3u8?id=zjjhtv1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1779052329&ev=20250113&sign=2c23f89fe470eaa54ad6dbdbd3b71ce5
 舟山新闻综合,https://t.freetv.fun/live/xin-wen-zong-he.m3u8
 舟山新闻综合,https://t.freetv.fun/live/huang-shan-xin-wen-zong-he.m3u8
 舟山新闻综合,https://t.freetv.fun/live/wen-shan-xin-wen-zong-he.m3u8
 舟山新闻综合,https://t.freetv.fun/live/bai-shan-xin-wen-zong-he-1.m3u8
 舟山新闻综合,https://ali-xwl.cztv.com/live/zhoushands.m3u8?id=zjzstv1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1778447470&ev=20250113&sign=ff21a65ada02cd76a7fd368fff38b50a
+舟山新闻综合,https://ali-xwl.cztv.com/live/zhoushands.m3u8?id=zjzstv1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1779052330&ev=20250113&sign=7dc8242b026d06e185ba584a5dbb7654
 浙江经视,http://ali-m-l.cztv.com/channels/lantian/channel003/720p.m3u8
 浙江经视,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江留学,http://ali-vl.cztv.com/channels/lantian/channel009/360p.m3u8
@@ -1482,6 +1484,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 金山电视台,https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8?id=shjstv1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1776630969&ev=20250113&sign=1323ff8c85e2f8e04c043e08f4ffe3f4
 金山电视台,https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8?id=shjstv1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1777236165&ev=20250113&sign=c207ffa3c64dbbe8e324800f1160aa03
 金山电视台,https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8?id=shjstv1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1777841518&ev=20250113&sign=216ef8b1012f37f197aba2eb4ad45b06
+金山电视台,https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8?id=shjstv1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1779051612&ev=20250113&sign=fd290ef9f1e2cc3f50732f754708a8d7
 
 ☘️重庆频道,#genre#
 江津新闻综合,https://t.freetv.fun/live/jiang-jin-xin-wen-zong-he-1.m3u8
@@ -2554,6 +2557,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 梨园,http://admin:admin@clnas0001.top:9981/stream/channelid/1141902283?profile=pass
 梨园,http://gslbmgsplive.miguvideo.com/migu/kailu/ydcmc/51/20251225/index.m3u8?msisdn=276952aa52686a31598f6333cdf90473&mdspid=&spid=600697&netType=0&sid=5910022344&pid=2028597139&timestamp=20260515054849&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=961930369&ParentNodeID=-99&assertID=5910022344&client_ip=39.98.171.111&SecurityKey=20260515054849&promotionId=&mvid=5900006785&mcid=500020&playurlVersion=WX-A1-9.5.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=d95e166ca4166b266cf31f4c37885d94&ddCalcu=4d99vd5a5eb81a86763cca44f11636fbc266&sv=10004&ct=android
 梨园,http://gslbmgsplive.miguvideo.com/migu/kailu/ydcmc/51/20251225/index.m3u8?msisdn=a6933109367f3be4e59b719d32c3c8ae&mdspid=&spid=600697&netType=0&sid=5910022344&pid=2028597139&timestamp=20260516054009&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=961930369&ParentNodeID=-99&assertID=5910022344&client_ip=39.98.171.74&SecurityKey=20260516054009&promotionId=&mvid=5900006785&mcid=500020&playurlVersion=ZQ-A1-9.5.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=a93c55035278d3d7d16d9d7ca5619ba2&ddCalcu=2aa9vb3a9cb15a6550a3c572d798dd631dd7&sv=10004&ct=android
+梨园,http://gslbmgsplive.miguvideo.com/migu/kailu/ydcmc/51/20251225/index.m3u8?msisdn=762385fc576dc0aac99155e614356b73&mdspid=&spid=600697&netType=0&sid=5910022344&pid=2028597139&timestamp=20260517053225&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=961930369&ParentNodeID=-99&assertID=5910022344&client_ip=39.98.171.74&SecurityKey=20260517053225&promotionId=&mvid=5900006785&mcid=500020&playurlVersion=WX-A1-9.5.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=8a26a4ddb34843096385fa61645a9a91&ddCalcu=189ava2a96baaa544d6d1b63a4f854833069&sv=10004&ct=android
 临颍综合,http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 临颍综合,http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8
 义马新闻综合,http://tvpull.dxhmt.cn:9081/tv/11281-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
