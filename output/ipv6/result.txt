@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-18 22:33:43,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-05-19 07:42:38,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -2496,6 +2496,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 福建海峡卫视,https://t.freetv.fun/live/hai-xia-wei-shi-17.m3u8
 福建海峡卫视,https://t.freetv.fun/live/hai-xia-wei-shi-6.m3u8
 福建海峡卫视,https://t.freetv.fun/live/hai-xia-wei-shi-7.m3u8
+福建海峡卫视,http://gslbmgsplive.miguvideo.com/migu/kailu/haixiaws/51/20230724/index.m3u8?msisdn=d16bb75b645dd61dcb1f14fde3474e8c&mdspid=&spid=600717&netType=0&sid=5910022183&pid=2028597139&timestamp=20260518053348&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=849119120&ParentNodeID=-99&assertID=5910022183&client_ip=39.98.171.74&SecurityKey=20260518053348&promotionId=&mvid=5900006231&mcid=500020&playurlVersion=WX-A1-9.5.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=4fb228136c4453c2288245eb7a2cd538&ddCalcu=843fv5bad2dc2a28a173b6ec544425838c22&sv=10004&ct=android
 
 ☘️海南频道,#genre#
 海南新闻,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000111/1.m3u8
@@ -2559,6 +2560,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 梨园,http://gslbmgsplive.miguvideo.com/migu/kailu/ydcmc/51/20251225/index.m3u8?msisdn=276952aa52686a31598f6333cdf90473&mdspid=&spid=600697&netType=0&sid=5910022344&pid=2028597139&timestamp=20260515054849&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=961930369&ParentNodeID=-99&assertID=5910022344&client_ip=39.98.171.111&SecurityKey=20260515054849&promotionId=&mvid=5900006785&mcid=500020&playurlVersion=WX-A1-9.5.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=d95e166ca4166b266cf31f4c37885d94&ddCalcu=4d99vd5a5eb81a86763cca44f11636fbc266&sv=10004&ct=android
 梨园,http://gslbmgsplive.miguvideo.com/migu/kailu/ydcmc/51/20251225/index.m3u8?msisdn=a6933109367f3be4e59b719d32c3c8ae&mdspid=&spid=600697&netType=0&sid=5910022344&pid=2028597139&timestamp=20260516054009&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=961930369&ParentNodeID=-99&assertID=5910022344&client_ip=39.98.171.74&SecurityKey=20260516054009&promotionId=&mvid=5900006785&mcid=500020&playurlVersion=ZQ-A1-9.5.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=a93c55035278d3d7d16d9d7ca5619ba2&ddCalcu=2aa9vb3a9cb15a6550a3c572d798dd631dd7&sv=10004&ct=android
 梨园,http://gslbmgsplive.miguvideo.com/migu/kailu/ydcmc/51/20251225/index.m3u8?msisdn=762385fc576dc0aac99155e614356b73&mdspid=&spid=600697&netType=0&sid=5910022344&pid=2028597139&timestamp=20260517053225&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=961930369&ParentNodeID=-99&assertID=5910022344&client_ip=39.98.171.74&SecurityKey=20260517053225&promotionId=&mvid=5900006785&mcid=500020&playurlVersion=WX-A1-9.5.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=8a26a4ddb34843096385fa61645a9a91&ddCalcu=189ava2a96baaa544d6d1b63a4f854833069&sv=10004&ct=android
+梨园,http://gslbmgsplive.miguvideo.com/migu/kailu/ydcmc/51/20251225/index.m3u8?msisdn=d3e657400de06637565498213682a57c&mdspid=&spid=600697&netType=0&sid=5910022344&pid=2028597139&timestamp=20260518053422&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=961930369&ParentNodeID=-99&assertID=5910022344&client_ip=39.98.179.220&SecurityKey=20260518053422&promotionId=&mvid=5900006785&mcid=500020&playurlVersion=WX-A1-9.5.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=0c28f70483b937b53d97541fa44d3b1b&ddCalcu=b01cvb2a38bdfa4740a4f8134b597397db35&sv=10004&ct=android
 临颍综合,http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 临颍综合,http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8
 义马新闻综合,http://tvpull.dxhmt.cn:9081/tv/11281-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
