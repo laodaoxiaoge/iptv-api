@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-19 21:36:56,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-05-20 07:48:46,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -4400,6 +4400,7 @@ CCTV-15,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 鹿鼎记,http://live.iill.top/huya.php?id=23865080
 鹿鼎记,https://yylunbo.ottiptv.cc/yy/1460463356
 鹿鼎记,https://live.ottiptv.cc/yy/28265277
+鹿鼎记,http://live.ottiptv.cc/huya/23650774
 仙剑奇侠传,http://live.iill.top/yy.php?id=1382749903
 仙剑奇侠传,https://live.ottiptv.cc/bilibili/15030833
 仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903
@@ -4417,6 +4418,7 @@ CCTV-15,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 三国演义,https://live.ottiptv.cc/bilibili/1937833951
 三国演义,https://live.metshop.top/huya/11602081
 三国演义,http://cdn.jdshipin.com:8880/huya.php?id=11602081
+三国演义,http://live.ottiptv.cc/huya/11602081
 水浒传,http://www.clmy.cc:35455/yy/1353873252
 水浒传,https://yylunbo.ottiptv.cc/yy/1353852605
 水浒传,https://yylunbo.ottiptv.cc/yy/1353873252
@@ -4431,6 +4433,7 @@ CCTV-15,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 新白娘子传奇,https://yylunbo.ottiptv.cc/yy/1354490667
 新白娘子传奇,https://live.metshop.top/yy/1354490667
 新白娘子传奇,https://live.ottiptv.cc/yy/1354490667
+新白娘子传奇,http://live.ottiptv.cc/yy/1354490667
 济公游记,http://live.iill.top/yy.php?id=1355265814
 封神榜,http://luobo.bkpcp.top/yy/1353426319
 封神榜,http://www.clmy.cc:35455/yy/1353426319
