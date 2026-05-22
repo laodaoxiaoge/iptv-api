@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/laodaoxiaoge/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-05-22 21:14:04
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-05-23 07:42:20
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -2019,6 +2019,8 @@ https://t.freetv.fun/live/hu-zhou-wen-hua-yu-le-4.m3u8
 https://t.freetv.fun/live/qu-zhou-xin-wen-zong-he.m3u8
 #EXTINF:-1 tvg-name="金华教育科技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金华教育科技.png" group-title="☘️浙江频道",金华教育科技
 https://t.freetv.fun/live/jin-hua-jiao-yu-ke-ji-1.m3u8
+#EXTINF:-1 tvg-name="金华教育科技" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金华教育科技.png" group-title="☘️浙江频道",金华教育科技
+https://t.freetv.fun/live/jin-hua-jiao-yu-ke-ji.m3u8
 #EXTINF:-1 tvg-name="金华新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金华新闻综合.png" group-title="☘️浙江频道",金华新闻综合
 https://stream1.freetv.fun/jin-hua-xin-wen-zong-he-1.m3u8
 #EXTINF:-1 tvg-name="金华新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金华新闻综合.png" group-title="☘️浙江频道",金华新闻综合
@@ -2611,6 +2613,8 @@ https://t.freetv.fun/live/wu-yi-xin-wen-zong-he-4.m3u8
 https://t.freetv.fun/live/zun-yi-xin-wen-zong-he.m3u8
 #EXTINF:-1 tvg-name="义乌新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/义乌新闻综合.png" group-title="☘️浙江频道",义乌新闻综合
 https://t.freetv.fun/live/yi-ma-xin-wen-zong-he.m3u8
+#EXTINF:-1 tvg-name="义乌新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/义乌新闻综合.png" group-title="☘️浙江频道",义乌新闻综合
+https://t.freetv.fun/live/gong-yi-xin-wen-zong-he.m3u8
 #EXTINF:-1 tvg-name="中国蓝新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中国蓝新闻.png" group-title="☘️浙江频道",中国蓝新闻
 http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
 #EXTINF:-1 tvg-name="中国蓝新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中国蓝新闻.png" group-title="☘️浙江频道",中国蓝新闻
@@ -3183,6 +3187,8 @@ https://stream1.freetv.fun/you-man-qia-tong-11.m3u8
 http://live.nbs.cn/channels/njtv/xxpd/500k.m3u8?zjiangsd
 #EXTINF:-1 tvg-name="南京信息" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/南京信息.png" group-title="☘️江苏频道",南京信息
 https://t.freetv.fun/live/nan-jing-xin-xi-1.m3u8
+#EXTINF:-1 tvg-name="南京信息" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/南京信息.png" group-title="☘️江苏频道",南京信息
+https://t.freetv.fun/live/nan-jing-xin-xi.m3u8
 #EXTINF:-1 tvg-name="南京十八" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/南京十八.png" group-title="☘️江苏频道",南京十八
 http://z.b.bkpcp.top/m.php?id=njsb
 #EXTINF:-1 tvg-name="南京十八" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/南京十八.png" group-title="☘️江苏频道",南京十八
@@ -3209,6 +3215,8 @@ http://live.nbs.cn/channels/njtv/ylpd/500k.m3u8?zjiangsd
 https://t.freetv.fun/live/nan-jing-yu-le-1.m3u8
 #EXTINF:-1 tvg-name="南京娱乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/南京娱乐.png" group-title="☘️江苏频道",南京娱乐
 https://t.freetv.fun/live/jiang-su-nan-jing-yu-le.m3u8
+#EXTINF:-1 tvg-name="南京娱乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/南京娱乐.png" group-title="☘️江苏频道",南京娱乐
+https://t.freetv.fun/live/nan-jing-yu-le.m3u8
 #EXTINF:-1 tvg-name="南京少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/南京少儿.png" group-title="☘️江苏频道",南京少儿
 http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
 #EXTINF:-1 tvg-name="南京少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/南京少儿.png" group-title="☘️江苏频道",南京少儿
@@ -3277,6 +3285,8 @@ https://t.freetv.fun/live/nan-jing-sheng-huo-2.m3u8
 https://t.freetv.fun/live/nan-jing-shi-ba-sheng-huo.m3u8
 #EXTINF:-1 tvg-name="南京生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/南京生活.png" group-title="☘️江苏频道",南京生活
 https://t.freetv.fun/live/nan-jing-shi-ba-sheng-huo-1.php
+#EXTINF:-1 tvg-name="南京生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/南京生活.png" group-title="☘️江苏频道",南京生活
+https://t.freetv.fun/live/nan-jing-sheng-huo-1.m3u8
 #EXTINF:-1 tvg-name="南通新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/南通新闻综合.png" group-title="☘️江苏频道",南通新闻综合
 https://mgtv.ottiptv.cc/migu/955227985.m3u8?migutoken=03e9c85f19b5ac291f5863436507873a8f47ec3c677c7857c89bda5778edc8e38fc38b4270aa374c49eee39b39ffaf80a20b750130c27760df766c0cf7b5d437be8dc60c1ced9117d98f6c9b3e
 #EXTINF:-1 tvg-name="南通新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/南通新闻综合.png" group-title="☘️江苏频道",南通新闻综合
@@ -5377,6 +5387,8 @@ https://t.freetv.fun/live/hai-xia-wei-shi-6.m3u8
 https://t.freetv.fun/live/hai-xia-wei-shi-7.m3u8
 #EXTINF:-1 tvg-name="福建海峡卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/福建海峡卫视.png" group-title="☘️福建频道",福建海峡卫视
 http://gslbmgsplive.miguvideo.com/migu/kailu/haixiaws/51/20230724/index.m3u8?msisdn=d16bb75b645dd61dcb1f14fde3474e8c&mdspid=&spid=600717&netType=0&sid=5910022183&pid=2028597139&timestamp=20260518053348&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=849119120&ParentNodeID=-99&assertID=5910022183&client_ip=39.98.171.74&SecurityKey=20260518053348&promotionId=&mvid=5900006231&mcid=500020&playurlVersion=WX-A1-9.5.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=4fb228136c4453c2288245eb7a2cd538&ddCalcu=843fv5bad2dc2a28a173b6ec544425838c22&sv=10004&ct=android
+#EXTINF:-1 tvg-name="福建海峡卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/福建海峡卫视.png" group-title="☘️福建频道",福建海峡卫视
+http://gslbmgsplive.miguvideo.com/migu/kailu/haixiaws/51/20230724/index.m3u8?msisdn=b7a9dfe245b43a345cb25e8826a47c28&mdspid=&spid=600717&netType=0&sid=5910022183&pid=2028597139&timestamp=20260522051615&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=849119120&ParentNodeID=-99&assertID=5910022183&client_ip=39.98.87.107&SecurityKey=20260522051615&promotionId=&mvid=5900006231&mcid=500020&playurlVersion=WX-A1-9.5.1.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=4cf511e2f2bea2d4eae48d34336ea75c&ddCalcu=c45cv7faa5de1a613e324f32db8e4ae2ade4&sv=10004&ct=android
 #EXTINF:-1 tvg-name="海南新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南新闻.png" group-title="☘️海南频道",海南新闻
 http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000111/1.m3u8
 #EXTINF:-1 tvg-name="海南新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南新闻.png" group-title="☘️海南频道",海南新闻
@@ -9479,3 +9491,5 @@ https://live.metshop.top/huya/23824164
 https://live.ottiptv.cc/huya/23824164
 #EXTINF:-1 tvg-name="射雕英雄传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/射雕英雄传.png" group-title="🏛经典剧场",射雕英雄传
 https://t.freetv.fun/live/she-diao-ying-xiong-chuan-2-1.m3u8
+#EXTINF:-1 tvg-name="射雕英雄传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/射雕英雄传.png" group-title="🏛经典剧场",射雕英雄传
+https://t.freetv.fun/live/she-diao-ying-xiong-chuan-2.m3u8
