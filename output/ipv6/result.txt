@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-24 19:51:10,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-05-25 07:40:23,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1185,6 +1185,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 湖州公共民生,https://t.freetv.fun/live/hu-zhou-gong-gong-4.m3u8
 湖州公共民生,https://t.freetv.fun/live/hu-zhou-gong-gong-5.m3u8
 湖州公共民生,https://t.freetv.fun/live/hu-zhou-gong-gong-6.m3u8
+湖州公共民生,https://t.freetv.fun/live/hu-zhou-gong-gong-min-sheng.m3u8
 温州都市生活,https://t.freetv.fun/live/wen-zhou-du-shi-sheng-huo.m3u8
 温州经济科教,https://t.freetv.fun/live/jing-ji-ke-jiao.m3u8
 温州经济科教,https://t.freetv.fun/live/jing-ji-ke-jiao-gao-qing.m3u8
@@ -1317,6 +1318,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 义乌新闻综合,https://t.freetv.fun/live/zun-yi-xin-wen-zong-he.m3u8
 义乌新闻综合,https://t.freetv.fun/live/yi-ma-xin-wen-zong-he.m3u8
 义乌新闻综合,https://t.freetv.fun/live/gong-yi-xin-wen-zong-he.m3u8
+义乌新闻综合,https://t.freetv.fun/live/wu-yi-xin-wen-zong-he-2.m3u8
 中国蓝新闻,http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
 中国蓝新闻,https://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
 东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
@@ -1577,6 +1579,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 金山电视台,https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8?id=shjstv1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1777236165&ev=20250113&sign=c207ffa3c64dbbe8e324800f1160aa03
 金山电视台,https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8?id=shjstv1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1777841518&ev=20250113&sign=216ef8b1012f37f197aba2eb4ad45b06
 金山电视台,https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8?id=shjstv1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1779051612&ev=20250113&sign=fd290ef9f1e2cc3f50732f754708a8d7
+金山电视台,https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8?id=shjstv1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1779656722&ev=20250113&sign=5058284810a3132a117834cb161d8b7b
 
 ☘️重庆频道,#genre#
 江津新闻综合,https://t.freetv.fun/live/jiang-jin-xin-wen-zong-he-1.m3u8
@@ -1843,6 +1846,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 溧水新闻综合,https://migu.188766.xyz/?migutoken=b84eaba97f4efcbce0d1b8d967d04560&id=%E6%BA%A7%E6%B0%B4%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
 溧水新闻综合,https://migu.188766.xyz/?migutoken=bfd7d682861a38b691407e06b7f32f3c&id=%E6%BA%A7%E6%B0%B4%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
 滨海新闻综合,https://t.freetv.fun/live/bin-hai-xin-wen-zong-he-3.m3u8
+滨海新闻综合,https://t.freetv.fun/live/bin-hai-xin-wen-zong-he.m3u8
 睢宁三农,http://iptv.666230.xyz/iptv/jsyd.php/xzsnsn
 睢宁综合,http://iptv.666230.xyz/iptv/jsyd.php/xzsnzh
 睢宁资讯,http://iptv.666230.xyz/iptv/jsyd.php/xzsnzx
@@ -1851,6 +1855,8 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 苏州文化生活,https://t.freetv.fun/live/su-zhou-wen-hua-sheng-huo.m3u8
 苏州文化生活,https://t.freetv.fun/live/su-zhou-wen-hua-sheng-huo-3.m3u8
 苏州文化生活,https://t.freetv.fun/live/su-zhou-wen-hua-sheng-huo-2-1.m3u8
+苏州文化生活,https://t.freetv.fun/live/su-zhou-wen-hua-sheng-huo-1.m3u8
+苏州文化生活,https://t.freetv.fun/live/su-zhou-wen-hua-sheng-huo-2.m3u8
 苏州新闻综合,http://z.b.bkpcp.top/m.php?id=szxwzh
 苏州新闻综合,https://stream1.freetv.fun/su-zhou-xin-wen-zong-he-13.m3u8
 苏州新闻综合,https://stream1.freetv.fun/su-zhou-xin-wen-zong-he-2.m3u8
@@ -1867,6 +1873,8 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 苏州生活资讯,https://t.freetv.fun/live/sheng-huo-zi-xun.php
 苏州生活资讯,https://t.freetv.fun/live/su-zhou-sheng-huo-zi-xun-3.m3u8
 苏州生活资讯,https://t.freetv.fun/live/su-zhou-sheng-huo-zi-xun-2-1.m3u8
+苏州生活资讯,https://t.freetv.fun/live/su-zhou-sheng-huo-zi-xun-1.m3u8
+苏州生活资讯,https://t.freetv.fun/live/su-zhou-sheng-huo-zi-xun-2.m3u8
 苏州电影娱乐,https://t.freetv.fun/live/su-zhou-dian-ying-yu-le-xin-xi-1.flv
 苏州电影娱乐,https://t.freetv.fun/live/su-zhou-yu-le.m3u8
 苏州电影娱乐,https://t.freetv.fun/live/su-zhou-dian-ying-yu-le-xin-xi.m3u8
@@ -1876,6 +1884,8 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 苏州社会经济,https://t.freetv.fun/live/su-zhou-she-hui-jing-ji.m3u8
 苏州社会经济,https://t.freetv.fun/live/su-zhou-she-hui-jing-ji-3.m3u8
 苏州社会经济,https://t.freetv.fun/live/su-zhou-she-hui-jing-ji-2-1.m3u8
+苏州社会经济,https://t.freetv.fun/live/su-zhou-she-hui-jing-ji-1.m3u8
+苏州社会经济,https://t.freetv.fun/live/su-zhou-she-hui-jing-ji-2.m3u8
 贾汪旅游,http://jiawang-tv-replay.cm.jstv.com/jiawang-tv/jwly.m3u8
 赣榆新闻综合,http://ganyu-tv-replay.cm.jstv.com/ganyu-tv/ganyutv.m3u8?id=jsgytv1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1765742270&ev=20250113&sign=af6971ee11c1e266846d74b79287cc8b
 赣榆新闻综合,http://ganyu-tv-replay.cm.jstv.com/ganyu-tv/ganyutv.m3u8?id=jsgytv1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1766356501&ev=20250113&sign=068be656fe08cd9c101f9d7c3ab64983
@@ -1915,6 +1925,9 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 靖江新闻综合,https://t.freetv.fun/live/jing-jiang-xin-wen-zong-he-5.m3u8
 靖江新闻综合,https://t.freetv.fun/live/jing-jiang-xin-wen-zong-he-2.m3u8
 靖江新闻综合,https://t.freetv.fun/live/jing-jiang-xin-wen-zong-he-1-2.m3u8
+靖江新闻综合,https://t.freetv.fun/live/jing-jiang-xin-wen-zong-he-4.m3u8
+靖江新闻综合,https://t.freetv.fun/live/jing-jiang-xin-wen-zong-he.m3u8
+靖江新闻综合,https://t.freetv.fun/live/jing-jiang-xin-wen-zong-he-1.m3u8
 
 ☘️辽宁频道,#genre#
 朝阳新闻综合,https://t.freetv.fun/live/zhao-yang-xin-wen-zong-he-1.m3u8
@@ -2080,6 +2093,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 衡阳新闻综合,https://t.freetv.fun/live/heng-yang-xin-wen-zong-he-3.m3u8
 衡阳新闻综合,https://t.freetv.fun/live/heng-yang-xin-wen-zong-he-1.m3u8
 衡阳新闻综合,https://t.freetv.fun/live/heng-yang-xin-wen-zong-he-2.m3u8
+衡阳新闻综合,https://t.freetv.fun/live/heng-yang-xin-wen-zong-he.m3u8
 益阳新闻综合,https://t.freetv.fun/live/yi-yang-xin-wen-zong-he.m3u8
 新化新闻综合,https://t.freetv.fun/live/xin-hua-xin-wen-zong-he.m3u8
 娄底综合,http://iptv.666230.xyz/iptv/hnyx.php/ldxw
@@ -2187,6 +2201,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 江夏新闻综合,https://t.freetv.fun/live/jiang-xia-xin-wen-zong-he-1.m3u8
 江夏新闻综合,https://t.freetv.fun/live/jiang-xia-xin-wen-zong-he-1-1.flv
 崇阳新闻综合,https://t.freetv.fun/live/chong-yang-xin-wen-zong-he-1.m3u8
+崇阳新闻综合,https://t.freetv.fun/live/chong-yang-xin-wen-zong-he.m3u8
 十堰新闻,https://stream1.freetv.fun/shi-yan-xin-wen-1.m3u8
 十堰新闻,https://stream1.freetv.fun/shi-yan-xin-wen-3.m3u8
 十堰新闻,https://stream1.freetv.fun/shi-yan-xin-wen-2.m3u8
@@ -2195,6 +2210,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 十堰新闻,https://t.freetv.fun/live/shi-yan-xin-wen-6.m3u8
 十堰新闻,https://t.freetv.fun/live/shi-yan-xin-wen-7.m3u8
 保康新闻综合,https://t.freetv.fun/live/bao-kang-xin-wen-zong-he-1.m3u8
+保康新闻综合,https://t.freetv.fun/live/bao-kang-xin-wen-zong-he.m3u8
 郧阳新闻综合,https://t.freetv.fun/live/yun-yang-xin-wen-zong-he.m3u8
 荆门新闻综合,https://stream.jmtv.com.cn/xwzh/playlist.m3u8?_upt=3e28e7271664278691
 荆门新闻综合,https://stream1.freetv.fun/jing-men-xin-wen-zong-he-3.m3u8
@@ -2313,6 +2329,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 凉山新闻综合,https://t.freetv.fun/live/liang-shan-xin-wen-zong-he-1-1.m3u8
 凉山新闻综合,https://t.freetv.fun/live/liang-shan-xin-wen-zong-he-3-1.m3u8
 凉山新闻综合,https://t.freetv.fun/live/liang-shan-xin-wen-zong-he-2.m3u8
+凉山新闻综合,https://t.freetv.fun/live/liang-shan-xin-wen-zong-he-3.m3u8
 利州综合,http://iptv.666230.xyz/iptv/sxg.php/lzxwzh_2000
 剑阁综合,http://iptv.666230.xyz/iptv/sxg.php/jgxwzhH265_4000
 南充科教,http://iptv.666230.xyz/iptv/sxg.php/nckj_4000
@@ -2328,6 +2345,8 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 叙州新闻综合,https://stream1.freetv.fun/xu-zhou-xin-wen-zong-he-7.m3u8
 叙州新闻综合,https://t.freetv.fun/live/xu-zhou-xin-wen-zong-he-2.m3u8
 叙州新闻综合,https://t.freetv.fun/live/xu-zhou-xin-wen-zong-he-1-1.m3u8
+叙州新闻综合,https://t.freetv.fun/live/xu-zhou-xin-wen-zong-he-1.m3u8
+叙州新闻综合,https://t.freetv.fun/live/xu-zhou-xin-wen-zong-he.m3u8
 叙永综合,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd
 叙永综合,http://luzhi.xuyongrongmei.com:1935/live/_definst_/xyxw/playlist.m3u8?zsicd#rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd
 叙永综合,http://luzhi.xuyongrongmei.com:1935/live/_definst_/xyxw/playlist.m3u8
@@ -2359,6 +2378,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 夹江新闻综合,https://t.freetv.fun/live/jia-jiang-xin-wen-zong-he-3.m3u8
 夹江新闻综合,https://t.freetv.fun/live/jia-jiang-xin-wen-zong-he-4.m3u8
 夹江新闻综合,https://t.freetv.fun/live/jia-jiang-xin-wen-zong-he-2.m3u8
+夹江新闻综合,https://t.freetv.fun/live/jia-jiang-xin-wen-zong-he-1.m3u8
 威远新闻综合,https://t.freetv.fun/live/wei-yuan-xin-wen-zong-he.m3u8
 宁南综合,http://iptv.666230.xyz/iptv/sxg.php/nnt_4000
 宜宾公共,http://iptv.666230.xyz/iptv/sxg.php/ybetH264_2000
@@ -2410,6 +2430,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 德阳新闻综合,https://stream1.freetv.fun/de-yang-xin-wen-zong-he-2.m3u8
 德阳新闻综合,https://stream1.freetv.fun/de-yang-xin-wen-zong-he-3.m3u8
 德阳新闻综合,https://t.freetv.fun/live/de-yang-xin-wen-zong-he-1.m3u8
+德阳新闻综合,https://t.freetv.fun/live/de-yang-xin-wen-zong-he.m3u8
 成都高新电视,https://quxian.pull.cditv.cn/live/gaoxin.flv?id=sccdgx1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1765744532&ev=20250113&sign=a59f39f21335696bb02ea3b0821546ab
 成都高新电视,https://quxian.pull.cditv.cn/live/gaoxin.flv?id=sccdgx1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1766361095&ev=20250113&sign=b34ff277436af5ae29407ad6c41542d9
 成都高新电视,https://quxian.pull.cditv.cn/live/gaoxin.flv?id=sccdgx1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1766953556&ev=20250113&sign=532215358446692b10108775f95094c6
@@ -2552,6 +2573,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 雅安新闻综合,https://t.freetv.fun/live/ya-an-xin-wen-zong-he-1.m3u8
 雅安新闻综合,https://t.freetv.fun/live/ya-an-xin-wen-zong-he-3.m3u8
 雅安新闻综合,https://t.freetv.fun/live/ya-an-xin-wen-zong-he-1-1.m3u8
+雅安新闻综合,https://t.freetv.fun/live/ya-an-xin-wen-zong-he.m3u8
 雅安雨城,http://iptv.666230.xyz/iptv/sxg.php/ycpd_2000
 青川综合,http://iptv.666230.xyz/iptv/sxg.php/qcxwzhH265_4000
 青神综合,http://iptv.666230.xyz/iptv/sxg.php/qszh_2000
@@ -3563,11 +3585,13 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 滁州公共,http://live.cztv.cc:85/live/ggpd.m3u8?zanhd
 淮南新闻综合,https://t.freetv.fun/live/huai-nan-xin-wen-zong-he.m3u8
 涡阳新闻综合,https://t.freetv.fun/live/wo-yang-xin-wen-zong-he-1.m3u8
+涡阳新闻综合,https://t.freetv.fun/live/wo-yang-xin-wen-zong-he.m3u8
 池州新闻综合,https://stream1.freetv.fun/chi-zhou-xin-wen-zong-he-9.ctv
 池州新闻综合,https://t.freetv.fun/live/chi-zhou-xin-wen-zong-he-2.flv
 池州新闻综合,https://t.freetv.fun/live/chi-zhou-xin-wen-zong-he-1.flv
 广德新闻综合,https://t.freetv.fun/live/yan-de-xin-wen-zong-he-1.m3u8
 广德新闻综合,https://t.freetv.fun/live/yan-de-xin-wen-zong-he-1.flv
+广德新闻综合,https://t.freetv.fun/live/yan-de-xin-wen-zong-he.flv
 宿松新闻综合,http://live.ahsz.tv/video/s10001-szzh/index.m3u8
 宿州科教,rtmp://live.ahsz.tv/video/s10001-kxjy
 宿州科教,http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
@@ -3870,6 +3894,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 哈尔滨资讯,https://stream1.freetv.fun/ha-er-bin-zi-xun-1.m3u8
 哈尔滨资讯,https://t.freetv.fun/live/ha-er-bin-zi-xun.m3u8
 哈尔滨资讯,https://t.freetv.fun/live/ha-er-bin-zi-xun-3.m3u8
+哈尔滨资讯,https://t.freetv.fun/live/ha-er-bin-zi-xun-1.m3u8
 哈尔滨生活,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
 哈尔滨生活,http://streamings.hrbtv.net/09e35fcca53542bfa24a6b34e0fc2ff8/h264_400k_ts/index.m3u8?type=hls_live_redirect
 哈尔滨生活,https://stream1.freetv.fun/ha-er-bin-sheng-huo-4.m3u8
@@ -3895,6 +3920,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 大庆新闻综合,https://t.freetv.fun/live/da-qing-xin-wen-zong-he.m3u8
 大庆新闻综合,https://t.freetv.fun/live/da-qing-xin-wen-zong-he-1.m3u8
 大庆新闻综合,https://t.freetv.fun/live/da-zhu-xin-wen-zong-he-1.m3u8
+大庆新闻综合,https://t.freetv.fun/live/da-zhu-xin-wen-zong-he.m3u8
 大庆公共,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226525/index.m3u8
 鹤岗新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226534
 鹤岗新闻综合,http://[2409:8087:1a01:df::4059]:80/TVOD/88888888/224/3221226073/main.m3u8
