@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-29 21:25:56,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-05-30 07:47:46,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -999,6 +999,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 湖州公共,https://t.freetv.fun/live/hu-zhou-gong-gong-2.m3u8
 湖州公共,https://t.freetv.fun/live/hu-zhou-gong-gong-3.m3u8
 湖州公共,https://t.freetv.fun/live/hu-zhou-gong-gong-6.m3u8
+湖州公共,https://t.freetv.fun/live/hu-zhou-gong-gong-5.m3u8
 湖州新闻综合,https://stream1.freetv.fun/hu-zhou-xin-wen-zong-he-5.m3u8
 湖州新闻综合,https://stream1.freetv.fun/hu-zhou-xin-wen-zong-he-1.m3u8
 湖州新闻综合,https://stream1.freetv.fun/hu-zhou-xin-wen-zong-he-2.m3u8
