@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-04 08:24:55,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-06-04 21:14:51,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -4541,7 +4541,6 @@ CCTV-5+,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/
 天元围棋,http://iptv.666230.xyz/iptv/sxg.php/tywq_2000
 天元围棋,http://clnas0001.top:9981/stream/channelid/1429204105?profile=pass
 天元围棋,http://admin:admin@clnas0001.top:9981/stream/channelid/1429204105?profile=pass
-天元围棋,http://live.lizanyang.top/tv/书画.png"
 快乐垂钓,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031206
 快乐垂钓,https://hls-gateway.vpstv.net/streams/708835.m3u8
 快乐垂钓,https://cc06.tv12.xyz/56.m3u8
