@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-12 19:51:12,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-07-13 07:24:04,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -2241,6 +2241,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 北海经济科教,https://play-a2.quklive.com:443/live/1727311690820146.m3u8
 北海经济科教,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226308/index.m3u8?servicetype=1
 北海经济科教,https://play-a2.quklive.com/live/1727311690820146.m3u8?id=gxbhtv2&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1766359272&ev=20250113&sign=04cc70b3986191a51450ce6997273e57
+北海经济科教,https://play-a2.quklive.com/live/1727311690820146.m3u8?id=gxbhtv2&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1783890740&ev=20250113&sign=84c50c134c2a086b4f9729e402141369
 南宁公共,http://688b7cbf9b7a8d911a085372b6c70ab5.livehwc3.cn/hls.nntv.cn/nnlive/XWZH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d1391be1fc200f8e4700c5d82b44edae
 南宁公共,https://stream1.freetv.fun/nan-zhu-gong-gong-1.m3u8
 南宁公共,https://stream1.freetv.fun/nan-zhu-gong-gong-5.m3u8
@@ -3507,6 +3508,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 怀仁综合,http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8?zshanxd
 怀仁综合,http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8
 昔阳电视台,https://muspz2pi.live.sxmty.com/live/hls/33a3ffb76e06432cb2e535e58aa8441d/6644d056086b4f608c87db5be6d7f05e.m3u8
+柳林综合,http://pili-live-rtmp.212.i2863.com/i2863-212/live_212_336940.m3u8?id=sxllll1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1783889762&ev=20250113&sign=30fae72e058390fb303aa0189f182dfd
 武乡新闻综合,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8?zshanxd
 武乡新闻综合,https://stream1.freetv.fun/wu-xiang-xin-wen-zong-he-1.m3u8
 武乡新闻综合,https://stream1.freetv.fun/wu-xiang-xin-wen-zong-he-2.m3u8
