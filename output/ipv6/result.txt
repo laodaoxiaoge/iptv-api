@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-05 20:34:49,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-08-06 07:37:49,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -3327,7 +3327,9 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 ☘️甘肃频道,#genre#
 甘肃经济,https://hls.gstv.com.cn/49048r/10iv1j.m3u8
 甘肃公共,https://hls.gstv.com.cn/49048r/3t5xyc.m3u8
+甘肃公共,https://t.freetv.fun/live/gan-su-gong-gong.m3u8
 甘肃都市,https://hls.gstv.com.cn/49048r/l54391.m3u8
+甘肃都市,https://t.freetv.fun/live/gan-su-du-shi.m3u8
 天水公共,https://t.freetv.fun/live/tian-shui-gong-gong.m3u8
 天水公共,https://t.freetv.fun/live/tian-shui-gong-gong-1.m3u8
 天水新闻综合,https://t.freetv.fun/live/tian-shui-xin-wen-zong-he.m3u8
