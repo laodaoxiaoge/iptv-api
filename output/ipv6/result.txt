@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-23 19:00:13,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-08-24 06:58:50,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -2249,6 +2249,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 北海经济科教,https://play-a2.quklive.com/live/1727311690820146.m3u8?id=gxbhtv2&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1785705246&ev=20250113&sign=2d2f7c4e4e09d218e52cfa5dfc7ee24c
 北海经济科教,https://play-a2.quklive.com/live/1727311690820146.m3u8?id=gxbhtv2&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1786307876&ev=20250113&sign=1a691273d62a00ce7649a07b526634b1
 北海经济科教,https://play-a2.quklive.com/live/1727311690820146.m3u8?id=gxbhtv2&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1786912220&ev=20250113&sign=78661c3ed334611c4d90521e42a310fc
+北海经济科教,https://play-a2.quklive.com/live/1727311690820146.m3u8?id=gxbhtv2&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1787516777&ev=20250113&sign=ac0d346db8399638fba1f6e383358576
 南宁公共,http://688b7cbf9b7a8d911a085372b6c70ab5.livehwc3.cn/hls.nntv.cn/nnlive/XWZH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d1391be1fc200f8e4700c5d82b44edae
 南宁公共,https://stream1.freetv.fun/nan-zhu-gong-gong-1.m3u8
 南宁公共,https://stream1.freetv.fun/nan-zhu-gong-gong-5.m3u8
@@ -3525,6 +3526,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 柳林综合,http://pili-live-rtmp.212.i2863.com/i2863-212/live_212_336940.m3u8?id=sxllll1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1785704293&ev=20250113&sign=3a3ab34fca8263e2ec4d47dcc9bf4d43
 柳林综合,http://pili-live-rtmp.212.i2863.com/i2863-212/live_212_336940.m3u8?id=sxllll1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1786306893&ev=20250113&sign=68e37048bac0ba3c4419a887617970c0
 柳林综合,http://pili-live-rtmp.212.i2863.com/i2863-212/live_212_336940.m3u8?id=sxllll1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1786911179&ev=20250113&sign=9d1c6b54b6c2d01f59f68b6dc362b982
+柳林综合,http://pili-live-rtmp.212.i2863.com/i2863-212/live_212_336940.m3u8?id=sxllll1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1787515794&ev=20250113&sign=2dee1ca8e375e307508ce61ac700207c
 武乡新闻综合,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8?zshanxd
 武乡新闻综合,https://stream1.freetv.fun/wu-xiang-xin-wen-zong-he-1.m3u8
 武乡新闻综合,https://stream1.freetv.fun/wu-xiang-xin-wen-zong-he-2.m3u8
