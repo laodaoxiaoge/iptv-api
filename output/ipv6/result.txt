@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-18 22:53:09,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-09-19 08:34:07,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -4758,6 +4758,7 @@ CN卡通,https://tv123.cc.cd/live.php?ch=67112de2840
 中华小当家,http://live.iill.top/huya.php?id=11342413
 中华小当家,http://cdn.jdshipin.com:8880/huya.php?id=11342413
 中华小当家,https://cdn-3.ttvb.eu.org/huya/11342413
+中华小当家,https://cdn.ttvb.eu.org/huya/11342413
 斗破苍穹玄幻剧,https://live.metshop.top/yy/1356051105
 猫和老鼠,https://live.iill.top/huya/11352879
 猫和老鼠,http://live.iill.top/huya.php?id=11352879
@@ -4768,6 +4769,7 @@ CN卡通,https://tv123.cc.cd/live.php?ch=67112de2840
 猫和老鼠,https://lbds.us.ci/11352879
 猫和老鼠,https://live.ottiptv.cc/bilibili/8626733
 猫和老鼠,https://cdn-3.ttvb.eu.org/huya/11352879
+猫和老鼠,https://cdn.ttvb.eu.org/huya/11352879
 经典动漫,http://luobo.bkpcp.top/yy/24180320
 经典动漫,https://www.goodiptv.club/yy/22777075
 经典动漫,https://yylunbo.ottiptv.cc/yy/67857780
