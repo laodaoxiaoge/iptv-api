@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-27 23:41:12,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-09-28 09:02:02,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1258,7 +1258,6 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 文成综合,https://stream1.freetv.fun/wen-cheng-xin-wen-zong-he-2.m3u8
 文成综合,https://t.freetv.fun/live/wen-cheng-xin-wen-zong-he.m3u8
 文成新闻综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
-数码时代,http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed
 数码时代,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 德清新闻综合,https://t.freetv.fun/live/de-qing-xin-wen-zong-he-1.m3u8
 开化新闻综合,http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8?zzhed
@@ -2357,6 +2356,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 凉山新闻综合,https://t.freetv.fun/live/liang-shan-xin-wen-zong-he-3.m3u8
 利州综合,http://iptv.666230.xyz/iptv/sxg.php/lzxwzh_2000
 剑阁综合,http://iptv.666230.xyz/iptv/sxg.php/jgxwzhH265_4000
+北川电视一套,http://dcpull.sctvcloud.com/live/561c239c01881000e4bfd3e600000000/playlist.m3u8?id=scmybc1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1790550487&ev=20250113&sign=997f5bddc07a650b8b438f3db7b79c05
 南充科教,http://iptv.666230.xyz/iptv/sxg.php/nckj_4000
 南充科教,https://t.freetv.fun/live/nan-chong-ke-jiao-sheng-huo-1.flv
 南充科教,https://t.freetv.fun/live/nan-chong-ke-jiao.m3u8
@@ -3333,6 +3333,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 贵州5,http://www.qhjx.top:18000/udp/238.255.2.5:5999
 贵州6,http://www.qhjx.top:18000/udp/238.255.2.6:5999
 贵州移动电视,http://nas.jqcykj.com:88/gz/?id=13
+贵州移动电视,https://qnhi-hls.gzstv.com/livegztv-hi/CH13_hi.m3u8?id=gztv8&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1790549237&ev=20250113&sign=840cdb78e6089a00e472958bb31d0660
 遵义公共,http://www.qhjx.top:18000/udp/238.255.2.152:5999
 
 ☘️甘肃频道,#genre#
