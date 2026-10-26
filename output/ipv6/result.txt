@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-25 22:49:32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-10-26 08:36:28,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -2375,6 +2375,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 北川电视一套,http://dcpull.sctvcloud.com/live/561c239c01881000e4bfd3e600000000/playlist.m3u8?id=scmybc1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1791156266&ev=20250113&sign=73ab2b97be08522e869bffd8aba775ae
 北川电视一套,http://dcpull.sctvcloud.com/live/561c239c01881000e4bfd3e600000000/playlist.m3u8?id=scmybc1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1791762723&ev=20250113&sign=c708604ccade26608d00cffc47ac907f
 北川电视一套,http://dcpull.sctvcloud.com/live/561c239c01881000e4bfd3e600000000/playlist.m3u8?id=scmybc1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1792362782&ev=20250113&sign=893eeeee0b7d5b6f185202baa97d035e
+北川电视一套,http://dcpull.sctvcloud.com/live/561c239c01881000e4bfd3e600000000/playlist.m3u8?id=scmybc1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1792967975&ev=20250113&sign=8bc723ce35eda5de4a2b33acc2184f90
 南充科教,http://iptv.666230.xyz/iptv/sxg.php/nckj_4000
 南充科教,https://t.freetv.fun/live/nan-chong-ke-jiao-sheng-huo-1.flv
 南充科教,https://t.freetv.fun/live/nan-chong-ke-jiao.m3u8
@@ -3359,6 +3360,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 贵州移动电视,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/gzstv-mobile.m3u8
 贵州移动电视,https://qnhi-hls.gzstv.com/livegztv-hi/CH13_hi.m3u8?id=gztv8&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1791761572&ev=20250113&sign=9d3c1d70d7236b3362d82b0ece4a04f5
 贵州移动电视,https://qnhi-hls.gzstv.com/livegztv-hi/CH13_hi.m3u8?id=gztv8&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1792361544&ev=20250113&sign=5069b2e1c4a764f1873d7b328d317cb4
+贵州移动电视,https://qnhi-hls.gzstv.com/livegztv-hi/CH13_hi.m3u8?id=gztv8&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1792966815&ev=20250113&sign=5ecfa3e97174b80f58233ae6d79860e1
 遵义公共,http://www.qhjx.top:18000/udp/238.255.2.152:5999
 
 ☘️甘肃频道,#genre#
