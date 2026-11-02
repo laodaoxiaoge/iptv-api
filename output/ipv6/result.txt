@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-02 01:17:01,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-11-02 10:00:59,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1026,6 +1026,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 湖州文化娱乐,https://t.freetv.fun/live/hu-zhou-wen-hua-yu-le-3.m3u8
 湖州文化娱乐,https://t.freetv.fun/live/hu-zhou-wen-hua-yu-le-4.m3u8
 衢州新闻综合,https://t.freetv.fun/live/qu-zhou-xin-wen-zong-he.m3u8
+衢州新闻综合,https://ali-xwl.cztv.com/live/quzhouds.m3u8
 金华教育科技,https://t.freetv.fun/live/jin-hua-jiao-yu-ke-ji-1.m3u8
 金华教育科技,https://t.freetv.fun/live/jin-hua-jiao-yu-ke-ji.m3u8
 金华新闻综合,https://stream1.freetv.fun/jin-hua-xin-wen-zong-he-1.m3u8
@@ -1049,6 +1050,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 舟山新闻综合,https://t.freetv.fun/live/le-shan-xin-wen-zong-he.m3u8
 舟山新闻综合,https://t.freetv.fun/live/le-shan-xin-wen-zong-he-1.flv
 温州新闻综合,https://t.freetv.fun/live/wen-zhou-xin-wen-zong-he-1.m3u8
+温州新闻综合,https://ali-xwl.cztv.com/live/wenzhouds.m3u8
 浙江经视,http://ali-m-l.cztv.com/channels/lantian/channel003/720p.m3u8
 浙江经视,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江留学,http://ali-vl.cztv.com/channels/lantian/channel009/360p.m3u8
@@ -1703,6 +1705,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 如东新闻综合,http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8?id=jsrdtv1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1769371281&ev=20250113&sign=a75d03ef1aa14cafc1b7fa5dd789f358
 如东新闻综合,https://t.freetv.fun/live/dong-wan-xin-wen-zong-he-2.m3u8
 如东新闻综合,https://t.freetv.fun/live/dong-wan-xin-wen-zong-he.php
+姜堰新闻综合,https://jiangyan-tv-replay.cm.jstv.com/jiangyan-tv/jiangyanzh.m3u8
 宜兴新闻,https://stream1.freetv.fun/yi-xing-xin-wen-1.m3u8
 宜兴新闻,https://stream1.freetv.fun/yi-xing-xin-wen-2.m3u8
 宜兴新闻,https://t.freetv.fun/live/yi-xing-xin-wen-1.m3u8
@@ -1816,6 +1819,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 江苏教育,https://migu.188766.xyz/?migutoken=ebfb14a432d7ec7fb57fed2534bc6fe3&id=%E6%B1%9F%E8%8B%8F%E6%95%99%E8%82%B2&type=yy
 江苏教育,https://migu.188766.xyz/?migutoken=7033071779ec5fd7cf46066cc021214c&id=%E6%B1%9F%E8%8B%8F%E6%95%99%E8%82%B2&type=yy
 江苏教育,http://gslbmgsplive.miguvideo.com/wd_r2/jstv/jsjiaoyu/600/index.m3u8?msisdn=202510230801429e18fd6e59b3463fbb4cb21323871fcd&mdspid=&spid=699067&netType=0&sid=5500287493&pid=2028597139&timestamp=20251023080142&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=628008321&ParentNodeID=-99&assertID=5500287493&client_ip=106.13.250.83&SecurityKey=20251023080142&promotionId=&mvid=5101012819&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=34594832361df23b864151102172f277&ddCalcu=7374e252f982407813220316115d1f42638b
+沛县新闻综合,http://peixian-tv-replay.cm.jstv.com/peixian-tv/pxzh.m3u8
 沭阳综合,https://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
 泗洪新闻综合,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd#http://live1.habctv.com/ggpdsl/sd/live.m3u8
 泗洪新闻综合,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd
@@ -2309,6 +2313,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 广西新闻,https://t.freetv.fun/live/yan-xi-xin-wen-2.m3u8
 广西新闻,https://t.freetv.fun/live/yan-xi-xin-wen-3.m3u8
 广西新闻,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/gxtv-xw.m3u8
+广西新闻,https://mobilelive.gxtv.cn/live/nn_live1007/playlist.m3u8
 北海新闻,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226309/index.m3u8?servicetype=1
 广西国际,https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
 广西国际,http://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8?fbl=
@@ -2376,6 +2381,8 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 北川电视一套,http://dcpull.sctvcloud.com/live/561c239c01881000e4bfd3e600000000/playlist.m3u8?id=scmybc1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1791762723&ev=20250113&sign=c708604ccade26608d00cffc47ac907f
 北川电视一套,http://dcpull.sctvcloud.com/live/561c239c01881000e4bfd3e600000000/playlist.m3u8?id=scmybc1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1792362782&ev=20250113&sign=893eeeee0b7d5b6f185202baa97d035e
 北川电视一套,http://dcpull.sctvcloud.com/live/561c239c01881000e4bfd3e600000000/playlist.m3u8?id=scmybc1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1792967975&ev=20250113&sign=8bc723ce35eda5de4a2b33acc2184f90
+北川电视一套,http://dcpull.sctvcloud.com/live/561c239c01881000e4bfd3e600000000/playlist.m3u8?id=scmybc1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1793576996&ev=20250113&sign=cf4b87e7499f09df061fab76d9a05ec8
+北川电视一套,http://dcpull.sctvcloud.com/live/561c239c01881000e4bfd3e600000000/playlist.m3u8
 南充科教,http://iptv.666230.xyz/iptv/sxg.php/nckj_4000
 南充科教,https://t.freetv.fun/live/nan-chong-ke-jiao-sheng-huo-1.flv
 南充科教,https://t.freetv.fun/live/nan-chong-ke-jiao.m3u8
@@ -3361,6 +3368,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 贵州移动电视,https://qnhi-hls.gzstv.com/livegztv-hi/CH13_hi.m3u8?id=gztv8&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1791761572&ev=20250113&sign=9d3c1d70d7236b3362d82b0ece4a04f5
 贵州移动电视,https://qnhi-hls.gzstv.com/livegztv-hi/CH13_hi.m3u8?id=gztv8&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1792361544&ev=20250113&sign=5069b2e1c4a764f1873d7b328d317cb4
 贵州移动电视,https://qnhi-hls.gzstv.com/livegztv-hi/CH13_hi.m3u8?id=gztv8&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1792966815&ev=20250113&sign=5ecfa3e97174b80f58233ae6d79860e1
+贵州移动电视,https://qnhi-hls.gzstv.com/livegztv-hi/CH13_hi.m3u8?id=gztv8&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1793575792&ev=20250113&sign=d23cd1b136536213e78c75b8c1cfcd86
 遵义公共,http://www.qhjx.top:18000/udp/238.255.2.152:5999
 
 ☘️甘肃频道,#genre#
@@ -3846,6 +3854,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 文山州公共,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8?zyund
 文山州新闻综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8?zyund
 文山州新闻综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
+文山州新闻综合,https://m3u8.channel.wsrtv.com.cn/nmip-media/channellive/channel103390/playlist.m3u8
 昆明公共,http://wshls.live.migucloud.com/live/UD0YLY2G_C0_3/playlist.m3u8
 昆明影综艺,https://t.freetv.fun/live/kun-ming-ying-zong-yi.m3u8
 昆明影综艺,https://t.freetv.fun/live/kun-ming-ying-zong-yi-1.m3u8
