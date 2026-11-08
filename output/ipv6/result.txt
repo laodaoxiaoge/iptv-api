@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-08 00:52:24,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-11-08 09:49:31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -971,6 +971,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 之江纪录,http://ali-xwl.cztv.com/live/channel121080Pnew.m3u8
 之江纪录,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/cztv-112.m3u8
 之江纪录,https://ysp.jqcykj.cn/zj_zhijiangjilu/playlist.m3u8
+之江纪录,https://ysp.lml1971.ccwu.cc/zj_zhijiangjilu/playlist.m3u8
 浙江国际,http://zwebl02.cztv.com/live/channel101080P.m3u8?auth_key=2524708799-0-0-c9473fea1da3eff0f29f4c9cf2b36519
 浙江国际,http://zhfivel02.cztv.com/channel10/1080p.m3u8?auth_key=2524708799-0-0-646cad31c1d94b002a325cd75475d30f
 浙江国际,https://ct-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
@@ -2047,6 +2048,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 湖南爱晚,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-9.m3u8
 湖南爱晚,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/mgtv-261.m3u8
 湖南爱晚,https://ysp.jqcykj.cn/mg_hnaw/playlist.m3u8
+湖南爱晚,https://ysp.lml1971.ccwu.cc/mg_hnaw/playlist.m3u8
 湖南教育,https://stream1.freetv.fun/hu-nan-jiao-yu-1.m3u8
 湖南教育,https://stream1.freetv.fun/hu-nan-jiao-yu-2.m3u8
 湖南教育,https://stream1.freetv.fun/hu-nan-jiao-yu-6.ctv
@@ -3728,6 +3730,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 ☘️宁夏频道,#genre#
 宁夏公共,https://t.freetv.fun/live/zhu-xia-gong-gong-1.m3u8
 宁夏公共,https://t.freetv.fun/live/zhu-xia-gong-gong.m3u8
+宁夏公共,http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=5
 宁夏经济,https://ls.qingting.fm/live/1841/64k.m3u8
 宁夏经济,https://hlsbkmgsplive.miguvideo.com/migu/kailu/nxjj/57/20251225/01.m3u8?HlsSubType=&encrypt=&id=nxjj&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1769371582&ev=20250113&sign=64eeab735c5d740c241bed7069bb7c46
 宁夏经济,https://hlsbkmgsplive.miguvideo.com/migu/kailu/nxjj/57/20251225/01.m3u8?HlsSubType=&encrypt=&id=nxjj&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1769976790&ev=20250113&sign=d0cdbcc80c354ab7b12e0d8266b0d8c6
@@ -3793,6 +3796,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 吉林乡村,https://t.freetv.fun/live/ji-lin-xiang-cun-1-1.m3u8
 吉林乡村,http://nas.jqcykj.com:88/jl/?id=1536
 吉林乡村,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jlntv-rural.m3u8
+吉林乡村,http://gslbmgsplive.miguvideo.com/migu/kailu/jlxcpd/50/20261014/index.m3u8?msisdn=20261107092234eb80bac534ee40c19976850b4b8ec539&mdspid=&spid=600572&netType=0&sid=5910022521&pid=2028597139&timestamp=20261107092234&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=968553176&ParentNodeID=-99&assertID=5910022521&client_ip=2409:8a00:6040:4f61:dd7d:7574:ec98:e2a8&SecurityKey=20261107092234&promotionId=&mvid=5900006891&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=b49222ad198cb0f0f6c77c9b0e6462c6&ddCalcu=6bc4e29062842062ea0db199c87c7bc06ff0
 长白新闻综合,http://hplayer1.juyun.tv/camera/11347146.m3u8?id=jlbscb1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1765742108&ev=20250113&sign=ac0e64cdd705e740a525e82aa2e146a1
 长白新闻综合,http://hplayer1.juyun.tv/camera/11347146.m3u8?id=jlbscb1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1766356343&ev=20250113&sign=fcf9b829b364a9d4a1047cf891e463c1
 长白新闻综合,http://hplayer1.juyun.tv/camera/11347146.m3u8?id=jlbscb1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1766951556&ev=20250113&sign=4491000b9977bee03a1338e0f4531eb3
