@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/laodaoxiaoge/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-11-09 01:09:22
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-11-09 10:13:31
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -4711,6 +4711,8 @@ http://dcpull.sctvcloud.com/live/561c239c01881000e4bfd3e600000000/playlist.m3u8?
 http://dcpull.sctvcloud.com/live/561c239c01881000e4bfd3e600000000/playlist.m3u8?id=scmybc1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1793576996&ev=20250113&sign=cf4b87e7499f09df061fab76d9a05ec8
 #EXTINF:-1 tvg-name="北川电视一套" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北川电视一套.png" group-title="☘️四川频道",北川电视一套
 http://dcpull.sctvcloud.com/live/561c239c01881000e4bfd3e600000000/playlist.m3u8
+#EXTINF:-1 tvg-name="北川电视一套" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北川电视一套.png" group-title="☘️四川频道",北川电视一套
+http://dcpull.sctvcloud.com/live/561c239c01881000e4bfd3e600000000/playlist.m3u8?id=scmybc1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1794181835&ev=20250113&sign=525d194245b71b97d1945dd42e47b380
 #EXTINF:-1 tvg-name="南充科教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/南充科教.png" group-title="☘️四川频道",南充科教
 http://iptv.666230.xyz/iptv/sxg.php/nckj_4000
 #EXTINF:-1 tvg-name="南充科教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/南充科教.png" group-title="☘️四川频道",南充科教
@@ -6659,6 +6661,8 @@ https://qnhi-hls.gzstv.com/livegztv-hi/CH13_hi.m3u8?id=gztv8&app=com.jiaoxiang.f
 https://qnhi-hls.gzstv.com/livegztv-hi/CH13_hi.m3u8?id=gztv8&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1792966815&ev=20250113&sign=5ecfa3e97174b80f58233ae6d79860e1
 #EXTINF:-1 tvg-name="贵州移动电视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/贵州移动电视.png" group-title="☘️贵州频道",贵州移动电视
 https://qnhi-hls.gzstv.com/livegztv-hi/CH13_hi.m3u8?id=gztv8&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1793575792&ev=20250113&sign=d23cd1b136536213e78c75b8c1cfcd86
+#EXTINF:-1 tvg-name="贵州移动电视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/贵州移动电视.png" group-title="☘️贵州频道",贵州移动电视
+https://qnhi-hls.gzstv.com/livegztv-hi/CH13_hi.m3u8?id=gztv8&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1794180683&ev=20250113&sign=a210ebf2b72c929d032e87fc88be90b8
 #EXTINF:-1 tvg-name="遵义公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/遵义公共.png" group-title="☘️贵州频道",遵义公共
 http://www.qhjx.top:18000/udp/238.255.2.152:5999
 #EXTINF:-1 tvg-name="甘肃经济" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/甘肃经济.png" group-title="☘️甘肃频道",甘肃经济
@@ -7483,6 +7487,8 @@ http://nas.jqcykj.com:88/jl/?id=1536
 http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/proxy/jlntv-rural.m3u8
 #EXTINF:-1 tvg-name="吉林乡村" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林乡村.png" group-title="☘️吉林频道",吉林乡村
 http://gslbmgsplive.miguvideo.com/migu/kailu/jlxcpd/50/20261014/index.m3u8?msisdn=20261107092234eb80bac534ee40c19976850b4b8ec539&mdspid=&spid=600572&netType=0&sid=5910022521&pid=2028597139&timestamp=20261107092234&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=968553176&ParentNodeID=-99&assertID=5910022521&client_ip=2409:8a00:6040:4f61:dd7d:7574:ec98:e2a8&SecurityKey=20261107092234&promotionId=&mvid=5900006891&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=b49222ad198cb0f0f6c77c9b0e6462c6&ddCalcu=6bc4e29062842062ea0db199c87c7bc06ff0
+#EXTINF:-1 tvg-name="吉林乡村" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林乡村.png" group-title="☘️吉林频道",吉林乡村
+http://gslbmgsplive.miguvideo.com/migu/kailu/jlxcpd/50/20261014/index.m3u8?msisdn=20261108092236d9d5143311064e6aae8befd5cba6ad78&mdspid=&spid=600572&netType=0&sid=5910022521&pid=2028597139&timestamp=20261108092236&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=968553176&ParentNodeID=-99&assertID=5910022521&client_ip=2409:8a00:6040:4f61:72ea:142:8093:9690&SecurityKey=20261108092236&promotionId=&mvid=5900006891&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=f491abae6735148f624485abea4757c7&ddCalcu=7fc4e7905187a04baaeeb6a753854144286f
 #EXTINF:-1 tvg-name="长白新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/长白新闻综合.png" group-title="☘️吉林频道",长白新闻综合
 http://hplayer1.juyun.tv/camera/11347146.m3u8?id=jlbscb1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1765742108&ev=20250113&sign=ac0e64cdd705e740a525e82aa2e146a1
 #EXTINF:-1 tvg-name="长白新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/长白新闻综合.png" group-title="☘️吉林频道",长白新闻综合
