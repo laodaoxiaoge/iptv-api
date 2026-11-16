@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-16 01:36:39,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-11-16 10:23:04,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1265,6 +1265,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 文成综合,https://stream1.freetv.fun/wen-cheng-xin-wen-zong-he-2.m3u8
 文成综合,https://t.freetv.fun/live/wen-cheng-xin-wen-zong-he.m3u8
 文成新闻综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
+数码时代,http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed
 数码时代,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 德清新闻综合,https://t.freetv.fun/live/de-qing-xin-wen-zong-he-1.m3u8
 开化新闻综合,http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8?zzhed
@@ -2396,6 +2397,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 北川电视一套,http://dcpull.sctvcloud.com/live/561c239c01881000e4bfd3e600000000/playlist.m3u8?id=scmybc1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1793576996&ev=20250113&sign=cf4b87e7499f09df061fab76d9a05ec8
 北川电视一套,http://dcpull.sctvcloud.com/live/561c239c01881000e4bfd3e600000000/playlist.m3u8
 北川电视一套,http://dcpull.sctvcloud.com/live/561c239c01881000e4bfd3e600000000/playlist.m3u8?id=scmybc1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1794181835&ev=20250113&sign=525d194245b71b97d1945dd42e47b380
+北川电视一套,http://dcpull.sctvcloud.com/live/561c239c01881000e4bfd3e600000000/playlist.m3u8?id=scmybc1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1794789221&ev=20250113&sign=a30cf818a9521930390f6c99428625f4
 南充科教,http://iptv.666230.xyz/iptv/sxg.php/nckj_4000
 南充科教,https://t.freetv.fun/live/nan-chong-ke-jiao-sheng-huo-1.flv
 南充科教,https://t.freetv.fun/live/nan-chong-ke-jiao.m3u8
@@ -3388,6 +3390,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 贵州移动电视,https://qnhi-hls.gzstv.com/livegztv-hi/CH13_hi.m3u8?id=gztv8&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1792966815&ev=20250113&sign=5ecfa3e97174b80f58233ae6d79860e1
 贵州移动电视,https://qnhi-hls.gzstv.com/livegztv-hi/CH13_hi.m3u8?id=gztv8&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1793575792&ev=20250113&sign=d23cd1b136536213e78c75b8c1cfcd86
 贵州移动电视,https://qnhi-hls.gzstv.com/livegztv-hi/CH13_hi.m3u8?id=gztv8&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1794180683&ev=20250113&sign=a210ebf2b72c929d032e87fc88be90b8
+贵州移动电视,https://qnhi-hls.gzstv.com/livegztv-hi/CH13_hi.m3u8?id=gztv8&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1794788018&ev=20250113&sign=4291fe4ecbb477cdc7b809753cc09208
 遵义公共,http://www.qhjx.top:18000/udp/238.255.2.152:5999
 
 ☘️甘肃频道,#genre#
@@ -3412,6 +3415,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 甘肃少儿,https://hls.gstv.com.cn/9hvng2/23ol9u.m3u8
 甘肃少儿,https://t.freetv.fun/live/gan-su-shao-er.m3u8
 甘肃少儿,http://itv.fj.cn:32/u/tcDFbOiD0wb-IHSDEqJHkNQC/relay/gansu-4.m3u8
+甘肃少儿,https://live.gstv.com.cn/live/456r6be.m3u8
 酒泉综合,https://3ee63cd9178a070a2db29f77915c49d4.livehwc3.cn/play.kankanlive.com/live/1702033926169975.m3u8
 
 ☘️新疆频道,#genre#
