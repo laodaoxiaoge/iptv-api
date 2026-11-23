@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-23 02:23:14,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-11-23 11:07:44,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -2397,6 +2397,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 北川电视一套,http://dcpull.sctvcloud.com/live/561c239c01881000e4bfd3e600000000/playlist.m3u8
 北川电视一套,http://dcpull.sctvcloud.com/live/561c239c01881000e4bfd3e600000000/playlist.m3u8?id=scmybc1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1794181835&ev=20250113&sign=525d194245b71b97d1945dd42e47b380
 北川电视一套,http://dcpull.sctvcloud.com/live/561c239c01881000e4bfd3e600000000/playlist.m3u8?id=scmybc1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1794789221&ev=20250113&sign=a30cf818a9521930390f6c99428625f4
+北川电视一套,http://dcpull.sctvcloud.com/live/561c239c01881000e4bfd3e600000000/playlist.m3u8?id=scmybc1&app=com.jiaoxiang.fangnale&version=2.3.4&mac=fu%3Ack%3A92%3A92%3Aff&utk=&nwtime=1795396547&ev=20250113&sign=400ef3fef6ae1bf20be4204b94d87990
 南充科教,http://iptv.666230.xyz/iptv/sxg.php/nckj_4000
 南充科教,https://t.freetv.fun/live/nan-chong-ke-jiao-sheng-huo-1.flv
 南充科教,https://t.freetv.fun/live/nan-chong-ke-jiao.m3u8
