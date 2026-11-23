@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-23 11:07:44,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-11-24 06:36:29,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -4442,6 +4442,7 @@ IPTV经典电影,http://tv.zhangzp.top:4022/udp/239.125.1.28:5000?id=iptvjddy&ap
 龙祥电影,https://smt.858.qzz.io/Smart.php?id=lungxiangtime_twn
 龙祥电影,https://smt.go-iptv.ggff.net/smart.php?id=lungxiangtime_twn&token=Goiptv
 龙祥电影,http://kaniptv.com/xz/xz.php?name=%E9%BE%99%E7%A5%A5%E7%94%B5%E5%BD%B1&index=0
+龙祥电影,https://epg.pw/stream/2b3cd7837810fc1db41fef2ff391b68aecffb09d57febe61d20bde39187865e7.m3u8
 东森洋片,https://stream1.freetv.fun/dong-sen-yang-pian-3.m3u8
 东森洋片,http://s1.an94tv.cfd/aktv2/CH-2/AKTV.m3u8
 东森洋片,https://hls-gateway.vpstv.net/streams/476997.m3u8
