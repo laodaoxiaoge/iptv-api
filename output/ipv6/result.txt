@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-25 05:16:54,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-11-25 13:33:49,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -2315,8 +2315,8 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 灌阳新闻综合,https://mobilelive.gxtv.cn/live/gx_live1007/playlist.m3u8
 灌阳新闻综合,https://t.freetv.fun/live/guan-yang-xin-wen-zong-he.m3u8
 田东综合,http://pulls.myun.tv/live/0dkp33j5.m3u8
-贺州综合,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226296/index.m3u8?servicetype=1
 贺州综合,http://zhz.gxhzxw.com:2935/live/HZXW-HD/chunklist.m3u8
+贺州综合,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226296/index.m3u8?servicetype=1
 广西新闻,https://mobilelive.gxtv.cn/live/gx_live1007/playlist.m3u8
 广西新闻,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226285/index.m3u8?servicetype=1
 广西新闻,https://tv.gxtv.cn/channel/channelivePlay_9dfd8600075811e9ba67e41f13b60c62.html
